@@ -24,3 +24,8 @@ def get_intra(ticker, interval = '1min'):
     df.index = df['timestamp'].map(lambda x: datetime.strptime(x, '%Y-%m-%d %X'))
     df = df.drop(['timestamp'], axis = 1)
     return df
+
+if __name__ == '__main__':
+    raw_input = str(input)
+    df = get_daily(raw_input)
+    print (df)
