@@ -1,0 +1,18 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,BAC,Bank Of America...,"278,210",bmo,0.44,--,--,--,-0.19%
+1,GS,The Goldman Sac...,"76,058",bmo,4.90,--,--,--,-1.86%
+2,KMI,"Kinder Morgan,...","47,788",amc,0.18,--,--,--,-2.86%
+3,AA,Alcoa Corp.,"4,291",amc,1.23,--,--,--,-7.00%
+4,USB,U.s. Bancorp,"85,462",bmo,0.87,--,--,--,-1.45%
+5,SCHW,The Charles Sch...,"54,548",bmo,0.41,--,--,--,1.01%
+6,FAST,Fastenal Compan...,"18,366",bmo,0.23,--,--,--,-5.84%
+7,ASML,Asml Holding N....,"88,367",bmo,1.25,--,--,--,6.87%
+8,PTC,Ptc Inc.,"10,679",amc,0.30,--,--,--,4.87%
+9,SLM,Slm Corporation...,"4,210",amc,0.19,--,--,--,-2.26%
+10,WAFD,Washington Fede...,"2,828",--,0.51,--,--,--,--
+11,EGBN,"Eagle Bancorp,...","1,904",amc,0.89,--,--,--,-1.21%
+12,PLXS,Plexus Corp.,"1,787",amc,0.80,--,--,--,-6.59%
+13,BPFH,Boston Private...,"1,020",amc,0.23,--,--,--,-0.95%
+14,CTBI,Community Trust...,752,--,0.76,--,--,--,--
+15,NVEC,Nve Corporation...,334,amc,0.63,--,--,--,-0.52%
+16,FCCO,First Community...,152,--,0.29,--,--,--,--

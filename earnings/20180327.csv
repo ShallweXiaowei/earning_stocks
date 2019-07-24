@@ -1,0 +1,12 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,LULU,Lululemon Athle...,"23,868",amc,1.27,--,--,--,9.21%
+1,RH,Restoration Har...,"2,252",amc,1.56,--,--,--,22.48%
+2,SCVL,"Shoe Carnival,...",423,amc,0.07,--,--,--,-5.14%
+3,MKC,Mccormick & Com...,"21,395",bmo,0.91,--,--,--,0.36%
+4,INFO,Ihs Markit Ltd....,"25,916",bmo,0.49,--,--,--,1.19%
+5,FDS,Factset Researc...,"11,298",bmo,2.05,--,--,--,-3.93%
+6,TEUM,Pareteum Corp.,317,amc,-0.08,--,--,--,-15.58%
+7,APTO,Aptose Bioscien...,167,amc,-0.11,--,--,--,-14.16%
+8,ALNA,Allena Pharmace...,103,--,-0.27,--,--,--,--
+9,CLSN,Celsion Corpora...,36,bmo,-0.29,--,--,--,-4.35%
+10,FRAN,Francesca's Hol...,15,bmo,2.40,--,--,--,-4.37%

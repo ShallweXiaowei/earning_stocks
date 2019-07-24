@@ -1,0 +1,14 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,UNH,Unitedhealth Gr...,"234,725",bmo,2.50,--,--,--,1.86%
+1,C,Citigroup Inc.,"165,110",bmo,1.19,--,--,--,0.35%
+2,CSX,Csx Corporation...,"63,438",amc,0.56,--,--,--,-0.76%
+3,CMA,Comerica Incorp...,"11,251",bmo,1.21,--,--,--,0.81%
+4,IBKR,Interactive Bro...,"22,713",amc,0.39,--,--,--,0.26%
+5,FRC,First Republic...,"16,766",bmo,1.15,--,--,--,-4.13%
+6,INFO,Ihs Markit Ltd....,"25,916",bmo,0.51,--,--,--,0.29%
+7,PNFP,Pinnacle Financ...,"4,448",amc,0.97,--,--,--,-4.13%
+8,RNST,Renasant Corpor...,"2,115",amc,0.61,--,--,--,0.68%
+9,ADTN,"Adtran, Inc.",734,amc,-0.04,--,--,--,-3.33%
+10,NCBS,Nicolet Banksha...,601,--,0.87,--,--,--,--
+11,MBWM,Mercantile Bank...,538,--,0.50,--,--,--,--
+12,BMRA,"Biomerica, Inc....",26,--,-0.04,--,--,--,--

@@ -1,0 +1,8 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,LW,Lamb Weston Hol...,"9,411",bmo,0.80,0.91,+0.11 ,+13.75% ,3.43%
+1,CONN,"Conn's, Inc.",569,bmo,0.49,--,--,--,-14.30%
+2,SCHN,Schnitzer Steel...,667,bmo,0.91,--,--,--,2.52%
+3,RPM,Rpm Internation...,"8,158",bmo,0.18,0.21,+0.03 ,+16.67% ,2.22%
+4,WDFC,Wd-40 Company,"2,249",amc,0.95,1.05,+0.10 ,+10.53% ,-3.27%
+5,PSMT,"Pricesmart, Inc...","1,559",amc,0.89,0.89,0.00 ,0.00% ,5.47%
+6,TMQ,Trilogy Metals...,404,--,-0.02,-0.03,-0.01 ,-50.00% ,--

@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,MOMO,Momo Inc.,"6,984",bmo,0.54,0.59,+0.05 ,+9.26% ,11.95%
+1,NOG,Northern Oil An...,608,bmo,0.14,0.25,+0.11 ,+78.57% ,6.76%
+2,HCHC,"Hc2 Holdings, I...",91,amc,-0.16,-0.47,-0.31 ,-193.75% ,-12.82%
+3,DKS,Dick's Sporting...,"3,417",bmo,1.07,1.07,0.00 ,0.00% ,-11.01%
+4,CRBP,Corbus Pharmace...,390,bmo,-0.22,-0.30,-0.08 ,-36.36% ,0.50%
+5,UUUU,Energy Fuels In...,185,--,-0.08,-0.10,-0.02 ,-25.00% ,--
+6,BGSF,Bg Staffing Inc...,186,bmo,0.39,0.47,+0.08 ,+20.51% ,-5.55%
+7,VSTM,"Verastem, Inc.",106,amc,-0.54,-0.37,+0.17 ,+31.48% ,3.40%
+8,ZAGG,Zagg Inc,217,amc,0.49,0.55,+0.06 ,+12.24% ,-11.08%
+9,CARA,Cara Therapeuti...,"1,030",amc,-0.59,-0.52,+0.07 ,+11.86% ,11.76%
+10,RC,Ready Capital C...,666,amc,0.43,0.34,-0.09 ,-20.93% ,-3.65%
+11,BTG,B2gold Corp,"3,339",amc,0.02,0.01,-0.01 ,-50.00% ,-4.18%
+12,HK,Halcon Resource...,28,--,-0.10,-0.09,+0.01 ,+10.00% ,--
+13,INO,Inovio Pharmace...,274,amc,-0.30,-0.34,-0.04 ,-13.33% ,2.53%
+14,GH,Guardant Health...,"8,158",--,-0.36,--,--,--,--
+15,ADXS,"Advaxis, Inc.",10,--,-4.20,2.25,+6.45 ,+153.57% ,--
+16,CLNE,Clean Energy Fu...,561,amc,-0.03,-0.01,+0.02 ,+66.67% ,28.63%
+17,PEIX,Pacific Ethanol...,32,amc,-0.24,-0.74,-0.50 ,-208.33% ,-11.19%
+18,BLCM,Bellicum Pharma...,74,amc,-0.59,-0.63,-0.04 ,-6.78% ,4.28%
+19,EVRI,Everi Holdings...,827,amc,-0.05,-0.04,+0.01 ,+20.00% ,11.54%
+20,PETX,Aratana Therape...,NA,amc,-0.11,--,--,--,4.90%
+21,TSQ,Townsquare Medi...,105,bmo,0.26,0.26,0.00 ,0.00% ,-1.82%
+22,SENS,Senseonics Hold...,204,amc,-0.15,-0.04,+0.11 ,+73.33% ,-3.26%
+23,ZTO,Zto Express (ca...,"9,972",amc,0.23,0.24,+0.01 ,+4.35% ,-3.60%
+24,COHU,"Cohu, Inc.",575,amc,0.19,0.24,+0.05 ,+26.32% ,-7.16%

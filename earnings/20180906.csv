@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,AVGO,Broadcom Inc.,"112,519",amc,4.83,4.98,+0.15 ,+3.11% ,7.69%
+1,PANW,Palo Alto Netwo...,"20,099",amc,1.17,1.28,+0.11 ,+9.40% ,3.29%
+2,OKTA,"Okta, Inc.","14,577",amc,-0.20,-0.15,+0.05 ,+25.00% ,19.47%
+3,MRVL,Marvell Technol...,"16,071",amc,0.34,0.28,-0.06 ,-17.65% ,-0.05%
+4,FIVE,"Five Below, Inc...","7,133",amc,0.38,0.42,+0.04 ,+10.53% ,13.31%
+5,EGAN,Egain Corporati...,242,amc,0.01,0.01,0.00 ,0.00% ,-31.24%
+6,MCFT,Mastercraft Boa...,393,amc,0.51,0.66,+0.15 ,+29.41% ,16.36%
+7,GME,Gamestop Corp.,565,amc,0.08,0.05,-0.03 ,-37.50% ,-0.06%
+8,FCEL,Fuelcell Energy...,22,bmo,-2.28,-2.40,-0.12 ,-5.26% ,-4.16%
+9,GIII,G-iii Apparel G...,"1,418",bmo,0.02,0.22,+0.20 ,"+1,000.00% ",4.52%
+10,MBUU,"Malibu Boats, I...",834,bmo,0.60,0.76,+0.16 ,+26.67% ,5.49%
+11,FNSR,Finisar Corpora...,"2,781",amc,0.12,0.18,+0.06 ,+50.00% ,7.47%
+12,DOMO,"Domo, Inc.",777,amc,-3.94,--,--,--,-11.33%
+13,KFY,Korn/ferry Inte...,"2,207",amc,0.72,0.78,+0.06 ,+8.33% ,-23.45%
+14,NAV,Navistar Intern...,"3,357",bmo,0.93,1.19,+0.26 ,+27.96% ,-8.47%
+15,ZUMZ,Zumiez Inc.,667,amc,0.13,0.17,+0.04 ,+30.77% ,0.17%
+16,FIZZ,National Bevera...,"2,121",--,1.03,1.04,+0.01 ,+0.97% ,--
+17,ABM,Abm Industries...,"2,703",amc,0.54,0.57,+0.03 ,+5.56% ,7.01%
+18,DCI,Donaldson Compa...,"6,360",bmo,0.58,0.58,0.00 ,0.00% ,6.56%
+19,JW.A,John Wiley & So...,"2,614",bmo,0.50,0.43,-0.07 ,-14.00% ,-11.02%
+20,PSDO,"Presidio, Inc.","1,161",amc,0.33,0.34,+0.01 ,+3.03% ,6.83%
+21,NX,Quanex Building...,615,amc,0.32,0.33,+0.01 ,+3.13% ,18.96%
+22,SECO,Secoo Holding L...,162,bmo,0.15,--,--,--,-8.92%
+23,ASPU,Aspen Group Inc...,80,amc,-0.12,-0.15,-0.03 ,-25.00% ,4.26%
+24,SOL,Renesola Ltd.,49,bmo,0.03,-0.02,-0.05 ,-166.67% ,-3.33%

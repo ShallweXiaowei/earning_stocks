@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,ABBV,Abbvie Inc.,"107,903",bmo,1.40,--,--,--,-1.80%
+1,XOM,Exxon Mobil Cor...,"322,113",bmo,0.83,--,--,--,-1.52%
+2,MRK,"Merck & Co., In...","220,390",bmo,0.87,--,--,--,0.66%
+3,CVX,Chevron Corpora...,"235,311",bmo,0.89,--,--,--,1.89%
+4,ARCB,Arcbest Corpora...,695,bmo,0.48,--,--,--,25.35%
+5,AAL,American Airlin...,"14,439",bmo,1.87,--,--,--,0.98%
+6,IRM,Iron Mountain I...,"9,063",bmo,0.52,--,--,--,1.24%
+7,VTR,"Ventas, Inc.","25,014",bmo,1.05,--,--,--,-0.43%
+8,BCS,Barclays Plc,"33,536",bmo,0.13,--,--,--,-0.46%
+9,TRP,Transcanada Cor...,"46,291",bmo,0.50,--,--,--,1.11%
+10,E,Eni Spa,"59,346",bmo,0.09,--,--,--,0.13%
+11,WY,Weyerhaeuser Co...,"19,819",bmo,0.27,--,--,--,-3.77%
+12,LYB,Lyondellbasell...,"32,374",bmo,2.71,--,--,--,3.88%
+13,GT,The Goodyear Ti...,"3,491",bmo,0.72,--,--,--,-8.63%
+14,IRMD,Iradimed Corpor...,219,bmo,0.01,--,--,--,16.67%
+15,OSB,Norbord Inc.,"2,046",bmo,1.11,--,--,--,0.87%
+16,HTHIY,Hitachi Ltd.,"36,822",--,0.66,--,--,--,--
+17,UFS,Domtar Corporat...,"2,703",bmo,0.53,--,--,--,2.18%
+18,AXL,American Axle &...,"1,320",bmo,0.86,--,--,--,-3.56%
+19,POR,Portland Genera...,"4,916",bmo,0.44,--,--,--,-2.16%
+20,BHGE,"Baker Hughes, A...","25,461",bmo,0.16,--,--,--,2.60%
+21,IMGN,"Immunogen, Inc....",357,bmo,-0.14,--,--,--,14.29%
+22,YNDX,Yandex N.v.,"12,729",bmo,0.23,--,--,--,-4.00%
+23,CMS,Cms Energy Corp...,"16,662",bmo,0.41,--,--,--,-1.26%
+24,PEG,Public Service...,"30,108",bmo,0.57,--,--,--,1.40%

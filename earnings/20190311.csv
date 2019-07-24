@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,SFIX,"Stitch Fix, Inc...","2,714",amc,0.05,--,--,--,25.20%
+1,COUP,Coupa Software,"8,889",amc,0.00,0.05,--,--,-3.25%
+2,CASY,Caseys General...,"6,059",--,0.87,1.13,+0.26 ,+29.89% ,--
+3,LXFR,Luxfer Holdings...,568,amc,0.31,0.40,+0.09 ,+29.03% ,-0.34%
+4,ZYNE,Zynerba Pharmac...,228,--,-0.67,-0.44,+0.23 ,+34.33% ,--
+5,KRO,Kronos Worldwid...,"1,580",--,0.22,0.21,-0.01 ,-4.55% ,--
+6,ADT,Adt Inc.,"4,715",amc,0.11,--,--,--,-13.44%
+7,CVGI,Commercial Vehi...,239,amc,0.26,--,--,--,1.85%
+8,ITRN,Ituran Location...,634,bmo,0.70,0.74,+0.04 ,+5.71% ,-2.92%
+9,PETQ,"Petiq, Inc.","1,015",amc,0.07,0.06,-0.01 ,-14.29% ,-1.28%
+10,MRNS,Marinus Pharmac...,204,--,-0.30,-0.24,+0.06 ,+20.00% ,--
+11,DRNA,Dicerna Pharmac...,"1,032",amc,-0.23,-0.29,-0.06 ,-26.09% ,-2.21%
+12,CLLS,Cellectis S.a.,634,--,-0.24,-0.37,-0.13 ,-54.17% ,--
+13,CCXI,"Chemocentryx, I...",474,amc,-0.27,-0.21,+0.06 ,+22.22% ,4.36%
+14,AVD,American Vangua...,435,amc,0.23,0.25,+0.02 ,+8.70% ,2.89%
+15,MG,Mistras Group I...,427,amc,0.21,0.06,-0.15 ,-71.43% ,-9.74%
+16,FRTA,Forterra Inc,409,amc,-0.30,-0.27,+0.03 ,+10.00% ,-5.51%
+17,OXFD,Oxford Immunote...,350,amc,-0.19,1.25,+1.44 ,+757.89% ,7.49%
+18,CDMO,Avid Bioservice...,343,amc,-0.07,-0.05,+0.02 ,+28.57% ,7.04%
+19,CLXT,"Calyxt, Inc.",335,bmo,-0.25,-0.26,-0.01 ,-4.00% ,5.30%
+20,CNTY,Century Casinos...,274,bmo,0.06,0.02,-0.04 ,-66.67% ,3.32%
+21,KALA,Kala Pharmaceut...,189,amc,-0.52,-0.75,-0.23 ,-44.23% ,-4.76%
+22,PFNX,Pfenex Inc.,187,amc,-0.31,-0.22,+0.09 ,+29.03% ,3.60%
+23,HNRG,Hallador Energy...,171,amc,0.10,0.09,-0.01 ,-10.00% ,2.75%
+24,ABDC,Alcentra Capita...,107,amc,0.22,0.27,+0.05 ,+22.73% ,1.07%

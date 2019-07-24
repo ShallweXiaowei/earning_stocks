@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,NVAX,"Novavax, Inc.",120,amc,-3.00,--,--,--,-1.44%
+1,DDD,3d Systems Corp...,"1,041",amc,0.01,--,--,--,5.84%
+2,SIG,Signet Jewelers...,903,bmo,4.26,--,--,--,-20.23%
+3,BSTC,Biospecifics Te...,439,--,0.39,--,--,--,--
+4,III,Information Ser...,147,amc,0.08,--,--,--,-2.75%
+5,EXPR,"Express, Inc.",176,bmo,0.32,--,--,--,-0.14%
+6,BCEI,Bonanza Creek E...,426,--,0.37,--,--,--,--
+7,TLRD,Tailored Brands...,288,amc,-0.11,--,--,--,-5.64%
+8,WSM,Williams-sonoma...,"5,097",amc,1.63,--,--,--,2.48%
+9,CTRP,Ctrip.com Inter...,"20,859",amc,0.16,--,--,--,-1.95%
+10,CPRX,Catalyst Pharma...,403,amc,-0.06,--,--,--,-5.03%
+11,INO,Inovio Pharmace...,296,amc,-0.32,--,--,--,8.28%
+12,SMTC,Semtech Corpora...,"3,269",amc,0.41,--,--,--,10.89%
+13,NTLA,Intellia Therap...,728,--,-0.48,--,--,--,--
+14,TSG,Amaya Inc.,"4,871",bmo,0.57,--,--,--,-1.54%
+15,ADDYY,Adidas Ag,"62,157",--,0.07,--,--,--,--
+16,ARNA,Arena Pharmaceu...,"3,068",bmo,-0.65,--,--,--,-8.27%
+17,WOW,"Wideopenwest, I...",665,amc,0.30,--,--,--,-23.31%
+18,PTI,Proteostasis Th...,50,--,-0.65,--,--,--,--
+19,YRD,Yirendai Ltd.,800,amc,0.86,--,--,--,0.77%
+20,BNFT,"Benefitfocus, I...",839,amc,-0.05,--,--,--,-5.04%
+21,EVC,Entravision Com...,272,amc,-0.02,--,--,--,-19.84%
+22,QURE,Uniqure N.v.,"2,864",--,-0.68,--,--,--,--
+23,LTM,Latam Airlines...,"5,820",--,0.22,--,--,--,--
+24,CNNE,Fidelity Nation...,"2,106",amc,-0.07,--,--,--,1.08%

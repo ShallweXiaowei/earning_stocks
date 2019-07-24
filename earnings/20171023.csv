@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,STX,Seagate Technol...,"13,081",bmo,0.86,--,--,--,12.62%
+1,HAL,Halliburton Com...,"20,128",bmo,0.38,--,--,--,-2.52%
+2,VFC,V.f. Corporatio...,"34,874",bmo,1.12,--,--,--,5.38%
+3,KMB,Kimberly-clark...,"47,121",bmo,1.53,--,--,--,-0.80%
+4,TMUS,"T-mobile Us, In...","65,124",--,0.44,--,--,--,--
+5,LOGI,Logitech Intern...,"6,491",bmo,0.36,--,--,--,1.20%
+6,PETS,"Petmed Express,...",315,bmo,0.30,--,--,--,18.15%
+7,ITW,Illinois Tool W...,"48,208",bmo,1.65,--,--,--,0.31%
+8,ARNC,Arconic Inc.,"11,709",amc,0.27,--,--,--,-0.08%
+9,WHR,Whirlpool Corpo...,"9,163",amc,3.90,--,--,--,-10.54%
+10,STT,State Street Co...,"21,196",bmo,1.61,--,--,--,-2.98%
+11,CR,Crane Company,"5,064",amc,1.09,--,--,--,2.62%
+12,ZION,Zions Bancorpor...,"8,436",amc,0.72,--,--,--,-0.09%
+13,HAS,"Hasbro, Inc.","13,456",bmo,1.93,--,--,--,-8.60%
+14,HIG,The Hartford Fi...,"20,587",amc,0.59,--,--,--,1.52%
+15,SUI,Sun Communities...,"12,060",amc,1.12,--,--,--,1.27%
+16,LII,Lennox Internat...,"11,297",bmo,2.44,--,--,--,7.28%
+17,ACC,American Campus...,"6,531",amc,0.45,--,--,--,-2.85%
+18,JBT,John Bean Techn...,"3,887",amc,0.78,--,--,--,8.55%
+19,PEB,Pebblebrook Hot...,"3,733",amc,0.73,--,--,--,3.37%
+20,CBU,Community Bank...,"3,407",bmo,0.67,--,--,--,-3.57%
+21,BOH,Bank Of Hawaii...,"3,406",bmo,1.08,--,--,--,-1.65%
+22,PCH,Potlatch Corpor...,"2,725",amc,0.88,--,--,--,-2.38%
+23,OI,"Owens-illinois,...","2,712",amc,0.73,--,--,--,-3.10%
+24,ADC,Agree Realty Co...,"2,687",amc,0.69,--,--,--,0.20%

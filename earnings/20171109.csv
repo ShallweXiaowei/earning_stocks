@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,NVDA,Nvidia Corporat...,"97,580",amc,0.94,--,--,--,5.27%
+1,DIS,The Walt Disney...,"256,367",amc,1.12,--,--,--,2.05%
+2,M,"Macy's, Inc.","6,703",bmo,0.19,--,--,--,10.98%
+3,TTD,The Trade Desk...,"10,586",amc,0.26,--,--,--,-13.98%
+4,CSIQ,Canadian Solar...,"1,327",bmo,0.22,--,--,--,-10.76%
+5,GOOS,Canada Goose Ho...,"4,493",bmo,0.16,--,--,--,14.08%
+6,KSS,Kohl's Corporat...,"7,823",bmo,0.72,--,--,--,0.93%
+7,UBNT,Ubiquiti Networ...,"9,389",bmo,0.79,--,--,--,-3.81%
+8,AYX,"Alteryx, Inc.","7,253",amc,-0.08,--,--,--,15.89%
+9,JWN,"Nordstrom, Inc....","4,946",amc,0.63,--,--,--,0.00%
+10,HIMX,Himax Technolog...,606,bmo,0.04,--,--,--,-1.22%
+11,UPLD,Upland Software...,995,amc,0.24,--,--,--,-1.51%
+12,HTZ,Hertz Global Ho...,"1,372",amc,1.47,--,--,--,-2.25%
+13,MCFT,Mastercraft Boa...,393,amc,0.41,--,--,--,-1.83%
+14,AZRE,Azure Power Glo...,435,amc,-0.95,--,--,--,-2.28%
+15,TRP,Transcanada Cor...,"46,291",bmo,0.56,--,--,--,0.10%
+16,ACRX,Acelrx Pharmace...,193,amc,-0.26,--,--,--,1.28%
+17,PLYM,Plymouth Ind Re...,152,amc,0.42,--,--,--,0.00%
+18,TRXC,"Transenterix, I...",285,amc,-0.09,--,--,--,-0.35%
+19,LGND,Ligand Pharmace...,"2,300",amc,0.60,--,--,--,-3.42%
+20,SGMO,Sangamo Therape...,"1,315",amc,-0.20,--,--,--,9.35%
+21,PBYI,Puma Biotechnol...,472,amc,-2.75,--,--,--,-19.03%
+22,SNH,Senior Housing...,"2,042",bmo,0.45,--,--,--,-0.68%
+23,PEGI,Pattern Energy...,"2,290",bmo,-0.12,--,--,--,-3.23%
+24,AZN,Astrazeneca Plc...,"103,697",bmo,0.57,--,--,--,-0.66%

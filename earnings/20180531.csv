@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,LULU,Lululemon Athle...,"23,868",amc,0.46,0.55,+0.09 ,+19.57% ,16.32%
+1,COST,Costco Wholesal...,"117,973",amc,1.68,1.70,+0.02 ,+1.19% ,-0.56%
+2,MRVL,Marvell Technol...,"16,071",amc,0.31,0.32,+0.01 ,+3.23% ,2.92%
+3,ULTA,Ulta Beauty Inc...,"20,165",amc,2.48,2.63,+0.15 ,+6.05% ,-0.71%
+4,WDAY,"Workday, Inc.","48,818",amc,0.26,0.33,+0.07 ,+26.92% ,-3.57%
+5,DG,Dollar General...,"36,152",bmo,1.40,1.36,-0.04 ,-2.86% ,-9.37%
+6,DLTR,"Dollar Tree, In...","26,048",bmo,1.23,1.19,-0.04 ,-3.25% ,-14.28%
+7,CIEN,Ciena Corporati...,"6,667",bmo,0.30,0.23,-0.07 ,-23.33% ,-4.20%
+8,BURL,Burlington Stor...,"11,648",bmo,1.09,1.26,+0.17 ,+15.60% ,7.12%
+9,VMW,"Vmware, Inc.","69,230",amc,1.14,1.26,+0.12 ,+10.53% ,6.15%
+10,TITN,Titan Machinery...,430,bmo,-0.10,-0.07,+0.03 ,+30.00% ,-13.94%
+11,AEO,American Eagle...,"2,952",bmo,0.22,0.23,+0.01 ,+4.55% ,-1.81%
+12,TECD,Tech Data Corpo...,"3,802",bmo,1.48,1.84,+0.36 ,+24.32% ,5.35%
+13,GME,Gamestop Corp.,565,amc,0.35,0.38,+0.03 ,+8.57% ,3.94%
+14,ZUO,"Zuora, Inc.","1,790",amc,-0.41,--,--,--,19.03%
+15,FRO,Frontline Ltd.,"1,364",bmo,-0.17,-0.08,+0.09 ,+52.94% ,9.54%
+16,EXPR,"Express, Inc.",176,bmo,-0.01,0.01,+0.02 ,+200.00% ,-7.10%
+17,GMLP,Golar Lng Partn...,819,bmo,0.09,0.21,+0.12 ,+133.33% ,-17.55%
+18,ONVO,Organovo Holdin...,57,amc,-0.07,-0.07,0.00 ,0.00% ,-26.40%
+19,SFL,Ship Finance In...,"1,515",bmo,0.19,0.24,+0.05 ,+26.32% ,-1.04%
+20,YEXT,Yext Inc.,"2,243",amc,-0.12,-0.11,+0.01 ,+8.33% ,10.33%
+21,HMLP,Hoegh Lng Partn...,593,bmo,0.35,0.37,+0.02 ,+5.71% ,-6.49%
+22,GLNG,Golar Lng Limit...,"1,836",bmo,-0.22,-0.21,+0.01 ,+4.55% ,-25.09%
+23,JILL,"J.jill, Inc.",93,bmo,0.19,0.29,+0.10 ,+52.63% ,26.45%
+24,DCI,Donaldson Compa...,"6,360",bmo,0.52,0.53,+0.01 ,+1.92% ,-0.88%

@@ -1,0 +1,22 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,FIVE,"Five Below, Inc...","7,133",amc,0.26,--,--,--,-3.45%
+1,WDAY,"Workday, Inc.","48,818",amc,0.15,--,--,--,2.00%
+2,SCVL,"Shoe Carnival,...",423,amc,0.21,--,--,--,22.41%
+3,BOX,"Box, Inc.","2,556",amc,-0.13,--,--,--,-0.10%
+4,KEYS,Keysight Techno...,"17,212",amc,0.60,--,--,--,1.64%
+5,FRO,Frontline Ltd.,"1,364",bmo,-0.03,--,--,--,-9.57%
+6,ADI,"Analog Devices,...","41,731",bmo,1.15,--,--,--,5.24%
+7,CHS,"Chico's Fas, In...",408,bmo,0.21,--,--,--,-3.96%
+8,CTRP,Ctrip.com Inter...,"20,859",amc,0.00,--,--,--,-2.41%
+9,SFL,Ship Finance In...,"1,515",bmo,0.28,--,--,--,-4.38%
+10,SMTC,Semtech Corpora...,"3,269",amc,0.46,--,--,--,-3.71%
+11,BF.B,Brown-forman Co...,"27,281",bmo,0.31,--,--,--,3.79%
+12,DY,Dycom Industrie...,"1,830",bmo,1.44,--,--,--,-7.34%
+13,GLNG,Golar Lng Limit...,"1,836",bmo,-0.40,--,--,--,-2.65%
+14,NTIOF,National Bank O...,"16,186",bmo,1.03,--,--,--,3.43%
+15,GEF,"Greif, Inc.","1,635",amc,0.84,--,--,--,4.78%
+16,PAHC,Phibro Animal H...,"1,307",amc,0.35,--,--,--,-5.96%
+17,VRA,"Vera Bradley, I...",391,bmo,0.10,--,--,--,-9.24%
+18,CULP,"Culp, Inc.",235,amc,0.53,--,--,--,-0.17%
+19,BNED,Barnes & Noble...,161,bmo,-0.69,--,--,--,-17.74%
+20,BMRA,"Biomerica, Inc....",26,--,-0.02,--,--,--,--

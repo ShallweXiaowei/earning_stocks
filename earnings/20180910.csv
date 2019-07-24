@@ -1,0 +1,11 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,CASY,Caseys General...,"5,845",--,1.68,1.90,+0.22 ,+13.10% ,--
+1,SONO,"Sonos, Inc.","1,143",amc,-0.14,--,--,--,-22.03%
+2,ADXS,"Advaxis, Inc.",10,--,-3.75,-4.05,-0.30 ,-8.00% ,--
+3,SAIC,Science Applica...,"5,205",amc,0.98,1.13,+0.15 ,+15.31% ,-1.67%
+4,IRET,Investors Real...,711,amc,0.80,--,--,--,3.29%
+5,MTRX,Matrix Service...,546,amc,0.07,0.03,-0.04 ,-57.14% ,0.70%
+6,LMNR,Limoneira Co,349,amc,0.53,0.50,-0.03 ,-5.66% ,-16.21%
+7,CDMO,Avid Bioservice...,336,amc,-0.09,-0.06,+0.03 ,+33.33% ,-5.16%
+8,LAKE,Lakeland Indust...,90,amc,0.22,0.12,-0.10 ,-45.45% ,-5.93%
+9,AGTC,Applied Genetic...,69,amc,-0.23,-0.37,-0.14 ,-60.87% ,-8.72%

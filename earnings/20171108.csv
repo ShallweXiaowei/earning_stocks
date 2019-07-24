@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,SQ,"Square, Inc.","31,431",amc,0.06,--,--,--,3.41%
+1,ROKU,"Roku, Inc.","11,127",amc,-4.48,--,--,--,54.94%
+2,TWLO,Twilio Inc.,"17,711",amc,-0.08,--,--,--,-6.81%
+3,CTL,"Centurylink, In...","12,833",amc,0.45,--,--,--,-4.80%
+4,NOG,Northern Oil An...,757,amc,-0.01,--,--,--,0.00%
+5,AEZS,Aeterna Zentari...,48,amc,-0.41,--,--,--,3.68%
+6,PSEC,Prospect Capita...,"2,444",amc,0.19,--,--,--,-4.42%
+7,MEET,"Meetme, Inc.",263,amc,0.10,--,--,--,-32.17%
+8,CRSP,Crispr Therapeu...,"2,518",--,-0.60,--,--,--,--
+9,ALB,Albemarle Corpo...,"7,471",amc,1.07,--,--,--,-2.59%
+10,HCHC,"Hc2 Holdings, I...",101,amc,-0.09,--,--,--,-4.14%
+11,EGAN,Egain Corporati...,242,amc,-0.06,--,--,--,5.56%
+12,GHDX,"Genomic Health,...","2,165",amc,-0.01,--,--,--,-1.67%
+13,ECA,Encana Corporat...,"7,114",bmo,0.05,--,--,--,-1.18%
+14,HUM,Humana Inc.,"35,737",bmo,3.27,--,--,--,-4.89%
+15,OPK,"Opko Health, In...","1,453",amc,-0.05,--,--,--,-16.05%
+16,STWD,Starwood Proper...,"6,427",bmo,0.54,--,--,--,1.12%
+17,REGN,Regeneron Pharm...,"33,548",bmo,3.93,--,--,--,2.67%
+18,ALRM,Alarm.com Holdi...,"2,528",amc,0.19,--,--,--,-14.41%
+19,HSC,Harsco Corporat...,"2,165",bmo,0.16,--,--,--,-9.90%
+20,CRBP,Corbus Pharmace...,441,--,-0.17,--,--,--,--
+21,PLUG,"Plug Power, Inc...",577,bmo,-0.04,--,--,--,-15.69%
+22,HII,Huntington Inga...,"9,579",bmo,2.78,--,--,--,7.98%
+23,WIX,Wix.com Ltd.,"7,166",bmo,0.13,--,--,--,-13.45%
+24,MFC,Manulife Financ...,"36,427",amc,0.40,--,--,--,4.84%

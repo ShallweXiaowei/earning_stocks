@@ -1,0 +1,17 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,LOW,Lowe's Companie...,"81,596",bmo,1.62,--,--,--,-3.71%
+1,AEO,American Eagle...,"2,952",bmo,0.16,--,--,--,7.76%
+2,HPQ,Hp Inc.,"31,873",amc,0.42,--,--,--,2.92%
+3,PVH,Pvh Corp.,"6,953",amc,1.65,--,--,--,5.73%
+4,TLYS,"Tilly's, Inc.",234,amc,0.05,--,--,--,-1.67%
+5,HEI,Heico Corporati...,"18,191",amc,0.33,--,--,--,2.76%
+6,RY,Royal Bank Of C...,"116,123",bmo,1.42,--,--,--,1.34%
+7,EXPR,"Express, Inc.",176,bmo,-0.02,--,--,--,19.49%
+8,LCI,Lannett Co Inc,237,amc,0.40,--,--,--,-1.86%
+9,GES,"Guess?, Inc.","1,170",--,0.10,--,--,--,--
+10,WSM,Williams-sonoma...,"5,097",amc,0.59,--,--,--,3.59%
+11,SQM,Sociedad Quimic...,"7,927",amc,0.39,--,--,--,3.76%
+12,EV,Eaton Vance Cor...,"4,998",bmo,0.67,--,--,--,-1.91%
+13,RAVN,Raven Industrie...,"1,293",amc,0.22,--,--,--,-7.47%
+14,EDAP,Edap Tms S.a.,81,amc,-0.02,--,--,--,-3.17%
+15,EVLV,Evine Live Inc....,33,bmo,-0.03,--,--,--,-8.81%

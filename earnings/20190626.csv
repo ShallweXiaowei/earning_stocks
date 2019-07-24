@@ -1,0 +1,17 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,GIS,"General Mills,...","31,765",bmo,0.76,0.83,+0.07 ,+9.21% ,-4.45%
+1,BB,Blackberry Limi...,"3,879",bmo,0.01,0.01,0.00 ,0.00% ,-8.81%
+2,RAD,Rite Aid Corpor...,365,amc,0.02,-0.14,-0.16 ,-800.00% ,20.53%
+3,PAYX,"Paychex, Inc.","30,365",bmo,0.65,0.63,-0.02 ,-3.08% ,-3.57%
+4,KBH,Kb Home,"2,350",amc,0.39,0.51,+0.12 ,+30.77% ,7.90%
+5,SCHN,Schnitzer Steel...,681,bmo,0.61,0.63,+0.02 ,+3.28% ,5.34%
+6,PIR,"Pier 1 Imports,...",16,amc,-13.00,-19.97,-6.97 ,-53.62% ,-9.68%
+7,MLHR,"Herman Miller,...","2,640",amc,0.78,0.88,+0.10 ,+12.82% ,16.55%
+8,FIZZ,National Bevera...,"1,962",--,0.64,0.56,-0.08 ,-12.50% ,--
+9,INFO,Ihs Markit Ltd....,"26,089",bmo,0.65,0.71,+0.06 ,+9.23% ,5.25%
+10,UNF,Unifirst Corpor...,"3,587",bmo,1.70,2.46,+0.76 ,+44.71% ,6.92%
+11,FUL,H. B. Fuller Co...,"2,442",amc,0.89,0.88,-0.01 ,-1.12% ,2.25%
+12,WOR,Worthington Ind...,"2,273",amc,0.77,0.77,0.00 ,0.00% ,2.21%
+13,NG,Novagold Resour...,"2,046",amc,-0.02,-0.02,0.00 ,0.00% ,2.12%
+14,ATU,Actuant Corpora...,"1,367",bmo,0.40,0.45,+0.05 ,+12.50% ,-5.67%
+15,ACST,"Acasti Pharma,...",135,bmo,-0.11,-0.17,-0.06 ,-54.55% ,14.29%

@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,CLDR,"Cloudera, Inc.","1,552",amc,-0.11,-0.15,-0.04 ,-36.36% ,-19.85%
+1,MDB,"Mongodb, Inc.","9,074",amc,-0.38,--,--,--,25.59%
+2,VKTX,Viking Therapeu...,594,amc,-0.10,-0.07,+0.03 ,+30.00% ,-6.42%
+3,DQ,Daqo New Energy...,478,bmo,0.12,1.16,+1.04 ,+866.67% ,-1.69%
+4,EXPR,"Express, Inc.",165,bmo,0.16,0.19,+0.03 ,+18.75% ,-10.12%
+5,TRVN,"Trevena, Inc.",94,bmo,-0.06,-0.10,-0.04 ,-66.67% ,-2.72%
+6,TLRD,Tailored Brands...,267,amc,-0.30,-0.28,+0.02 ,+6.67% ,-25.15%
+7,KNOP,Knot Offshore P...,655,bmo,0.62,0.27,-0.35 ,-56.45% ,1.11%
+8,AXAS,Abraxas Petrole...,162,amc,0.04,0.02,-0.02 ,-50.00% ,-4.48%
+9,DOMO,"Domo, Inc.",744,amc,-1.24,--,--,--,21.12%
+10,SMTC,Semtech Corpora...,"3,286",amc,0.54,0.55,+0.01 ,+1.85% ,-6.34%
+11,MLNT,Melinta Therape...,46,amc,-1.01,-1.93,-0.92 ,-91.09% ,16.77%
+12,PDD,Pinduoduo Inc....,"22,211",bmo,-0.29,--,--,--,-17.45%
+13,APYX,Bovie Medical C...,214,amc,-0.10,-0.10,0.00 ,0.00% ,-4.73%
+14,GLMD,Galmed Pharmace...,131,bmo,-0.12,-0.19,-0.07 ,-58.33% ,3.43%
+15,AMOT,Allied Motion T...,386,amc,0.43,0.28,-0.15 ,-34.88% ,-2.83%
+16,FSM,Fortuna Silver...,599,amc,0.01,0.02,+0.01 ,+100.00% ,0.83%
+17,GDS,Gds Holdings,"4,667",bmo,-0.11,-0.14,-0.03 ,-27.27% ,-0.87%
+18,MOR,Morphosys Ag Un...,"3,528",amc,-0.30,--,--,--,-0.69%
+19,EVOP,"Evo Payments, I...","2,492",bmo,0.18,--,--,--,1.74%
+20,HEXO,Hexo Corp.,"1,261",bmo,-0.03,--,--,--,6.63%
+21,TALO,Stone Energy Co...,"1,224",amc,0.64,0.91,+0.27 ,+42.19% ,9.23%
+22,FPH,Five Point Hold...,"1,106",amc,-0.03,-0.03,0.00 ,0.00% ,-3.50%
+23,NRE,Northstar Realt...,856,bmo,0.24,--,--,--,-2.39%
+24,CRNX,Crinetics Pharm...,574,--,-0.39,--,--,--,--

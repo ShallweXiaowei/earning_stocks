@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,WRK,Westrock Compan...,"9,786",bmo,1.24,1.29,+0.05 ,+4.03% ,1.57%
+1,OHI,Omega Healthcar...,"7,819",bmo,0.76,0.77,+0.01 ,+1.32% ,5.50%
+2,PCG,Pacific Gas & E...,"11,532",bmo,1.12,1.13,+0.01 ,+0.89% ,2.68%
+3,MOS,The Mosaic Comp...,"9,568",amc,0.64,0.75,+0.11 ,+17.19% ,10.61%
+4,OXY,Occidental Petr...,"36,855",amc,1.51,1.77,+0.26 ,+17.22% ,4.85%
+5,RCII,"Rent-a-center,...","1,483",amc,0.29,0.32,+0.03 ,+10.34% ,1.48%
+6,BKNG,Booking Holding...,"83,325",amc,38.37,37.78,-0.59 ,-1.54% ,4.19%
+7,ATUS,"Altice Usa, Inc...","16,633",amc,-0.04,0.04,+0.08 ,+200.00% ,7.19%
+8,UUUU,Energy Fuels In...,284,--,-0.05,-0.16,-0.11 ,-220.00% ,--
+9,BSM,Black Stone Min...,"3,150",amc,0.26,0.27,+0.01 ,+3.85% ,4.24%
+10,PEGI,Pattern Energy...,"2,290",bmo,-0.04,-0.13,-0.09 ,-225.00% ,5.70%
+11,MYL,Mylan N.v.,"10,046",amc,1.17,1.25,+0.08 ,+6.84% ,16.13%
+12,APLE,Apple Hospitali...,"3,539",amc,0.48,0.47,-0.01 ,-2.08% ,-3.01%
+13,NTR,Potash Corporat...,"31,039",amc,0.41,0.47,+0.06 ,+14.63% ,5.13%
+14,MAR,Marriott Intern...,"47,288",amc,1.31,1.70,+0.39 ,+29.77% ,-5.08%
+15,RNG,"Ringcentral, In...","9,681",amc,0.16,0.19,+0.03 ,+18.75% ,1.17%
+16,HUD,Hudson Ltd.,"1,306",bmo,0.30,--,--,--,-5.58%
+17,SYY,Sysco Corporati...,"36,878",bmo,0.92,0.91,-0.01 ,-1.09% ,-9.44%
+18,NBIX,Neurocrine Bios...,"7,777",amc,0.48,0.52,+0.04 ,+8.33% ,-3.61%
+19,FMC,Fmc Corporation...,"11,150",amc,0.92,0.98,+0.06 ,+6.52% ,3.90%
+20,CRNT,Ceragon Network...,206,bmo,0.04,0.07,+0.03 ,+75.00% ,6.07%
+21,PEN,"Penumbra, Inc.","5,651",amc,0.03,0.17,+0.14 ,+466.67% ,5.40%
+22,OTTR,Otter Tail Corp...,"2,097",amc,0.42,0.58,+0.16 ,+38.10% ,5.26%
+23,IIN,Intricon Corpor...,204,amc,0.20,0.22,+0.02 ,+10.00% ,-9.57%
+24,GMLP,Golar Lng Partn...,819,--,0.31,0.70,+0.39 ,+125.81% ,--

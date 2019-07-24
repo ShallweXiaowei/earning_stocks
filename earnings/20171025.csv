@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,BA,The Boeing Comp...,"200,218",bmo,2.65,--,--,--,-2.85%
+1,V,Visa Inc.,"352,625",bmo,0.85,--,--,--,1.00%
+2,KO,Coca-cola Compa...,"222,307",bmo,0.49,--,--,--,-0.28%
+3,AMGN,Amgen Inc.,"113,411",amc,3.09,--,--,--,-0.55%
+4,WBA,Walgreens Boots...,"49,844",bmo,1.22,--,--,--,3.08%
+5,NOC,Northrop Grumma...,"55,219",bmo,2.92,--,--,--,3.65%
+6,XLNX,"Xilinx, Inc.","29,145",amc,0.62,--,--,--,-0.13%
+7,O,Realty Income C...,"22,150",amc,0.76,--,--,--,-1.89%
+8,GSK,Glaxosmithkline...,"101,332",--,0.84,--,--,--,--
+9,IP,International P...,"17,431",bmo,1.04,--,--,--,-1.16%
+10,NOW,"Servicenow, Inc...","54,640",amc,0.32,--,--,--,1.22%
+11,AGNC,Agnc Investment...,"9,119",amc,0.63,--,--,--,-4.24%
+12,ANTM,"Anthem, Inc.","73,059",bmo,2.41,--,--,--,5.36%
+13,SIRI,Sirius Xm Holdi...,"27,229",bmo,0.04,--,--,--,-2.80%
+14,FCX,Freeport-mcmora...,"16,378",bmo,0.29,--,--,--,-3.48%
+15,TMO,Thermo Fisher S...,"120,254",bmo,2.24,--,--,--,2.72%
+16,MEOH,Methanex Corpor...,"3,483",amc,0.55,--,--,--,-0.98%
+17,GD,General Dynamic...,"52,656",bmo,2.43,--,--,--,-2.28%
+18,GRUB,Grubhub Inc.,"7,099",bmo,0.24,--,--,--,11.18%
+19,VRTX,Vertex Pharmace...,"45,677",amc,0.37,--,--,--,-2.07%
+20,LVS,Las Vegas Sands...,"47,790",amc,0.67,--,--,--,-0.52%
+21,AVX,Avx Corporation...,"2,764",bmo,0.21,--,--,--,-2.04%
+22,ORLY,O'reilly Automo...,"30,261",amc,3.15,--,--,--,5.56%
+23,S,Sprint Corporat...,"28,799",bmo,-0.02,--,--,--,1.43%
+24,MLNX,Mellanox Techno...,"6,146",amc,0.64,--,--,--,-0.11%

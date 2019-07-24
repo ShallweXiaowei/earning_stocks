@@ -1,0 +1,9 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,ADBE,Adobe Systems I...,"147,564",amc,1.54,1.66,+0.12 ,+7.79% ,-2.43%
+1,FNSR,Finisar Corpora...,"2,781",amc,0.12,0.05,-0.07 ,-58.33% ,1.69%
+2,MIK,The Michaels Co...,"1,261",bmo,0.38,0.39,+0.01 ,+2.63% ,-14.00%
+3,JBL,"Jabil, Inc.","4,823",amc,0.45,0.46,+0.01 ,+2.22% ,-6.51%
+4,ROX,"Castle Brands,...",83,--,0.01,0.00,-0.01 ,-100.00% ,--
+5,MPAA,Motorcar Parts...,364,bmo,0.72,0.56,-0.16 ,-22.22% ,-3.10%
+6,AITB,Ait Therapeutic...,58,bmo,-0.35,0.14,+0.49 ,+140.00% ,3.33%
+7,PBSV,Pharma-bio Serv...,22,--,-0.01,-0.01,0.00 ,0.00% ,--

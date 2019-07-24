@@ -1,0 +1,22 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,ABBV,Abbvie Inc.,"107,903",bmo,1.92,1.90,-0.02 ,-1.04% ,-6.22%
+1,ERIC,Ericsson,"31,340",bmo,0.13,-0.09,-0.22 ,-169.23% ,4.23%
+2,NEE,"Nextera Energy,...","99,671",bmo,1.51,1.49,-0.02 ,-1.32% ,-3.37%
+3,CL,Colgate-palmoli...,"62,792",bmo,0.73,0.74,+0.01 ,+1.37% ,-0.58%
+4,APD,Air Products An...,"50,758",bmo,1.87,1.86,-0.01 ,-0.53% ,2.82%
+5,DHI,"D.r. Horton, In...","16,226",bmo,0.78,0.76,-0.02 ,-2.56% ,-2.61%
+6,NEP,Nextera Energy...,"2,776",bmo,0.49,-0.39,-0.88 ,-179.59% ,-6.26%
+7,LEA,Lear Corporatio...,"8,407",bmo,3.96,4.05,+0.09 ,+2.27% ,6.57%
+8,NVR,"Nvr, Inc.","12,026",--,48.46,58.57,+10.11 ,+20.86% ,--
+9,HRC,Hill-rom Holdin...,"7,071",bmo,0.98,1.02,+0.04 ,+4.08% ,4.91%
+10,IBKC,Iberiabank Corp...,"4,150",bmo,1.78,1.86,+0.08 ,+4.49% ,3.00%
+11,MOG.A,Moog Inc.,"3,294",bmo,1.11,1.25,+0.14 ,+12.61% ,4.45%
+12,ABCB,Ameris Bancorp,"1,873",bmo,0.93,0.96,+0.03 ,+3.23% ,3.52%
+13,LKFN,Lakeland Financ...,"1,195",bmo,0.80,0.83,+0.03 ,+3.75% ,1.53%
+14,ABTX,Allegiance Banc...,715,bmo,0.67,0.62,-0.05 ,-7.46% ,0.06%
+15,PGC,Peapack-gladsto...,558,--,0.61,0.55,-0.06 ,-9.84% ,--
+16,SLCT,"Select Bancorp,...",222,--,0.20,0.23,+0.03 ,+15.00% ,--
+17,CZFS,Citizens Financ...,213,--,1.31,1.28,-0.03 ,-2.29% ,--
+18,OPBK,Op Bancorp,155,--,0.22,--,--,--,--
+19,SAL,Salisbury Banco...,111,--,0.84,0.79,-0.05 ,-5.95% ,--
+20,MRBK,Meridian Bank,108,--,0.41,--,--,--,--

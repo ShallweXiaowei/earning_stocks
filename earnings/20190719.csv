@@ -1,0 +1,25 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,SLB,Schlumberger Li...,"53,618",bmo,0.35,0.35,0.00 ,0.00% ,-0.18%
+1,AXP,American Expres...,"104,235",bmo,2.05,2.07,+0.02 ,+0.98% ,-2.79%
+2,CLF,Cleveland-cliff...,"3,196",bmo,0.52,0.63,+0.11 ,+21.15% ,3.96%
+3,SYF,Synchrony Finan...,"24,161",bmo,0.96,0.97,+0.01 ,+1.04% ,-2.88%
+4,BLK,"Blackrock, Inc....","73,126",bmo,6.52,6.41,-0.11 ,-1.69% ,-0.40%
+5,RF,Regions Financi...,"15,330",bmo,0.39,0.39,0.00 ,0.00% ,2.30%
+6,CFG,Citizens Financ...,"16,881",bmo,0.94,0.96,+0.02 ,+2.13% ,6.38%
+7,STT,State Street Co...,"22,420",bmo,1.40,1.45,+0.05 ,+3.57% ,6.73%
+8,KSU,Kansas City Sou...,"12,415",bmo,1.60,1.64,+0.04 ,+2.50% ,4.61%
+9,GNTX,Gentex Corporat...,"6,599",bmo,0.40,0.42,+0.02 ,+5.00% ,9.55%
+10,NVR,"Nvr, Inc.","12,644",--,45.15,53.09,+7.94 ,+17.59% ,--
+11,ALV,"Autoliv, Inc.","6,271",bmo,1.37,1.38,+0.01 ,+0.73% ,3.04%
+12,SARTF,Sartorius Ag,"5,850",--,0.80,0.87,+0.07 ,+8.75% ,--
+13,MAN,Manpowergroup I...,"5,396",bmo,1.99,2.05,+0.06 ,+3.02% ,0.03%
+14,IBKC,Iberiabank Corp...,"4,195",bmo,1.82,1.87,+0.05 ,+2.75% ,2.42%
+15,SXT,Sensient Techno...,"2,835",bmo,0.83,0.81,-0.02 ,-2.41% ,-5.34%
+16,BLX,Banco Latinoame...,850,bmo,0.55,0.56,+0.01 ,+1.82% ,4.42%
+17,CCNE,Cnb Financial C...,405,--,0.58,0.64,+0.06 ,+10.34% ,--
+18,FMAO,Farmers & Merch...,311,--,0.45,0.42,-0.03 ,-6.67% ,--
+19,BCBP,"Bcb Bancorp, In...",209,--,0.28,0.30,+0.02 ,+7.14% ,--
+20,BOCH,Bank Of Commerc...,193,--,0.23,0.20,-0.03 ,-13.04% ,--
+21,FCCY,1st Constitutio...,157,--,0.39,0.41,+0.02 ,+5.13% ,--
+22,MBCN,Middlefield Ban...,136,--,0.96,1.01,+0.05 ,+5.21% ,--
+23,ACU,Acme United Cor...,67,bmo,0.77,0.77,0.00 ,0.00% ,0.80%

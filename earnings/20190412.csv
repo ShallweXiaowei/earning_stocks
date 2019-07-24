@@ -1,0 +1,6 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,JPM,Jpmorgan Chase...,"368,321",bmo,2.32,2.65,+0.33 ,+14.22% ,4.69%
+1,WFC,Wells Fargo & C...,"206,875",bmo,1.08,1.20,+0.12 ,+11.11% ,-2.62%
+2,PNC,The Pnc Financi...,"62,673",bmo,2.59,2.61,+0.02 ,+0.77% ,3.09%
+3,INFY,Infosys Limited...,"49,504",bmo,0.13,0.13,0.00 ,0.00% ,-3.83%
+4,FRC,First Republic...,"16,244",bmo,1.22,1.26,+0.04 ,+3.28% ,-0.74%

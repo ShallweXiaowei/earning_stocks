@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,TWLO,Twilio Inc.,"17,711",amc,-0.06,0.03,+0.09 ,+150.00% ,18.70%
+1,HEAR,Turtle Beach Co...,159,amc,-0.02,0.40,+0.42 ,"+2,100.00% ",1.58%
+2,ETSY,"Etsy, Inc.","7,617",amc,0.04,0.03,-0.01 ,-25.00% ,3.32%
+3,MOS,The Mosaic Comp...,"9,568",amc,0.39,0.40,+0.01 ,+2.56% ,5.32%
+4,EDIT,Editas Medicine...,"1,184",amc,-0.69,-0.82,-0.13 ,-18.84% ,-0.89%
+5,NWL,Newell Brands I...,"6,482",bmo,0.78,0.82,+0.04 ,+5.13% ,-14.34%
+6,HTZ,Hertz Global Ho...,"1,372",amc,-0.29,-0.19,+0.10 ,+34.48% ,24.63%
+7,CAH,Cardinal Health...,"14,375",bmo,0.93,1.01,+0.08 ,+8.60% ,-0.50%
+8,VCEL,Vericel Corpora...,833,amc,-0.13,-0.12,+0.01 ,+7.69% ,25.00%
+9,CAPL,Crossamerica Pa...,564,--,0.10,0.01,-0.09 ,-90.00% ,--
+10,VGR,Vector Group Lt...,"1,373",bmo,0.17,0.18,+0.01 ,+5.88% ,-0.32%
+11,LGND,Ligand Pharmace...,"2,300",amc,0.93,2.59,+1.66 ,+178.49% ,8.94%
+12,BSM,Black Stone Min...,"3,150",amc,0.25,0.17,-0.08 ,-32.00% ,5.02%
+13,APLE,Apple Hospitali...,"3,539",amc,0.51,0.51,0.00 ,0.00% ,-0.28%
+14,III,Information Ser...,147,bmo,0.09,0.12,+0.03 ,+33.33% ,1.73%
+15,TSN,"Tyson Foods, In...","30,160",bmo,1.33,1.50,+0.17 ,+12.78% ,3.27%
+16,MAR,Marriott Intern...,"47,288",amc,1.36,1.73,+0.37 ,+27.21% ,-3.75%
+17,RNG,"Ringcentral, In...","9,681",amc,0.15,0.19,+0.04 ,+26.67% ,6.88%
+18,CSWC,Capital Southwe...,373,amc,0.26,0.29,+0.03 ,+11.54% ,0.71%
+19,CRNT,Ceragon Network...,206,bmo,0.04,0.05,+0.01 ,+25.00% ,-10.17%
+20,REGI,Renewable Energ...,595,amc,0.50,0.78,+0.28 ,+56.00% ,14.29%
+21,JEC,Jacobs Engineer...,"11,572",bmo,1.19,1.35,+0.16 ,+13.45% ,7.78%
+22,OTTR,Otter Tail Corp...,"2,097",amc,0.48,0.47,-0.01 ,-2.08% ,-0.31%
+23,OAS,Oasis Petroleum...,"1,671",amc,0.07,0.10,+0.03 ,+42.86% ,3.97%
+24,FIVN,"Five9, Inc.","3,085",amc,0.04,0.11,+0.07 ,+175.00% ,24.17%

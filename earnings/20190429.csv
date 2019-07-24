@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,GOOGL,Alphabet Inc.,"786,348",amc,10.57,11.90,+1.33 ,+12.58% ,-7.50%
+1,WDC,Western Digital...,"14,216",amc,0.49,0.17,-0.32 ,-65.31% ,1.29%
+2,GOOG,Alphabet Inc.,"785,598",amc,10.57,11.90,+1.33 ,+12.58% ,-7.70%
+3,MOH,Molina Healthca...,"8,990",amc,2.41,3.04,+0.63 ,+26.14% ,0.70%
+4,CRSP,Crispr Therapeu...,"2,518",--,-0.88,-0.93,-0.05 ,-5.68% ,--
+5,SPOT,Spotify Technol...,"26,060",bmo,-0.37,-0.90,-0.53 ,-143.24% ,-0.08%
+6,AKS,Ak Steel Holdin...,718,amc,0.12,0.23,+0.11 ,+91.67% ,-1.63%
+7,NXPI,Nxp Semiconduct...,"31,730",amc,1.55,1.95,+0.40 ,+25.81% ,7.89%
+8,RIG,Transocean Ltd....,"3,768",amc,-0.29,-0.30,-0.01 ,-3.45% ,-10.68%
+9,LOGI,Logitech Intern...,"6,491",amc,0.30,0.38,+0.08 ,+26.67% ,-7.68%
+10,MDR,Mcdermott Inter...,"1,662",bmo,0.09,0.02,-0.07 ,-77.78% ,-6.89%
+11,ARLP,Alliance Resour...,"2,271",bmo,0.69,1.03,+0.34 ,+49.28% ,-0.26%
+12,MGM,Mgm Resorts Int...,"15,702",amc,0.16,0.12,-0.04 ,-25.00% ,-6.89%
+13,NSP,"Insperity, Inc....","5,246",bmo,1.88,1.98,+0.10 ,+5.32% ,-5.04%
+14,MEDP,Medpace Holding...,"2,314",amc,0.60,0.64,+0.04 ,+6.67% ,-5.17%
+15,AROC,"Archrock, Inc.","1,358",bmo,0.17,0.15,-0.02 ,-11.76% ,0.57%
+16,HSII,Heidrick & Stru...,560,amc,0.54,0.62,+0.08 ,+14.81% ,-10.37%
+17,CGNX,Cognex Corporat...,"7,623",amc,0.16,0.19,+0.03 ,+18.75% ,-6.09%
+18,NBIX,Neurocrine Bios...,"7,777",amc,-1.05,-1.12,-0.07 ,-6.67% ,-5.90%
+19,MKSI,Mks Instruments...,"4,241",amc,1.07,1.12,+0.05 ,+4.67% ,-9.26%
+20,EPR,Epr Properties,"5,811",amc,1.35,0.92,-0.43 ,-31.85% ,1.89%
+21,EEFT,Euronet Worldwi...,"8,699",bmo,0.83,0.85,+0.02 ,+2.41% ,0.14%
+22,IIN,Intricon Corpor...,204,amc,0.10,0.08,-0.02 ,-20.00% ,-11.61%
+23,MCY,Mercury General...,"3,587",bmo,0.77,0.87,+0.10 ,+12.99% ,-0.21%
+24,HLIT,Harmonic Inc.,522,amc,-0.06,-0.05,+0.01 ,+16.67% ,0.35%

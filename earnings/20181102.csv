@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,BABA,Alibaba Group H...,NA,bmo,1.12,1.40,+0.28 ,+25.00% ,-2.42%
+1,ABBV,Abbvie Inc.,"107,903",bmo,2.01,2.14,+0.13 ,+6.47% ,-0.81%
+2,XOM,Exxon Mobil Cor...,"322,113",bmo,1.21,1.46,+0.25 ,+20.66% ,1.59%
+3,CVX,Chevron Corpora...,"235,311",bmo,2.06,2.11,+0.05 ,+2.43% ,3.20%
+4,ENB,Enbridge Inc,"73,646",bmo,0.42,0.42,0.00 ,0.00% ,-0.79%
+5,ABR,Arbor Realty Tr...,"1,173",bmo,0.36,0.37,+0.01 ,+2.78% ,2.94%
+6,DUK,Duke Energy Cor...,"65,291",bmo,1.53,1.65,+0.12 ,+7.84% ,1.14%
+7,STX,Seagate Technol...,"13,081",bmo,1.55,1.70,+0.15 ,+9.68% ,3.00%
+8,NWL,Newell Brands I...,"6,482",bmo,0.26,0.54,+0.28 ,+107.69% ,14.74%
+9,MSEX,Middlesex Water...,"1,026",--,0.65,0.74,+0.09 ,+13.85% ,--
+10,BIP,Brookfield Infr...,"15,147",bmo,0.72,-0.10,-0.82 ,-113.89% ,0.26%
+11,ACRX,Acelrx Pharmace...,193,--,-0.20,-0.21,-0.01 ,-5.00% ,--
+12,WPC,W.p. Carey Inc....,"14,140",bmo,1.43,1.48,+0.05 ,+3.50% ,1.08%
+13,HMSY,Hms Holdings Co...,"2,958",bmo,0.21,0.31,+0.10 ,+47.62% ,15.64%
+14,USM,United States C...,"4,062",bmo,0.24,0.41,+0.17 ,+70.83% ,17.87%
+15,TRTN,Triton Internat...,"2,504",bmo,1.12,1.17,+0.05 ,+4.46% ,3.57%
+16,BPL,Buckeye Partner...,"6,338",bmo,0.68,0.57,-0.11 ,-16.18% ,-0.21%
+17,CCJ,Cameco Corporat...,"4,279",bmo,-0.09,0.03,+0.12 ,+133.33% ,0.72%
+18,TDS,Telephone And D...,"3,605",bmo,0.25,0.40,+0.15 ,+60.00% ,14.62%
+19,DOC,Physicians Real...,"3,244",bmo,0.27,0.28,+0.01 ,+3.70% ,-2.62%
+20,SPKE,"Spark Energy, I...",400,--,-0.09,0.27,+0.36 ,+400.00% ,--
+21,AXL,American Axle &...,"1,320",bmo,0.90,0.63,-0.27 ,-30.00% ,-26.91%
+22,EXTR,Extreme Network...,772,bmo,0.02,0.08,+0.06 ,+300.00% ,11.41%
+23,CBOE,Cboe Global Mar...,"12,324",bmo,1.01,1.06,+0.05 ,+4.95% ,1.58%
+24,IMGN,"Immunogen, Inc....",357,bmo,-0.34,-0.31,+0.03 ,+8.82% ,-4.55%

@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,AMED,"Amedisys, Inc.","3,910",amc,0.77,0.95,+0.18 ,+23.38% ,14.16%
+1,ALSN,Allison Transmi...,"5,763",amc,1.09,1.27,+0.18 ,+16.51% ,0.64%
+2,AKAM,Akamai Technolo...,"13,407",amc,0.83,0.94,+0.11 ,+13.25% ,16.92%
+3,RIG,Transocean Ltd....,"3,768",amc,-0.09,0.06,+0.15 ,+166.67% ,4.04%
+4,KLAC,Kla-tencor Corp...,"19,055",amc,2.20,2.46,+0.26 ,+11.82% ,7.60%
+5,ARLP,Alliance Resour...,"2,271",bmo,0.74,0.55,-0.19 ,-25.68% ,-0.87%
+6,VNOM,Viper Energy Pa...,"4,209",amc,0.43,0.05,-0.38 ,-88.37% ,1.46%
+7,MEDP,Medpace Holding...,"2,314",amc,0.63,0.67,+0.04 ,+6.35% ,1.87%
+8,HSII,Heidrick & Stru...,560,amc,0.50,0.85,+0.35 ,+70.00% ,23.88%
+9,FDC,First Data Corp...,"26,594",bmo,0.36,0.35,-0.01 ,-2.78% ,-16.62%
+10,CGNX,Cognex Corporat...,"7,623",amc,0.42,0.48,+0.06 ,+14.29% ,5.96%
+11,MDLZ,Mondelez Intern...,"79,944",amc,0.61,0.62,+0.01 ,+1.64% ,5.01%
+12,HIIQ,Health Insuranc...,365,amc,0.60,0.61,+0.01 ,+1.67% ,9.91%
+13,EPR,Epr Properties,"5,811",amc,1.35,1.58,+0.23 ,+17.04% ,1.94%
+14,DAN,Dana Incorporat...,"2,757",bmo,0.74,0.77,+0.03 ,+4.05% ,-13.23%
+15,BAH,Booz Allen Hami...,"9,519",bmo,0.60,0.68,+0.08 ,+13.33% ,3.97%
+16,MCY,Mercury General...,"3,587",bmo,0.60,1.11,+0.51 ,+85.00% ,15.54%
+17,HLIT,Harmonic Inc.,522,amc,0.01,0.04,+0.03 ,+300.00% ,-1.26%
+18,TREX,"Trex Company, I...","4,257",amc,0.53,0.57,+0.04 ,+7.55% ,3.30%
+19,CHGG,"Chegg, Inc.","4,807",amc,0.03,0.07,+0.04 ,+133.33% ,14.48%
+20,WING,Wingstop Inc.,"2,796",amc,0.19,0.21,+0.02 ,+10.53% ,-3.67%
+21,CLR,Continental Res...,"15,465",amc,0.81,0.90,+0.09 ,+11.11% ,4.65%
+22,YNDX,Yandex N.v.,"12,729",bmo,0.30,0.28,-0.02 ,-6.67% ,-0.11%
+23,CBL,Cbl & Associate...,182,amc,0.41,0.40,-0.01 ,-2.44% ,4.21%
+24,AXGN,"Axogen, Inc.",775,amc,-0.05,-0.05,0.00 ,0.00% ,11.27%

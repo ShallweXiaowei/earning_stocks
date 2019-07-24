@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,TWLO,Twilio Inc.,"18,387",amc,0.04,0.04,0.00 ,0.00% ,-7.30%
+1,ATVI,Activision Bliz...,"34,578",amc,1.29,1.29,0.00 ,0.00% ,6.96%
+2,SHOP,Shopify Inc.,"36,809",bmo,0.21,0.26,+0.05 ,+23.81% ,1.37%
+3,EXEL,"Exelixis, Inc.","6,419",amc,0.25,0.37,+0.12 ,+48.00% ,1.71%
+4,ONDK,On Deck Capital...,301,bmo,0.17,0.20,+0.03 ,+17.65% ,-12.50%
+5,NRZ,New Residential...,"6,306",bmo,0.55,0.58,+0.03 ,+5.45% ,2.20%
+6,TRIP,"Tripadvisor, In...","6,238",amc,0.30,0.27,-0.03 ,-10.00% ,-5.71%
+7,OXY,Occidental Petr...,"39,161",amc,1.12,1.22,+0.10 ,+8.93% ,0.15%
+8,ARCC,Ares Capital Co...,"7,742",bmo,0.41,0.45,+0.04 ,+9.76% ,2.83%
+9,UAA,"Under Armour, I...","12,156",bmo,0.04,0.09,+0.05 ,+125.00% ,6.88%
+10,HUN,Huntsman Corpor...,"4,834",bmo,0.55,0.52,-0.03 ,-5.45% ,3.47%
+11,AZRE,Azure Power Glo...,439,amc,-0.12,0.05,+0.17 ,+141.67% ,0.00%
+12,AKAM,Akamai Technolo...,"13,694",amc,1.00,1.07,+0.07 ,+7.00% ,1.50%
+13,QLYS,"Qualys, Inc.","3,438",amc,0.40,0.51,+0.11 ,+27.50% ,-14.63%
+14,WELL,Welltower Inc.,"33,630",bmo,1.03,1.01,-0.02 ,-1.94% ,-1.01%
+15,GRPN,"Groupon, Inc.","1,920",amc,0.13,0.10,-0.03 ,-23.08% ,-11.11%
+16,UIS,Unisys Corporat...,508,amc,0.66,0.97,+0.31 ,+46.97% ,14.67%
+17,TAP,Molson Coors Br...,"11,801",bmo,0.78,0.84,+0.06 ,+7.69% ,-9.44%
+18,HUBS,"Hubspot, Inc.","7,584",amc,0.30,0.37,+0.07 ,+23.33% ,-0.08%
+19,BXMT,"Capital Trust,...","4,781",amc,0.66,0.69,+0.03 ,+4.55% ,-1.16%
+20,LSCC,Lattice Semicon...,"2,161",amc,0.08,0.08,0.00 ,0.00% ,29.58%
+21,AYR,Aircastle Limit...,"1,545",bmo,1.45,1.43,-0.02 ,-1.38% ,1.31%
+22,WEC,Wec Energy Grou...,"27,225",bmo,0.64,0.65,+0.01 ,+1.56% ,0.01%
+23,IPGP,Ipg Photonics C...,"6,994",bmo,1.43,1.40,-0.03 ,-2.10% ,7.21%
+24,BFAM,Bright Horizons...,"8,777",amc,0.84,0.90,+0.06 ,+7.14% ,2.99%

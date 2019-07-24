@@ -1,0 +1,21 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,CIEN,Ciena Corporati...,"6,675",bmo,0.40,0.48,+0.08 ,+20.00% ,26.78%
+1,OLLI,Ollie's Bargain...,"5,509",amc,0.44,0.46,+0.02 ,+4.55% ,-2.58%
+2,SIG,Signet Jewelers...,972,bmo,-0.24,0.08,+0.32 ,+133.33% ,-1.24%
+3,DOCU,Docusign Inc.,"9,111",amc,0.04,0.07,+0.03 ,+75.00% ,-12.02%
+4,SJM,The J. M. Smuck...,"13,035",bmo,1.97,2.08,+0.11 ,+5.58% ,-2.31%
+5,HOME,At Home Group I...,386,bmo,0.04,0.03,-0.01 ,-25.00% ,-57.17%
+6,GES,"Guess?, Inc.","1,192",amc,-0.26,-0.25,+0.01 ,+3.85% ,-8.04%
+7,MTN,"Vail Resorts, I...","9,073",amc,7.03,7.12,+0.09 ,+1.28% ,8.72%
+8,DOMO,"Domo, Inc.",744,amc,-1.28,-1.08,+0.20 ,+15.63% ,-6.11%
+9,MIK,The Michaels Co...,"1,235",bmo,0.31,0.31,0.00 ,0.00% ,-12.42%
+10,SAIC,Science Applica...,"5,049",bmo,1.21,1.36,+0.15 ,+12.40% ,7.15%
+11,ZUMZ,Zumiez Inc.,635,amc,-0.09,0.03,+0.12 ,+133.33% ,15.96%
+12,PRSP,Perspecta Inc,"3,808",amc,0.47,0.54,+0.07 ,+14.89% ,9.47%
+13,ZM,Zoom Video Comm...,"25,442",amc,0.00,0.03,--,--,18.41%
+14,BYND,"Beyond Meat, In...","10,629",amc,-0.14,-0.14,0.00 ,0.00% ,39.35%
+15,PD,Pagerduty Inc.,"3,522",amc,-0.24,-0.22,+0.02 ,+8.33% ,2.82%
+16,PD,Pagerduty Inc.,"3,522",amc,-0.17,--,--,--,2.82%
+17,TNP,Tsakos Energy N...,300,bmo,0.01,0.01,0.00 ,0.00% ,3.32%
+18,SEAC,Seachange Inter...,62,amc,-0.07,-0.20,-0.13 ,-185.71% ,0.40%
+19,KIRK,"Kirkland's, Inc...",25,bmo,-0.36,-0.53,-0.17 ,-47.22% ,-50.35%

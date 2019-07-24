@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,TGT,Target Corporat...,"45,091",bmo,1.43,1.53,+0.10 ,+6.99% ,7.78%
+1,LOW,Lowe's Companie...,"80,249",bmo,1.33,1.22,-0.11 ,-8.27% ,-11.85%
+2,NTAP,"Netapp, Inc.","14,262",amc,1.25,1.22,-0.03 ,-2.40% ,-8.11%
+3,SCVL,"Shoe Carnival,...",395,amc,0.84,0.78,-0.06 ,-7.14% ,-10.83%
+4,AAP,Advance Auto Pa...,"11,258",bmo,2.36,2.46,+0.10 ,+4.24% ,3.09%
+5,LB,"L Brands, Inc.","7,112",amc,0.00,0.14,--,--,12.84%
+6,VFC,V.f. Corporatio...,"34,688",bmo,0.58,0.60,+0.02 ,+3.45% ,-1.92%
+7,VIPS,Vipshop Holding...,"4,949",amc,0.17,0.18,+0.01 ,+5.88% ,3.16%
+8,SNPS,"Synopsys, Inc.","20,235",amc,1.09,1.16,+0.07 ,+6.42% ,1.67%
+9,ADI,"Analog Devices,...","42,811",bmo,1.30,1.36,+0.06 ,+4.62% ,1.56%
+10,SQM,Sociedad Quimic...,"8,106",amc,0.35,0.31,-0.04 ,-11.43% ,-5.78%
+11,CTRP,Ctrip.com Inter...,"20,637",amc,0.23,0.44,+0.21 ,+91.30% ,-3.19%
+12,CM,Canadian Imperi...,"34,968",bmo,2.22,2.23,+0.01 ,+0.45% ,-4.49%
+13,CPRT,"Copart, Inc.","17,759",amc,0.61,0.66,+0.05 ,+8.20% ,7.95%
+14,PLAB,"Photronics, Inc...",587,bmo,0.07,0.13,+0.06 ,+85.71% ,5.56%
+15,HTHT,China Lodging G...,"9,515",amc,0.08,0.05,-0.03 ,-37.50% ,-7.33%
+16,SBLK,Star Bulk Carri...,983,amc,-0.07,-0.09,-0.02 ,-28.57% ,-10.46%
+17,TARO,Taro Pharmaceut...,"3,220",amc,2.26,1.52,-0.74 ,-32.74% ,-7.13%
+18,PLUS,Eplus Inc.,995,amc,1.22,1.03,-0.19 ,-15.57% ,-21.47%
+19,GOGL,Golden Ocean Gr...,960,bmo,-0.13,-0.05,+0.08 ,+61.54% ,3.07%
+20,BVNRY,Bavarian Nordic...,856,bmo,-0.12,-0.16,-0.04 ,-33.33% ,14.53%
+21,MOD,Modine Manufact...,727,amc,0.38,0.40,+0.02 ,+5.26% ,4.80%
+22,ECC,Eagle Point Cre...,422,bmo,0.40,0.36,-0.04 ,-10.00% ,1.25%
+23,KLXE,Klx Energy Serv...,400,bmo,0.08,0.25,+0.17 ,+212.50% ,-5.89%
+24,AFMD,Affimed N.v.,193,bmo,-0.16,0.03,+0.19 ,+118.75% ,-6.93%

@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,WMT,Walmart Inc.,"325,153",bmo,1.33,1.41,+0.08 ,+6.02% ,2.21%
+1,MDT,Medtronic Plc,"135,189",bmo,1.24,1.29,+0.05 ,+4.03% ,0.07%
+2,HIMX,Himax Technolog...,515,bmo,0.03,0.05,+0.02 ,+66.67% ,5.37%
+3,AAP,Advance Auto Pa...,"11,258",bmo,1.14,1.17,+0.03 ,+2.63% ,-1.68%
+4,AJRD,Aerojet Rocketd...,"3,501",--,0.36,0.33,-0.03 ,-8.33% ,--
+5,FE,Firstenergy Cor...,"23,112",amc,0.48,0.50,+0.02 ,+4.17% ,-0.03%
+6,NEO,"Neogenomics, In...","2,277",bmo,0.05,0.06,+0.01 ,+20.00% ,2.89%
+7,AWK,American Water...,"20,756",amc,0.69,0.69,0.00 ,0.00% ,-0.04%
+8,DVN,Devon Energy Co...,"10,938",amc,0.31,0.10,-0.21 ,-67.74% ,6.92%
+9,FANG,Diamondback Ene...,"17,226",amc,1.62,1.21,-0.41 ,-25.31% ,1.57%
+10,AROC,"Archrock, Inc.","1,336",bmo,0.08,0.10,+0.02 ,+25.00% ,3.82%
+11,CDNS,Cadence Design...,"20,493",amc,0.48,0.52,+0.04 ,+8.33% ,4.62%
+12,DK,Delek Us Holdin...,"3,029",amc,1.28,1.59,+0.31 ,+24.22% ,6.40%
+13,HLF,Herbalife Ltd.,"6,193",amc,0.61,0.63,+0.02 ,+3.28% ,-2.02%
+14,HSBC,Hsbc Holdings P...,"164,764",--,0.95,0.40,-0.55 ,-57.89% ,--
+15,IIN,Intricon Corpor...,156,amc,0.16,0.09,-0.07 ,-43.75% ,-11.18%
+16,ECL,Ecolab Inc.,"56,864",bmo,1.54,1.54,0.00 ,0.00% ,2.34%
+17,FIVN,"Five9, Inc.","2,833",amc,0.14,0.23,+0.09 ,+64.29% ,-5.23%
+18,AAWW,Atlas Air World...,"1,105",bmo,2.90,3.12,+0.22 ,+7.59% ,7.65%
+19,NAT,Nordic American...,298,amc,-0.01,-0.05,-0.04 ,-400.00% ,2.24%
+20,WLK,Westlake Chemic...,"8,801",bmo,1.72,1.02,-0.70 ,-40.70% ,-4.76%
+21,GPC,Genuine Parts C...,"13,902",bmo,1.32,1.35,+0.03 ,+2.27% ,1.48%
+22,OMI,"Owens & Minor,...",166,bmo,0.14,0.09,-0.05 ,-35.71% ,3.12%
+23,NVTA,Invitae Corpora...,"2,176",amc,-0.42,-0.40,+0.02 ,+4.76% ,13.63%
+24,CXO,Concho Resource...,"20,384",amc,1.10,0.94,-0.16 ,-14.55% ,-7.07%

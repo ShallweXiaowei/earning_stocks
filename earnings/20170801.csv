@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,AAPL,Apple Inc.,"939,678",amc,1.57,--,--,--,4.73%
+1,BP,Bp P.l.c.,"137,166",bmo,0.11,--,--,--,3.22%
+2,PFE,Pfizer Inc.,"244,192",bmo,0.65,--,--,--,-0.24%
+3,ILMN,"Illumina, Inc.","55,600",amc,0.68,--,--,--,14.83%
+4,SNE,Sony Corporatio...,"69,534",bmo,0.48,--,--,--,-0.88%
+5,SHOP,Shopify Inc.,"34,974",bmo,-0.07,--,--,--,12.68%
+6,ADM,Archer Daniels...,"23,493",bmo,0.52,--,--,--,2.66%
+7,BOOT,Boot Barn Holdi...,992,amc,0.00,--,--,--,17.01%
+8,FEYE,"Fireeye, Inc.","3,085",amc,-0.12,--,--,--,0.75%
+9,FTR,Frontier Commun...,186,amc,-1.12,--,--,--,7.30%
+10,MOS,The Mosaic Comp...,"9,568",bmo,0.25,--,--,--,-5.18%
+11,ARC,Arc Document So...,95,amc,0.05,--,--,--,10.26%
+12,PSX,Phillips 66,"43,904",bmo,1.02,--,--,--,2.24%
+13,UAA,"Under Armour, I...","11,682",bmo,-0.06,--,--,--,-8.59%
+14,CME,Cme Group Inc.,"72,406",bmo,1.20,--,--,--,0.95%
+15,DXCM,"Dexcom, Inc.","13,384",amc,-0.23,--,--,--,6.67%
+16,GHDX,"Genomic Health,...","2,165",amc,-0.06,--,--,--,-5.46%
+17,PAYC,Paycom Software...,"14,001",amc,0.20,--,--,--,-4.33%
+18,MTCH,"Match Group, In...","20,320",amc,0.19,--,--,--,4.22%
+19,CMI,Cummins Inc.,"26,640",bmo,2.58,--,--,--,-6.21%
+20,EOG,"Eog Resources,...","51,399",amc,0.10,--,--,--,-2.27%
+21,S,Sprint Corporat...,"28,799",bmo,-0.01,--,--,--,11.15%
+22,MSEX,Middlesex Water...,"1,026",--,0.38,--,--,--,--
+23,OKE,"Oneok, Inc.","29,009",amc,0.45,--,--,--,-2.41%
+24,GLUU,Glu Mobile Inc....,"1,040",amc,-0.10,--,--,--,5.47%

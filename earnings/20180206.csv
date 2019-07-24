@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,DIS,The Walt Disney...,"256,367",amc,1.62,--,--,--,-1.33%
+1,BP,Bp P.l.c.,"137,166",bmo,0.66,--,--,--,1.99%
+2,GM,General Motors...,"54,608",bmo,1.34,--,--,--,5.87%
+3,GILD,Gilead Sciences...,"87,369",amc,1.70,--,--,--,2.96%
+4,SNAP,Snap Inc.,"20,625",amc,-0.15,--,--,--,47.58%
+5,ADM,Archer Daniels...,"23,493",bmo,0.70,--,--,--,3.45%
+6,CNC,Centene Corpora...,"21,280",bmo,0.47,--,--,--,4.32%
+7,SAVE,Spirit Airlines...,"3,481",bmo,0.71,--,--,--,1.35%
+8,VSH,Vishay Intertec...,"2,364",bmo,0.39,--,--,--,-7.82%
+9,AGN,Allergan Plc,"54,969",bmo,4.75,--,--,--,2.02%
+10,LITE,Lumentum Holdin...,"4,061",bmo,1.14,--,--,--,21.24%
+11,PAYC,Paycom Software...,"14,001",amc,0.23,--,--,--,-2.44%
+12,NEWR,"New Relic, Inc....","5,316",amc,-0.08,--,--,--,8.99%
+13,MTCH,"Match Group, In...","20,320",amc,0.31,--,--,--,8.33%
+14,CMI,Cummins Inc.,"26,640",bmo,2.65,--,--,--,-2.34%
+15,CCR,Consol Coal Res...,442,bmo,0.45,--,--,--,1.92%
+16,ATKR,Atkore Internat...,"1,195",bmo,0.34,--,--,--,-1.57%
+17,AKAM,Akamai Technolo...,"13,407",amc,0.63,--,--,--,1.27%
+18,TWO,Two Harbors Inv...,"3,484",amc,0.47,--,--,--,0.91%
+19,EMR,Emerson Electri...,"40,196",bmo,0.54,--,--,--,1.18%
+20,MCHP,Microchip Techn...,"21,230",amc,1.35,--,--,--,-9.80%
+21,WCG,Wellcare Health...,"14,216",bmo,0.21,--,--,--,-0.43%
+22,APC,Anadarko Petrol...,"35,671",amc,0.03,--,--,--,2.14%
+23,MYGN,Myriad Genetics...,"2,029",amc,0.24,--,--,--,-5.53%
+24,ZEN,"Zendesk, Inc.","10,073",amc,-0.04,--,--,--,5.31%

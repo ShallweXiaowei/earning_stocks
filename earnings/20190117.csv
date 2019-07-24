@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,NFLX,"Netflix, Inc.","166,384",amc,0.24,0.30,+0.06 ,+25.00% ,-3.99%
+1,AXP,American Expres...,"104,719",amc,1.80,1.74,-0.06 ,-3.33% ,1.00%
+2,MS,Morgan Stanley,"74,372",bmo,0.90,0.73,-0.17 ,-18.89% ,-4.41%
+3,TEAM,Atlassian Corpo...,"14,349",amc,0.21,0.25,+0.04 ,+19.05% ,-2.42%
+4,KEY,Keycorp,"18,149",bmo,0.47,0.48,+0.01 ,+2.13% ,-2.51%
+5,BBT,Bb&t Corporatio...,"38,250",bmo,1.04,1.05,+0.01 ,+0.96% ,1.56%
+6,FAST,Fastenal Compan...,"18,366",bmo,0.30,0.30,0.00 ,0.00% ,5.95%
+7,MTG,Mgic Investment...,"4,952",bmo,0.37,0.42,+0.05 ,+13.51% ,1.04%
+8,PPG,"Ppg Industries,...","27,851",bmo,1.09,1.15,+0.06 ,+5.50% ,4.70%
+9,PACW,Pacwest Bancorp...,"4,605",--,0.92,0.93,+0.01 ,+1.09% ,--
+10,OZK,Bank Ozk,"3,849",amc,0.83,0.89,+0.06 ,+7.23% ,16.16%
+11,JBHT,J.b. Hunt Trans...,"9,880",amc,1.48,1.77,+0.29 ,+19.59% ,6.19%
+12,PBCT,People's United...,"6,772",amc,0.34,0.36,+0.02 ,+5.88% ,2.31%
+13,MTB,M&t Bank Corpor...,"23,774",bmo,3.51,3.79,+0.28 ,+7.98% ,5.69%
+14,SBNY,Signature Bank,"6,883",bmo,2.79,2.94,+0.15 ,+5.38% ,7.88%
+15,CBSH,Commerce Bancsh...,"6,702",bmo,0.95,0.96,+0.01 ,+1.05% ,1.19%
+16,HOMB,Home Bancshares...,"3,308",bmo,0.45,0.44,-0.01 ,-2.22% ,-5.96%
+17,WNS,Wns (holdings)...,"3,030",bmo,0.61,0.73,+0.12 ,+19.67% ,1.14%
+18,INDB,Independent Ban...,"2,596",amc,1.30,1.29,-0.01 ,-0.77% ,2.05%
+19,BANF,Bancfirst Corpo...,"1,849",--,0.93,0.98,+0.05 ,+5.38% ,--
+20,PRGS,Progress Softwa...,"1,813",amc,0.74,0.76,+0.02 ,+2.70% ,-4.56%
+21,SASR,Sandy Spring Ba...,"1,267",bmo,0.79,0.67,-0.12 ,-15.19% ,-6.40%
+22,BEDU,Bright Scholar...,"1,262",amc,0.17,0.19,+0.02 ,+11.76% ,-1.39%
+23,BMTC,Bryn Mawr Bank...,767,--,0.79,0.84,+0.05 ,+6.33% ,--
+24,PFBC,Preferred Bank,720,amc,1.24,1.13,-0.11 ,-8.87% ,0.75%

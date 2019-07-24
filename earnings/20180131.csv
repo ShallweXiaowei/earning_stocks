@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,MSFT,Microsoft Corpo...,"1,050,266",amc,0.86,--,--,--,-0.79%
+1,FB,"Facebook, Inc.","560,621",amc,1.96,--,--,--,3.32%
+2,T,At&t Inc.,"250,326",amc,0.65,--,--,--,4.57%
+3,BA,The Boeing Comp...,"200,218",bmo,2.91,--,--,--,4.93%
+4,QCOM,Qualcomm Incorp...,"93,195",amc,0.90,--,--,--,-2.12%
+5,PYPL,Paypal Holdings...,"137,655",amc,0.52,--,--,--,-8.11%
+6,EPD,Enterprise Prod...,"64,300",bmo,0.35,--,--,--,-2.40%
+7,ERIC,Ericsson,"31,340",bmo,0.04,--,--,--,-8.13%
+8,LLY,Eli Lilly And C...,"109,529",bmo,1.08,--,--,--,-5.39%
+9,ARCB,Arcbest Corpora...,695,bmo,0.35,--,--,--,-0.84%
+10,BOOT,Boot Barn Holdi...,992,amc,0.45,--,--,--,6.22%
+11,X,United States S...,"2,543",amc,0.68,--,--,--,-2.14%
+12,NOW,"Servicenow, Inc...","54,640",amc,0.35,--,--,--,2.65%
+13,AGNC,Agnc Investment...,"9,119",amc,0.62,--,--,--,0.11%
+14,ANTM,"Anthem, Inc.","73,059",bmo,1.25,--,--,--,1.81%
+15,SIRI,Sirius Xm Holdi...,"27,229",bmo,0.05,--,--,--,2.69%
+16,TMO,Thermo Fisher S...,"120,254",bmo,2.66,--,--,--,4.42%
+17,MEOH,Methanex Corpor...,"3,483",amc,1.19,--,--,--,0.00%
+18,EBAY,Ebay Inc.,"34,687",amc,0.59,--,--,--,13.82%
+19,SYMC,Symantec Corpor...,"15,455",amc,0.44,--,--,--,0.48%
+20,VRTX,Vertex Pharmace...,"45,677",amc,0.58,--,--,--,3.67%
+21,MT,Arcelormittal,"17,634",bmo,0.80,--,--,--,-0.63%
+22,ADP,Automatic Data...,"71,743",bmo,0.89,--,--,--,2.33%
+23,IVZ,Invesco Ltd.,"8,406",bmo,0.70,--,--,--,-1.50%
+24,TSCO,Tractor Supply...,"13,327",amc,0.87,--,--,--,-6.31%

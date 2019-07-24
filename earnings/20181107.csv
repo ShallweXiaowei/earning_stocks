@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,SQ,"Square, Inc.","31,431",amc,0.11,0.13,+0.02 ,+18.18% ,-9.02%
+1,ROKU,"Roku, Inc.","11,127",amc,-0.13,--,--,--,-22.29%
+2,QCOM,Qualcomm Incorp...,"93,195",amc,0.83,0.90,+0.07 ,+8.43% ,-8.16%
+3,ET,Energy Transfer...,"38,243",amc,0.59,0.32,-0.27 ,-45.76% ,0.56%
+4,SO,Southern Compan...,"58,631",bmo,1.07,1.14,+0.07 ,+6.54% ,2.93%
+5,CYBR,Cyberark Softwa...,"4,849",amc,0.27,0.48,+0.21 ,+77.78% ,8.79%
+6,TTWO,Take-two Intera...,"13,193",amc,0.91,1.05,+0.14 ,+15.38% ,-5.30%
+7,VRS,Verso Corporati...,663,bmo,1.73,1.80,+0.07 ,+4.05% ,10.54%
+8,FOSL,"Fossil Group, I...",544,amc,-0.11,0.19,+0.30 ,+272.73% ,5.76%
+9,TRIP,"Tripadvisor, In...","6,614",amc,0.47,0.72,+0.25 ,+53.19% ,15.26%
+10,WYNN,"Wynn Resorts, L...","14,299",amc,1.77,1.68,-0.09 ,-5.08% ,-13.13%
+11,ARC,Arc Document So...,95,amc,0.01,0.05,+0.04 ,+400.00% ,20.52%
+12,AYX,"Alteryx, Inc.","7,253",amc,-0.05,0.08,+0.13 ,+260.00% ,-0.60%
+13,MEET,"Meetme, Inc.",263,bmo,0.09,0.10,+0.01 ,+11.11% ,-6.08%
+14,EDIT,Editas Medicine...,"1,184",amc,-0.72,-0.32,+0.40 ,+55.56% ,4.75%
+15,CRSP,Crispr Therapeu...,"2,518",--,-0.74,-1.07,-0.33 ,-44.59% ,--
+16,MRO,Marathon Oil Co...,"11,255",amc,0.20,0.24,+0.04 ,+20.00% ,-2.49%
+17,ALB,Albemarle Corpo...,"7,471",amc,1.25,1.31,+0.06 ,+4.80% ,-1.96%
+18,HCHC,"Hc2 Holdings, I...",101,amc,-0.42,0.05,+0.47 ,+111.90% ,-4.65%
+19,PRU,Prudential Fina...,"41,712",amc,3.14,3.15,+0.01 ,+0.32% ,-3.69%
+20,NVAX,"Novavax, Inc.",120,amc,-2.40,-2.40,0.00 ,0.00% ,-6.60%
+21,GNL,Global Net Leas...,"1,687",bmo,0.51,0.54,+0.03 ,+5.88% ,4.71%
+22,HUM,Humana Inc.,"35,737",bmo,4.29,4.58,+0.29 ,+6.76% ,6.68%
+23,AAOI,Applied Optoele...,196,amc,0.00,0.14,--,--,11.97%
+24,VNDA,Vanda Pharmaceu...,738,amc,0.01,0.20,+0.19 ,"+1,900.00% ",14.72%

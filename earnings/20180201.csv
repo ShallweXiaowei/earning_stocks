@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,AAPL,Apple Inc.,"939,678",amc,3.82,--,--,--,-4.34%
+1,AMZN,"Amazon.com, Inc...","956,556",amc,1.85,--,--,--,2.87%
+2,BABA,Alibaba Group H...,NA,bmo,1.65,--,--,--,-5.91%
+3,V,Visa Inc.,"352,625",amc,0.98,--,--,--,-3.83%
+4,GOOGL,Alphabet Inc.,"786,348",amc,10.12,--,--,--,-5.28%
+5,MA,Mastercard Inco...,"277,997",bmo,1.12,--,--,--,2.33%
+6,MO,"Altria Group, I...","91,263",bmo,0.80,--,--,--,-0.58%
+7,BX,Blackstone Grou...,"31,105",bmo,0.70,--,--,--,-0.55%
+8,KEM,Kemet Corporati...,"1,123",bmo,0.34,--,--,--,-6.43%
+9,ABMD,"Abiomed, Inc.","11,840",bmo,0.50,--,--,--,7.71%
+10,AMGN,Amgen Inc.,"113,411",amc,3.04,--,--,--,0.78%
+11,VLO,Valero Energy C...,"34,147",bmo,1.06,--,--,--,-1.33%
+12,RDS.A,Royal Dutch She...,"263,038",bmo,1.02,--,--,--,-1.10%
+13,MPC,Marathon Petrol...,"36,358",bmo,0.96,--,--,--,-0.84%
+14,UPS,United Parcel S...,"88,158",bmo,1.65,--,--,--,-6.13%
+15,CI,Cigna Corporati...,"62,019",bmo,1.87,--,--,--,-1.60%
+16,CY,Cypress Semicon...,"8,150",amc,0.25,--,--,--,-0.06%
+17,COP,Conocophillips,"67,698",bmo,0.45,--,--,--,0.92%
+18,NOK,Nokia Corporati...,"28,516",bmo,0.11,--,--,--,12.27%
+19,IP,International P...,"17,431",bmo,1.19,--,--,--,-1.89%
+20,CME,Cme Group Inc.,"72,406",bmo,1.10,--,--,--,3.54%
+21,ENVA,Enova Internati...,760,amc,0.21,--,--,--,8.29%
+22,BSX,Boston Scientif...,"59,270",bmo,0.34,--,--,--,-1.18%
+23,GPRO,"Gopro, Inc.",853,amc,-0.10,--,--,--,0.91%
+24,MPLX,Mplx Lp,"25,824",bmo,0.34,--,--,--,2.02%

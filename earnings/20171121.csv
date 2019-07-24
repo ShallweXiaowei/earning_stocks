@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,CRM,"Salesforce.com,...","119,954",amc,0.37,--,--,--,-1.81%
+1,LOW,Lowe's Companie...,"81,596",bmo,1.02,--,--,--,-1.07%
+2,MDT,Medtronic Plc,"131,581",bmo,0.99,--,--,--,4.77%
+3,DLTR,"Dollar Tree, In...","26,048",bmo,0.90,--,--,--,2.42%
+4,BURL,Burlington Stor...,"11,648",bmo,0.65,--,--,--,-1.51%
+5,HPE,Hewlett Packard...,"20,315",amc,0.28,--,--,--,-7.22%
+6,HPQ,Hp Inc.,"31,873",amc,0.44,--,--,--,-4.99%
+7,GME,Gamestop Corp.,565,amc,0.43,--,--,--,3.83%
+8,SIG,Signet Jewelers...,903,bmo,0.15,--,--,--,-30.39%
+9,HRL,Hormel Foods Co...,"22,231",bmo,0.40,--,--,--,3.35%
+10,CPB,Campbell Soup C...,"12,519",bmo,0.97,--,--,--,-8.19%
+11,ADI,"Analog Devices,...","41,731",bmo,1.37,--,--,--,-3.09%
+12,CBRL,Cracker Barrel...,"4,158",bmo,1.86,--,--,--,-4.08%
+13,JEC,Jacobs Engineer...,"11,572",bmo,0.82,--,--,--,9.30%
+14,GES,"Guess?, Inc.","1,170",amc,0.11,--,--,--,-12.98%
+15,CHS,"Chico's Fas, In...",408,bmo,0.13,--,--,--,-3.07%
+16,NM,Navios Maritime...,56,bmo,-2.20,--,--,--,-4.86%
+17,CPRT,"Copart, Inc.","17,092",amc,0.26,--,--,--,11.74%
+18,MOV,Movado Group In...,626,bmo,0.86,--,--,--,11.59%
+19,PDCO,Patterson Compa...,"2,148",bmo,0.54,--,--,--,-0.06%
+20,SDLP,Seadrill Partne...,30,bmo,0.10,--,--,--,-3.42%
+21,SE,Sea Limited Spo...,"11,679",amc,-0.51,--,--,--,-6.29%
+22,EV,Eaton Vance Cor...,"4,998",bmo,0.71,--,--,--,-0.17%
+23,NJR,Newjersey Resou...,"4,450",bmo,-0.12,--,--,--,-1.13%
+24,GOGL,Golden Ocean Gr...,919,bmo,-0.05,--,--,--,3.53%

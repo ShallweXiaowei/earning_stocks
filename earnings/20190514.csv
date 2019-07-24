@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,ACB,Aurora Cannabis...,"6,936",amc,-0.03,-0.08,-0.05 ,-166.67% ,3.58%
+1,TLRY,"Tilray, Inc.","4,238",amc,-0.25,-0.27,-0.02 ,-8.00% ,0.33%
+2,CYBR,Cyberark Softwa...,"5,263",bmo,0.41,0.56,+0.15 ,+36.59% ,1.45%
+3,NEWR,"New Relic, Inc....","5,104",amc,0.06,0.13,+0.07 ,+116.67% ,-5.87%
+4,AEYE,"Audioeye, Inc.",53,amc,-0.16,-0.28,-0.12 ,-75.00% ,-9.35%
+5,A,Agilent Technol...,"21,709",amc,0.72,0.71,-0.01 ,-1.39% ,-11.01%
+6,RL,Ralph Lauren Co...,"8,609",bmo,0.93,1.07,+0.14 ,+15.05% ,-3.66%
+7,HUD,Hudson Ltd.,"1,252",bmo,0.06,0.08,+0.02 ,+33.33% ,-1.60%
+8,CATB,Catabasis Pharm...,82,bmo,-0.60,-0.62,-0.02 ,-3.33% ,4.91%
+9,ROSE,Klr Energy Acqu...,135,amc,0.06,3.16,+3.10 ,"+5,166.67% ",-3.76%
+10,NAT,Nordic American...,298,--,0.00,0.04,--,--,--
+11,PAGS,Pagseguro Digit...,"14,960",amc,0.25,0.27,+0.02 ,+8.00% ,9.38%
+12,KOOL,Cesca Therapeut...,8,amc,-0.80,-0.60,+0.20 ,+25.00% ,1.08%
+13,CPIX,Cumberland Phar...,88,amc,-0.11,0.11,+0.22 ,+200.00% ,4.09%
+14,NLST,"Netlist, Inc.",48,amc,-0.03,-0.03,0.00 ,0.00% ,-8.32%
+15,AUPH,Aurinia Pharmac...,577,amc,-0.16,-0.16,0.00 ,0.00% ,3.95%
+16,VCTR,Victory Capital...,"1,212",amc,0.34,0.35,+0.01 ,+2.94% ,4.44%
+17,FSM,Fortuna Silver...,599,amc,0.03,0.05,+0.02 ,+66.67% ,-8.71%
+18,NSANY,Nissan Motor Co...,"27,573",--,0.54,0.28,-0.26 ,-48.15% ,--
+19,DOX,Amdocs Limited,"8,867",amc,1.03,1.06,+0.03 ,+2.91% ,12.96%
+20,GDS,Gds Holdings,"4,667",bmo,-0.13,-0.18,-0.05 ,-38.46% ,4.97%
+21,EGHT,8x8 Inc,"2,380",amc,-0.08,-0.09,-0.01 ,-12.50% ,-5.56%
+22,BEST,"Best, Inc. Spon...","1,816",bmo,-0.10,-0.08,+0.02 ,+20.00% ,-8.66%
+23,TAC,Transalta Corpo...,"1,747",bmo,-0.04,-0.17,-0.13 ,-325.00% ,0.30%
+24,GOSS,"Gossamer Bio, I...","1,252",bmo,-0.63,-0.90,-0.27 ,-42.86% ,-4.65%

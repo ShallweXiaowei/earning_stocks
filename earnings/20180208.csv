@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,NVDA,Nvidia Corporat...,"97,580",amc,1.16,--,--,--,6.69%
+1,TWTR,"Twitter, Inc.","27,863",bmo,0.14,--,--,--,12.15%
+2,CVS,Cvs Health Corp...,"72,191",bmo,1.89,--,--,--,-5.11%
+3,ATVI,Activision Bliz...,"36,883",amc,0.94,--,--,--,1.90%
+4,GOOS,Canada Goose Ho...,"4,493",bmo,0.36,--,--,--,-16.61%
+5,PM,Philip Morris I...,"124,651",bmo,1.36,--,--,--,1.53%
+6,TEVA,Teva Pharmaceut...,"9,630",bmo,0.81,--,--,--,-10.60%
+7,FEYE,"Fireeye, Inc.","3,085",amc,-0.01,--,--,--,9.35%
+8,UBNT,Ubiquiti Networ...,"9,389",bmo,0.81,--,--,--,-14.06%
+9,ALXN,Alexion Pharmac...,"29,218",bmo,1.28,--,--,--,-7.41%
+10,EGAN,Egain Corporati...,242,amc,-0.04,--,--,--,7.69%
+11,GRUB,Grubhub Inc.,"7,099",bmo,0.31,--,--,--,27.36%
+12,MCFT,Mastercraft Boa...,393,amc,0.33,--,--,--,18.29%
+13,CAH,Cardinal Health...,"14,375",bmo,1.14,--,--,--,2.29%
+14,MPW,Medical Propert...,"7,214",bmo,0.35,--,--,--,-3.02%
+15,AZRE,Azure Power Glo...,435,amc,-0.15,--,--,--,0.03%
+16,REGN,Regeneron Pharm...,"33,548",bmo,4.68,--,--,--,-3.58%
+17,GLUU,Glu Mobile Inc....,"1,040",amc,-0.03,--,--,--,-4.97%
+18,HBI,Hanesbrands Inc...,"6,282",bmo,0.53,--,--,--,-10.88%
+19,TOT,Total S.a.,"138,114",--,1.06,--,--,--,--
+20,TMUS,"T-mobile Us, In...","65,124",bmo,0.37,--,--,--,-5.12%
+21,CTRL,Control4 Corpor...,637,amc,0.34,--,--,--,-4.29%
+22,MANU,Manchester Unit...,734,bmo,0.13,--,--,--,-0.26%
+23,SKX,Skechers U.s.a....,"5,155",amc,0.13,--,--,--,7.54%
+24,USAT,Usa Technologie...,452,bmo,0.01,--,--,--,10.43%

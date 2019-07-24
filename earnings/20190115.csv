@@ -1,0 +1,14 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,JPM,Jpmorgan Chase...,"368,158",bmo,2.20,1.98,-0.22 ,-10.00% ,0.73%
+1,UNH,Unitedhealth Gr...,"234,725",bmo,3.20,3.28,+0.08 ,+2.50% ,3.55%
+2,DAL,Delta Air Lines...,"38,448",bmo,1.27,1.30,+0.03 ,+2.36% ,0.17%
+3,WFC,Wells Fargo & C...,"214,695",bmo,1.17,1.21,+0.04 ,+3.42% ,-1.55%
+4,UAL,United Airlines...,"23,837",amc,1.86,2.41,+0.55 ,+29.57% ,6.35%
+5,SNV,Synovus Financi...,"5,522",bmo,0.94,0.92,-0.02 ,-2.13% ,-2.72%
+6,FULT,Fulton Financia...,"2,797",amc,0.35,0.33,-0.02 ,-5.71% ,-1.39%
+7,FRC,First Republic...,"16,766",bmo,1.24,1.29,+0.05 ,+4.03% ,11.84%
+8,INFO,Ihs Markit Ltd....,"25,916",bmo,0.55,0.57,+0.02 ,+3.64% ,2.26%
+9,PNFP,Pinnacle Financ...,"4,448",amc,1.24,1.25,+0.01 ,+0.81% ,3.47%
+10,HAFC,Hanmi Financial...,697,amc,0.51,0.46,-0.05 ,-9.80% ,-2.99%
+11,NCBS,Nicolet Banksha...,601,--,0.99,1.11,+0.12 ,+12.12% ,--
+12,BMRA,"Biomerica, Inc....",26,--,-0.06,-0.05,+0.01 ,+16.67% ,--

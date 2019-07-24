@@ -1,0 +1,6 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,C,Citigroup Inc.,"165,110",bmo,1.55,1.61,+0.06 ,+3.87% ,3.95%
+1,SJR,Shaw Communicat...,"10,101",bmo,0.25,0.28,+0.03 ,+12.00% ,3.20%
+2,WAFD,Washington Fede...,"2,828",--,0.61,0.65,+0.04 ,+6.56% ,--
+3,LMNR,Limoneira Co,349,--,-0.33,-0.30,+0.03 ,+9.09% ,--
+4,PTE,Majesco Enterta...,136,bmo,-1.02,-0.96,+0.06 ,+5.88% ,-2.49%

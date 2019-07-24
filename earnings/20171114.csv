@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,HD,"The Home Depot,...","232,667",bmo,1.81,--,--,--,1.64%
+1,TJX,The Tjx Compani...,"66,005",bmo,0.50,--,--,--,-3.99%
+2,NBEV,New Age Beverag...,339,bmo,0.01,--,--,--,-1.85%
+3,VRS,Verso Corporati...,663,bmo,0.39,--,--,--,7.38%
+4,YY,Yy Inc.,"4,449",amc,1.54,--,--,--,24.83%
+5,NMM,Navios Maritime...,175,bmo,0.30,--,--,--,-6.10%
+6,AAP,Advance Auto Pa...,"11,522",bmo,1.20,--,--,--,16.33%
+7,PBR,Petroleo Brasil...,"102,267",--,0.15,--,--,--,--
+8,DKS,Dick's Sporting...,"3,381",bmo,0.26,--,--,--,-2.77%
+9,LNG,Cheniere Energy...,"17,702",bmo,-0.16,--,--,--,-1.58%
+10,DQ,Daqo New Energy...,472,bmo,1.45,--,--,--,6.67%
+11,SSYS,"Stratasys, Ltd....","1,510",bmo,0.04,--,--,--,4.27%
+12,CQP,Cheniere Energy...,"20,803",--,0.33,--,--,--,--
+13,ZYNE,Zynerba Pharmac...,325,--,-0.59,--,--,--,--
+14,NVCN,Neovasc Inc.,37,amc,-20.00,--,--,--,-7.14%
+15,IFNNY,Infineon Techno...,"20,682",--,0.31,--,--,--,--
+16,AQN,Algonquin Power...,"6,053",amc,0.10,--,--,--,1.69%
+17,IGT,International G...,"2,722",bmo,0.24,--,--,--,15.09%
+18,MTSI,Macom Technolog...,996,amc,0.46,--,--,--,-18.00%
+19,WPRT,Westport Fuel S...,376,amc,-0.15,--,--,--,13.00%
+20,AUPH,Aurinia Pharmac...,591,amc,-0.14,--,--,--,-6.37%
+21,IMBBY,Imperial Tobacc...,"23,698",--,2.02,--,--,--,--
+22,PTI,Proteostasis Th...,50,--,-0.63,--,--,--,--
+23,YRD,Yirendai Ltd.,800,amc,0.78,--,--,--,-1.63%
+24,BZH,Beazer Homes Us...,319,amc,0.53,--,--,--,-0.14%

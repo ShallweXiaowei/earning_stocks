@@ -1,0 +1,21 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,MRVL,Marvell Technol...,"16,071",amc,0.32,0.33,+0.01 ,+3.13% ,0.00%
+1,DG,Dollar General...,"36,152",bmo,1.26,1.26,0.00 ,0.00% ,-6.80%
+2,BMO,Bank Of Montrea...,"49,305",bmo,1.75,1.78,+0.03 ,+1.71% ,-4.06%
+3,AZO,"Autozone, Inc.","27,725",bmo,12.21,13.47,+1.26 ,+10.32% ,6.75%
+4,HPE,Hewlett Packard...,"20,315",amc,0.43,0.45,+0.02 ,+4.65% ,0.00%
+5,MDB,"Mongodb, Inc.","8,626",amc,-0.40,--,--,--,0.00%
+6,OLLI,Ollie's Bargain...,"5,380",amc,0.31,0.32,+0.01 ,+3.23% ,0.00%
+7,HQY,"Healthequity, I...","4,055",amc,0.25,0.28,+0.03 ,+12.00% ,0.00%
+8,ZS,"Zscaler, Inc.","10,437",amc,-0.05,--,--,--,0.00%
+9,CONN,"Conn's, Inc.",569,bmo,0.58,0.59,+0.01 ,+1.72% ,-14.16%
+10,TOL,Toll Brothers I...,"5,293",amc,1.82,2.08,+0.26 ,+14.29% ,0.00%
+11,MOV,Movado Group In...,626,bmo,1.13,1.18,+0.05 ,+4.42% ,12.55%
+12,GMS,Gms Inc.,924,bmo,0.95,0.89,-0.06 ,-6.32% ,-10.12%
+13,HDS,Hd Supply Holdi...,"6,825",bmo,0.98,1.00,+0.02 ,+2.04% ,-0.61%
+14,GWRE,Guidewire Softw...,"8,362",amc,0.20,0.36,+0.16 ,+80.00% ,0.00%
+15,DCI,Donaldson Compa...,"6,360",bmo,0.57,0.56,-0.01 ,-1.75% ,-9.51%
+16,AVYA,Avaya Holdings...,"1,278",bmo,0.86,--,--,--,6.48%
+17,SECO,Secoo Holding L...,162,bmo,0.14,--,--,--,0.66%
+18,MCC,Medley Capital...,130,--,0.05,0.01,-0.04 ,-80.00% ,--
+19,EMKR,Emcore Corporat...,92,bmo,-0.04,-0.12,-0.08 ,-200.00% ,4.52%

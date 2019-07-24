@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,AMZN,"Amazon.com, Inc...","956,556",amc,0.01,--,--,--,13.22%
+1,MSFT,Microsoft Corpo...,"1,050,266",amc,0.72,--,--,--,6.41%
+2,INTC,Intel Corporati...,"215,254",amc,0.80,--,--,--,7.38%
+3,F,Ford Motor Comp...,"40,693",bmo,0.33,--,--,--,1.91%
+4,TWTR,"Twitter, Inc.","27,863",bmo,0.06,--,--,--,18.49%
+5,GOOGL,Alphabet Inc.,"786,348",amc,8.43,--,--,--,4.26%
+6,BMY,Bristol-myers S...,"75,063",bmo,0.77,--,--,--,-4.77%
+7,MO,"Altria Group, I...","91,263",bmo,0.87,--,--,--,3.14%
+8,GILD,Gilead Sciences...,"87,369",amc,2.09,--,--,--,-1.04%
+9,CELG,Celgene Corpora...,"66,083",bmo,1.88,--,--,--,-16.37%
+10,WDC,Western Digital...,"14,216",amc,3.30,--,--,--,-2.54%
+11,RTN,Raytheon Compan...,"48,600",bmo,1.90,--,--,--,-3.87%
+12,ALGN,Align Technolog...,"21,865",amc,0.82,--,--,--,16.24%
+13,ABMD,"Abiomed, Inc.","11,840",bmo,0.37,--,--,--,4.80%
+14,BIDU,"Baidu, Inc.","40,625",amc,2.19,--,--,--,-8.15%
+15,VLO,Valero Energy C...,"34,147",bmo,1.83,--,--,--,-1.79%
+16,MPC,Marathon Petrol...,"36,358",bmo,1.45,--,--,--,1.47%
+17,AAL,American Airlin...,"14,439",bmo,1.39,--,--,--,-4.72%
+18,UPS,United Parcel S...,"88,158",bmo,1.44,--,--,--,0.66%
+19,FTNT,"Fortinet, Inc.","13,471",amc,0.23,--,--,--,-3.39%
+20,CY,Cypress Semicon...,"8,150",amc,0.23,--,--,--,2.74%
+21,COP,Conocophillips,"67,698",bmo,0.09,--,--,--,3.00%
+22,CMCSA,Comcast Corpora...,"196,427",bmo,0.49,--,--,--,-1.52%
+23,NOK,Nokia Corporati...,"28,516",bmo,0.06,--,--,--,-21.32%
+24,NEE,"Nextera Energy,...","99,671",bmo,1.75,--,--,--,-0.31%

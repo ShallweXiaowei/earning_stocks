@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,EPD,Enterprise Prod...,"64,300",bmo,0.38,0.39,+0.01 ,+2.63% ,1.36%
+1,MCD,Mcdonald's Corp...,"161,294",bmo,1.67,1.79,+0.12 ,+7.19% ,5.77%
+2,MPC,Marathon Petrol...,"36,358",bmo,0.14,0.08,-0.06 ,-42.86% ,-8.01%
+3,MOH,Molina Healthca...,"8,990",bmo,0.81,1.71,+0.90 ,+111.11% ,-1.96%
+4,RCII,"Rent-a-center,...","1,483",amc,0.08,-0.08,-0.16 ,-200.00% ,-6.78%
+5,AGN,Allergan Plc,"54,969",bmo,3.36,3.74,+0.38 ,+11.31% ,-5.18%
+6,INGN,"Inogen, Inc","1,445",amc,0.27,0.48,+0.21 ,+77.78% ,23.18%
+7,ALSN,Allison Transmi...,"5,763",amc,0.79,1.08,+0.29 ,+36.71% ,3.13%
+8,AKS,Ak Steel Holdin...,718,bmo,0.03,0.09,+0.06 ,+200.00% ,-3.37%
+9,AKAM,Akamai Technolo...,"13,407",amc,0.70,0.79,+0.09 ,+12.86% ,-1.13%
+10,MPLX,Mplx Lp,"25,824",bmo,0.42,0.61,+0.19 ,+45.24% ,2.88%
+11,RIG,Transocean Ltd....,"3,768",amc,-0.36,-0.48,-0.12 ,-33.33% ,-2.75%
+12,ARLP,Alliance Resour...,"2,271",bmo,0.56,0.55,-0.01 ,-1.79% ,7.95%
+13,BGSF,Bg Staffing Inc...,190,amc,0.13,0.27,+0.14 ,+107.69% ,6.40%
+14,NSP,"Insperity, Inc....","5,246",bmo,1.14,1.41,+0.27 ,+23.68% ,4.90%
+15,ARNC,Arconic Inc.,"11,709",bmo,0.32,0.34,+0.02 ,+6.25% ,-20.63%
+16,MEDP,Medpace Holding...,"2,314",--,0.43,0.60,+0.17 ,+39.53% ,--
+17,MTZ,"Mastec, Inc.","3,983",amc,0.22,0.35,+0.13 ,+59.09% ,6.36%
+18,WLL,Whiting Petrole...,"1,553",amc,0.22,0.92,+0.70 ,+318.18% ,3.01%
+19,FDC,First Data Corp...,"26,594",bmo,0.26,0.29,+0.03 ,+11.54% ,18.46%
+20,CGNX,Cognex Corporat...,"7,623",amc,0.20,0.21,+0.01 ,+5.00% ,-0.32%
+21,NBIX,Neurocrine Bios...,"7,777",amc,-0.32,-0.47,-0.15 ,-46.88% ,4.08%
+22,IRMD,Iradimed Corpor...,219,bmo,0.06,0.10,+0.04 ,+66.67% ,10.09%
+23,DAN,Dana Incorporat...,"2,757",bmo,0.66,0.75,+0.09 ,+13.64% ,-5.00%
+24,MCY,Mercury General...,"3,587",bmo,0.48,0.07,-0.41 ,-85.42% ,-7.02%

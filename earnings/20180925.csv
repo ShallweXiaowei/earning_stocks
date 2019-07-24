@@ -1,0 +1,12 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,NKE,"Nike, Inc.","136,459",amc,0.62,0.67,+0.05 ,+8.06% ,-1.29%
+1,MANU,Manchester Unit...,734,bmo,0.01,-0.01,-0.02 ,-200.00% ,-2.09%
+2,CTAS,Cintas Corporat...,"25,048",amc,1.78,1.93,+0.15 ,+8.43% ,-5.54%
+3,KBH,Kb Home,"2,262",amc,0.78,0.87,+0.09 ,+11.54% ,-3.08%
+4,JBL,"Jabil, Inc.","4,823",bmo,0.68,0.70,+0.02 ,+2.94% ,-7.25%
+5,INFO,Ihs Markit Ltd....,"25,916",bmo,0.55,0.58,+0.03 ,+5.45% ,-0.70%
+6,FDS,Factset Researc...,"11,298",bmo,2.22,2.20,-0.02 ,-0.90% ,-1.90%
+7,NEOG,Neogen Corporat...,"3,193",--,0.28,0.29,+0.01 ,+3.57% ,--
+8,AIR,Aar Corp.,"1,329",amc,0.52,0.54,+0.02 ,+3.85% ,5.63%
+9,ISR,"Isoray, Inc.",28,amc,-0.03,-0.04,-0.01 ,-33.33% ,-9.48%
+10,ESNC,"Ensync, Inc.",0,amc,-0.05,--,--,--,-3.24%

@@ -1,0 +1,25 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,ENB,Enbridge Inc,"72,513",bmo,0.45,0.49,+0.04 ,+8.89% ,0.34%
+1,ABR,Arbor Realty Tr...,"1,152",bmo,0.27,0.29,+0.02 ,+7.41% ,3.71%
+2,PEP,"Pepsico, Inc.","181,888",bmo,1.49,1.49,0.00 ,0.00% ,2.95%
+3,DE,Deere & Company...,"52,498",bmo,1.80,1.54,-0.26 ,-14.44% ,-2.11%
+4,NWL,Newell Brands I...,"6,063",bmo,0.41,0.47,+0.06 ,+14.63% ,-20.89%
+5,E,Eni Spa,"58,183",--,0.73,0.94,+0.21 ,+28.77% ,--
+6,HE,Hawaiian Electr...,"4,827",amc,0.47,0.45,-0.02 ,-4.26% ,0.48%
+7,DAN,Dana Incorporat...,"2,675",bmo,0.66,0.71,+0.05 ,+7.58% ,10.40%
+8,AXL,American Axle &...,"1,314",bmo,0.43,0.45,+0.02 ,+4.65% ,14.49%
+9,POR,Portland Genera...,"4,880",bmo,0.54,0.55,+0.01 ,+1.85% ,0.16%
+10,YNDX,Yandex N.v.,"12,664",bmo,0.32,0.30,-0.02 ,-6.25% ,-8.54%
+11,CPSI,Computer Progra...,387,bmo,0.58,0.78,+0.20 ,+34.48% ,14.46%
+12,FTS,Fortis Inc.,"17,216",bmo,0.46,0.42,-0.04 ,-8.70% ,-0.42%
+13,MCO,Moody's Corpora...,"38,089",bmo,1.71,1.63,-0.08 ,-4.68% ,3.38%
+14,RBS,Royal Bank Scot...,"34,879",bmo,0.15,0.06,-0.09 ,-60.00% ,3.34%
+15,ZEUS,"Olympic Steel,...",135,bmo,0.17,0.14,-0.03 ,-17.65% ,-1.72%
+16,BRDCY,Bridgestone Cor...,"29,629",--,0.38,0.41,+0.03 ,+7.89% ,--
+17,WBC,Wabco Holdings...,"6,786",bmo,1.99,2.13,+0.14 ,+7.04% ,0.25%
+18,CHH,Choice Hotels I...,"4,838",bmo,0.83,0.88,+0.05 ,+6.02% ,-1.70%
+19,SXT,Sensient Techno...,"2,835",bmo,0.79,0.79,0.00 ,0.00% ,0.50%
+20,NEXA,Nexa Resources...,"1,227",amc,0.14,--,--,--,3.51%
+21,HOLI,Hollysys Automa...,"1,073",bmo,0.63,0.73,+0.10 ,+15.87% ,1.13%
+22,TYPE,Monotype Imagin...,692,bmo,0.23,0.45,+0.22 ,+95.65% ,3.61%
+23,CIVB,Civista Bancsha...,336,bmo,0.42,0.49,+0.07 ,+16.67% ,9.13%

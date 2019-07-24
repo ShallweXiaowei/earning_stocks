@@ -1,0 +1,12 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,SGH,Smart Global Ho...,562,amc,0.92,--,--,--,10.03%
+1,NKE,"Nike, Inc.","136,459",amc,0.39,--,--,--,-2.29%
+2,ACN,Accenture Plc,"128,607",bmo,1.66,--,--,--,1.61%
+3,CAG,Conagra Brands...,"13,635",bmo,0.52,--,--,--,-0.76%
+4,CTAS,Cintas Corporat...,"25,048",amc,1.26,--,--,--,-1.75%
+5,PAYX,"Paychex, Inc.","30,634",bmo,0.59,--,--,--,-0.81%
+6,KMX,"Carmax, Inc.","14,651",bmo,0.82,--,--,--,-3.61%
+7,LNN,Lindsay Corpora...,896,bmo,0.36,--,--,--,-3.82%
+8,AIR,Aar Corp.,"1,329",amc,0.37,--,--,--,-8.51%
+9,APOG,Apogee Enterpri...,"1,151",bmo,0.92,--,--,--,-16.82%
+10,CAMP,Calamp Corp.,380,amc,0.30,--,--,--,-11.09%

@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,TSLA,"Tesla, Inc.","40,494",amc,-3.19,--,--,--,-8.63%
+1,TTWO,Take-two Intera...,"13,193",amc,1.00,--,--,--,-11.67%
+2,GSK,Glaxosmithkline...,"101,332",--,0.69,--,--,--,--
+3,PSEC,Prospect Capita...,"2,444",amc,0.18,--,--,--,4.50%
+4,PRU,Prudential Fina...,"41,712",amc,2.60,--,--,--,-7.01%
+5,XPO,"Xpo Logistics,...","5,215",amc,0.43,--,--,--,-5.52%
+6,AUO,Au Optronics Co...,"2,858",bmo,0.14,--,--,--,-1.94%
+7,HUM,Humana Inc.,"35,737",bmo,2.00,--,--,--,-1.57%
+8,ORLY,O'reilly Automo...,"30,261",amc,2.78,--,--,--,0.06%
+9,EXC,Exelon Corporat...,"47,771",bmo,0.62,--,--,--,-0.88%
+10,IRBT,Irobot Corporat...,"2,534",amc,0.26,--,--,--,-32.08%
+11,TRVG,Trivago N.v. Ad...,"1,442",bmo,-0.02,--,--,--,2.72%
+12,NXPI,Nxp Semiconduct...,"31,730",amc,1.82,--,--,--,-0.40%
+13,ICE,Intercontinenta...,"50,477",bmo,0.72,--,--,--,-2.14%
+14,ELY,Callaway Golf C...,"1,676",amc,-0.17,--,--,--,2.37%
+15,YELP,Yelp Inc.,"2,698",amc,0.05,--,--,--,-14.04%
+16,DIOD,Diodes Incorpor...,"1,865",amc,0.40,--,--,--,6.03%
+17,MFC,Manulife Financ...,"36,427",amc,0.47,--,--,--,-0.65%
+18,CTSH,Cognizant Techn...,"36,838",bmo,0.97,--,--,--,3.55%
+19,IAC,Iac/interactive...,"19,072",amc,1.10,--,--,--,-7.37%
+20,ANGI,Angi Homeservic...,"6,549",amc,-0.03,--,--,--,-1.91%
+21,CDW,Cdw Corporation...,"16,616",bmo,0.98,--,--,--,-6.61%
+22,NTES,"Netease, Inc.","34,343",amc,2.11,--,--,--,-6.28%
+23,ZNGA,Zynga Inc.,"5,855",amc,0.02,--,--,--,-5.42%
+24,SNY,Sanofi,"108,291",bmo,0.69,--,--,--,-4.08%

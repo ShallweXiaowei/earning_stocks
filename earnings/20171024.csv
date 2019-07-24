@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,T,At&t Inc.,"250,326",amc,0.75,--,--,--,-3.99%
+1,AMD,Advanced Micro...,"34,070",amc,0.08,--,--,--,-13.47%
+2,CAT,Caterpillar Inc...,"77,483",bmo,1.22,--,--,--,4.98%
+3,GM,General Motors...,"54,608",bmo,1.07,--,--,--,2.95%
+4,LMT,Lockheed Martin...,"104,517",bmo,3.25,--,--,--,-2.36%
+5,MCD,Mcdonald's Corp...,"161,294",bmo,1.75,--,--,--,0.33%
+6,ILMN,"Illumina, Inc.","55,600",amc,0.98,--,--,--,-2.83%
+7,LLY,Eli Lilly And C...,"109,529",bmo,1.03,--,--,--,-2.31%
+8,MMM,3m Company,"99,145",bmo,2.21,--,--,--,5.91%
+9,TXN,Texas Instrumen...,"108,597",amc,1.12,--,--,--,-0.64%
+10,UTX,United Technolo...,"114,288",bmo,1.68,--,--,--,-0.95%
+11,CNC,Centene Corpora...,"21,280",bmo,0.63,--,--,--,-5.07%
+12,IRM,Iron Mountain I...,"9,063",amc,0.56,--,--,--,-0.23%
+13,BIIB,Biogen Inc.,"45,420",bmo,5.70,--,--,--,-3.90%
+14,NVS,Novartis Ag,"207,496",bmo,1.25,--,--,--,-3.24%
+15,AKAM,Akamai Technolo...,"13,407",amc,0.59,--,--,--,4.03%
+16,COF,Capital One Fin...,"43,456",amc,2.15,--,--,--,1.45%
+17,GLW,Corning Incorpo...,"26,376",bmo,0.41,--,--,--,6.43%
+18,IRBT,Irobot Corporat...,"2,534",amc,0.44,--,--,--,-13.49%
+19,RF,Regions Financi...,"15,411",bmo,0.25,--,--,--,2.12%
+20,PCAR,Paccar Inc.,"24,462",bmo,1.09,--,--,--,-5.72%
+21,EW,Edwards Lifesci...,"39,261",amc,0.86,--,--,--,-9.57%
+22,CMG,Chipotle Mexica...,"20,495",amc,1.56,--,--,--,-14.58%
+23,RRC,Range Resources...,"1,580",amc,0.02,--,--,--,-2.74%
+24,VNOM,Viper Energy Pa...,"4,209",amc,0.22,--,--,--,0.54%

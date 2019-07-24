@@ -1,0 +1,15 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,NKE,"Nike, Inc.","136,459",amc,0.45,0.52,+0.07 ,+15.56% ,7.17%
+1,WBA,Walgreens Boots...,"49,844",bmo,1.43,1.46,+0.03 ,+2.10% ,-5.02%
+2,BB,Blackberry Limi...,"4,060",bmo,0.02,0.03,+0.01 ,+50.00% ,2.72%
+3,ACN,Accenture Plc,"128,607",bmo,1.84,1.96,+0.12 ,+6.52% ,-4.94%
+4,CAG,Conagra Brands...,"13,635",bmo,0.55,0.67,+0.12 ,+21.82% ,-16.53%
+5,CCL,Carnival Corpor...,"24,720",bmo,0.69,0.70,+0.01 ,+1.45% ,-9.49%
+6,CTAS,Cintas Corporat...,"25,048",amc,1.72,1.76,+0.04 ,+2.33% ,0.58%
+7,NEOG,Neogen Corporat...,"3,193",bmo,0.30,0.31,+0.01 ,+3.33% ,-6.38%
+8,SAFM,Sanderson Farms...,"3,155",bmo,-1.09,-1.63,-0.54 ,-49.54% ,6.81%
+9,ATU,Actuant Corpora...,"1,480",bmo,0.24,0.27,+0.03 ,+12.50% ,-11.18%
+10,SCHL,Scholastic Corp...,"1,163",bmo,2.16,2.09,-0.07 ,-3.24% ,-4.04%
+11,APOG,Apogee Enterpri...,"1,151",bmo,0.83,0.80,-0.03 ,-3.61% ,-13.27%
+12,CAMP,Calamp Corp.,380,amc,0.24,0.25,+0.01 ,+4.17% ,-6.70%
+13,SHLO,Shiloh Industri...,123,bmo,0.12,-0.23,-0.35 ,-291.67% ,-20.81%

@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,SNAP,Snap Inc.,"20,625",amc,-0.14,--,--,--,-14.62%
+1,BEAT,"Biotelemetry, I...","1,655",amc,0.24,--,--,--,-5.56%
+2,AMED,"Amedisys, Inc.","3,910",amc,0.54,--,--,--,5.98%
+3,TTWO,Take-two Intera...,"13,193",amc,0.74,--,--,--,10.58%
+4,DNR,Denbury Resourc...,563,bmo,-0.01,--,--,--,7.79%
+5,CROX,"Crocs, Inc.","1,461",bmo,-0.04,--,--,--,-9.09%
+6,FOSL,"Fossil Group, I...",544,amc,-0.14,--,--,--,-17.23%
+7,EDIT,Editas Medicine...,"1,184",amc,-0.61,--,--,--,-3.03%
+8,WB,Weibo Corporati...,"9,875",bmo,0.46,--,--,--,0.07%
+9,AAXN,Axon Enterprise...,"3,788",amc,0.05,--,--,--,-6.21%
+10,INGN,"Inogen, Inc","1,445",amc,0.29,--,--,--,15.47%
+11,NVAX,"Novavax, Inc.",120,amc,-3.20,--,--,--,1.79%
+12,NEWR,"New Relic, Inc....","5,316",amc,-0.10,--,--,--,5.24%
+13,MTCH,"Match Group, In...","20,320",amc,0.22,--,--,--,10.00%
+14,MED,Medifast Inc,"1,456",amc,0.51,--,--,--,14.79%
+15,PLNT,"Planet Fitness,...","7,095",amc,0.16,--,--,--,17.35%
+16,AAOI,Applied Optoele...,196,amc,1.04,--,--,--,15.18%
+17,VNDA,Vanda Pharmaceu...,738,amc,-0.10,--,--,--,-12.37%
+18,VCEL,Vericel Corpora...,833,bmo,-0.17,--,--,--,-1.74%
+19,CRIS,"Curis, Inc.",59,bmo,-0.45,--,--,--,-15.89%
+20,ZBRA,Zebra Technolog...,"11,715",bmo,1.72,--,--,--,-5.60%
+21,TWO,Two Harbors Inv...,"3,484",amc,0.53,--,--,--,1.11%
+22,EMR,Emerson Electri...,"40,196",bmo,0.80,--,--,--,-2.23%
+23,CAPL,Crossamerica Pa...,564,--,0.07,--,--,--,--
+24,VGR,Vector Group Lt...,"1,373",bmo,0.15,--,--,--,2.29%

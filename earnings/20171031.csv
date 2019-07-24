@@ -1,0 +1,26 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,BP,Bp P.l.c.,"137,166",bmo,0.50,--,--,--,2.65%
+1,MA,Mastercard Inco...,"277,997",bmo,1.23,--,--,--,-0.12%
+2,PFE,Pfizer Inc.,"244,192",bmo,0.65,--,--,--,-0.26%
+3,SNE,Sony Corporatio...,"69,534",bmo,0.54,--,--,--,11.74%
+4,SHOP,Shopify Inc.,"34,974",bmo,-0.02,--,--,--,-9.03%
+5,ADM,Archer Daniels...,"23,493",bmo,0.55,--,--,--,-4.53%
+6,HCA,"Hca Healthcare,...","47,420",bmo,1.21,--,--,--,-0.70%
+7,EA,Electronic Arts...,"27,766",amc,0.55,--,--,--,-4.29%
+8,X,United States S...,"2,543",amc,0.67,--,--,--,7.82%
+9,FTR,Frontier Commun...,186,amc,-1.11,--,--,--,-26.84%
+10,MOS,The Mosaic Comp...,"9,568",bmo,0.25,--,--,--,7.15%
+11,NOA,North American...,265,--,-0.05,--,--,--,--
+12,UAA,"Under Armour, I...","11,682",bmo,0.19,--,--,--,-23.71%
+13,PAYC,Paycom Software...,"14,001",amc,0.19,--,--,--,-5.96%
+14,CMI,Cummins Inc.,"26,640",bmo,2.47,--,--,--,-1.92%
+15,AKS,Ak Steel Holdin...,718,bmo,0.03,--,--,--,-21.54%
+16,AMT,American Tower...,"92,400",bmo,1.67,--,--,--,0.56%
+17,QLYS,"Qualys, Inc.","3,462",amc,0.22,--,--,--,5.39%
+18,OKE,"Oneok, Inc.","29,009",amc,0.45,--,--,--,0.48%
+19,ARCH,Arch Coal Inc.,"1,530",bmo,1.69,--,--,--,6.43%
+20,WCG,Wellcare Health...,"14,216",bmo,1.90,--,--,--,9.14%
+21,APC,Anadarko Petrol...,"35,671",amc,-0.56,--,--,--,1.56%
+22,DDD,3d Systems Corp...,"1,041",amc,0.11,--,--,--,-23.67%
+23,DVN,Devon Energy Co...,"11,586",amc,0.39,--,--,--,5.91%
+24,SSW,Seaspan Corpora...,"2,196",amc,0.18,--,--,--,-4.00%

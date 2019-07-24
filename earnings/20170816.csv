@@ -1,0 +1,19 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,CSCO,"Cisco Systems,...","242,289",amc,0.61,--,--,--,-4.02%
+1,TGT,Target Corporat...,"45,413",bmo,1.20,--,--,--,3.61%
+2,TCEHY,Tencent Holding...,"433,821",--,0.23,--,--,--,--
+3,NTAP,"Netapp, Inc.","14,980",amc,0.55,--,--,--,-6.72%
+4,LB,"L Brands, Inc.","7,648",amc,0.44,--,--,--,-5.06%
+5,CACI,Caci Internatio...,"5,339",amc,1.64,--,--,--,-2.72%
+6,VIPS,Vipshop Holding...,"5,727",amc,0.20,--,--,--,-8.11%
+7,SNPS,"Synopsys, Inc.","20,296",--,0.92,--,--,--,--
+8,IMMU,"Immunomedics, I...","2,710",amc,-0.12,--,--,--,2.57%
+9,PFGC,Performance Foo...,"4,362",bmo,0.51,--,--,--,1.54%
+10,MSGN,Msg Networks In...,"1,565",bmo,0.51,--,--,--,0.00%
+11,GPRK,Geopark Ltd,"1,117",amc,0.03,--,--,--,-1.28%
+12,BGG,Briggs & Stratt...,421,amc,0.52,--,--,--,-13.82%
+13,SPTN,Spartannash Com...,419,amc,0.60,--,--,--,-4.78%
+14,PRQR,Proqr Therapeut...,359,--,-0.53,--,--,--,--
+15,PNTR,Pointer Telocat...,122,bmo,0.21,--,--,--,12.08%
+16,CYRN,Cyren Ltd.,95,bmo,-0.05,--,--,--,0.00%
+17,PBIO,Pressure Biosci...,7,amc,-0.90,--,--,--,0.00%

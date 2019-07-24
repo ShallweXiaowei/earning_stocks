@@ -1,0 +1,23 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,GE,General Electri...,"91,568",bmo,0.49,--,--,--,1.06%
+1,PG,Procter & Gambl...,"283,818",bmo,1.07,--,--,--,-3.65%
+2,ERIC,Ericsson,"31,340",bmo,0.01,--,--,--,9.32%
+3,SLB,Schlumberger Li...,"54,809",bmo,0.42,--,--,--,-2.09%
+4,HON,Honeywell Inter...,"128,512",bmo,1.74,--,--,--,1.20%
+5,CLF,Cleveland-cliff...,"3,072",bmo,0.30,--,--,--,-5.65%
+6,SYF,Synchrony Finan...,"24,547",bmo,0.64,--,--,--,4.19%
+7,CFG,Citizens Financ...,"16,450",bmo,0.64,--,--,--,2.40%
+8,STI,"Suntrust Banks,...","28,387",bmo,1.06,--,--,--,1.54%
+9,BHGE,"Baker Hughes, A...","25,461",bmo,0.12,--,--,--,0.33%
+10,AIMC,Altra Industria...,"2,209",bmo,0.46,--,--,--,-1.93%
+11,KSU,Kansas City Sou...,"12,366",bmo,1.32,--,--,--,1.36%
+12,GNTX,Gentex Corporat...,"6,231",bmo,0.31,--,--,--,-6.20%
+13,VLVLY,Ab Volvo,"31,663",bmo,0.27,--,--,--,6.51%
+14,ASAZY,Assa Abloy Ab,"25,033",--,0.12,--,--,--,--
+15,MAN,Manpowergroup I...,"5,753",bmo,1.96,--,--,--,0.04%
+16,MINI,"Mobile Mini, In...","1,364",bmo,0.33,--,--,--,2.12%
+17,RBCAA,Republic Bancor...,"1,078",bmo,0.46,--,--,--,3.49%
+18,BLX,Banco Latinoame...,825,--,0.56,--,--,--,--
+19,BOCH,Bank Of Commerc...,195,--,0.16,--,--,--,--
+20,ICBK,"County Bancorp,...",118,--,0.39,--,--,--,--
+21,ACU,Acme United Cor...,72,bmo,0.52,--,--,--,4.03%

@@ -1,0 +1,21 @@
+,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
+0,TJX,The Tjx Compani...,"66,005",bmo,0.51,0.57,+0.06 ,+11.76% ,3.25%
+1,KSS,Kohl's Corporat...,"7,823",bmo,0.49,0.64,+0.15 ,+30.61% ,-7.42%
+2,AAP,Advance Auto Pa...,"11,522",bmo,1.98,2.10,+0.12 ,+6.06% ,-3.21%
+3,HPE,Hewlett Packard...,"20,315",amc,0.31,0.34,+0.03 ,+9.68% ,-10.51%
+4,URBN,Urban Outfitter...,"2,312",amc,0.30,0.38,+0.08 ,+26.67% ,-0.99%
+5,INTU,Intuit Inc.,"70,136",amc,4.67,4.82,+0.15 ,+3.21% ,2.99%
+6,CBRL,Cracker Barrel...,"4,158",bmo,1.93,2.03,+0.10 ,+5.18% ,-0.89%
+7,TOL,Toll Brothers I...,"5,293",bmo,0.76,0.79,+0.03 ,+3.95% ,-9.56%
+8,CTRP,Ctrip.com Inter...,"20,859",amc,0.15,0.55,+0.40 ,+266.67% ,3.98%
+9,PLAB,"Photronics, Inc...",569,bmo,0.07,0.15,+0.08 ,+114.29% ,7.69%
+10,DY,Dycom Industrie...,"1,830",bmo,0.68,0.65,-0.03 ,-4.41% ,-20.28%
+11,EV,Eaton Vance Cor...,"4,998",bmo,0.77,0.77,0.00 ,0.00% ,-4.03%
+12,MNRO,Monro Muffler B...,"2,887",bmo,0.47,0.52,+0.05 ,+10.64% ,-8.43%
+13,CCO,Clear Channel O...,"1,700",bmo,-0.22,-0.35,-0.13 ,-59.09% ,-3.23%
+14,RRGB,Red Robin Gourm...,391,amc,0.74,0.69,-0.05 ,-6.76% ,-18.21%
+15,TCS,Container Store...,378,amc,0.24,0.18,-0.06 ,-25.00% ,-7.46%
+16,OOMA,"Ooma, Inc.",223,amc,-0.05,-0.04,+0.01 ,+20.00% ,2.86%
+17,TRNS,"Transcat, Inc.",187,amc,0.23,0.27,+0.04 ,+17.39% ,4.88%
+18,RDCM,Radcom Ltd.,108,bmo,0.00,0.07,--,--,4.31%
+19,BLRX,Biolinerx Ltd.,38,bmo,-0.07,-0.06,+0.01 ,+14.29% ,-1.95%
