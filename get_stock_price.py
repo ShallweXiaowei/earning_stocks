@@ -26,6 +26,6 @@ def get_intra(ticker, interval = '1min'):
     return df
 
 if __name__ == '__main__':
-    raw_input = str(input)
+    raw_input = str(input())
     df = get_daily(raw_input)
     print (df)
