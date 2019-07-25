@@ -1,7 +1,7 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,RH,Restoration Har...,"2,252",amc,1.27,1.73,+0.46 ,+36.22% ,10.90%
-1,COUP,Coupa Software,"8,491",amc,-0.03,0.08,+0.11 ,+366.67% ,-11.34%
-2,FNSR,Finisar Corpora...,"2,781",bmo,0.21,0.26,+0.05 ,+23.81% ,0.39%
-3,SMAR,Smartsheet Inc....,"5,488",amc,-0.16,--,--,--,-2.66%
-4,RMR,The Rmr Group I...,"1,544",bmo,0.55,0.61,+0.06 ,+10.91% ,5.80%
-5,MESA,"Mesa Air Group,...",277,amc,0.49,--,--,--,-11.42%
+2018-12-03,RH,Restoration Har...,"2,252",amc,1.27,1.73,+0.46 ,+36.22% ,10.90%
+2018-12-03,COUP,Coupa Software,"8,491",amc,-0.03,0.08,+0.11 ,+366.67% ,-11.34%
+2018-12-03,FNSR,Finisar Corpora...,"2,781",bmo,0.21,0.26,+0.05 ,+23.81% ,0.39%
+2018-12-03,SMAR,Smartsheet Inc....,"5,488",amc,-0.16,--,--,--,-2.66%
+2018-12-03,RMR,The Rmr Group I...,"1,544",bmo,0.55,0.61,+0.06 ,+10.91% ,5.80%
+2018-12-03,MESA,"Mesa Air Group,...",277,amc,0.49,--,--,--,-11.42%

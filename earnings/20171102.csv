@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,AAPL,Apple Inc.,"939,678",amc,1.87,--,--,--,2.61%
-1,BABA,Alibaba Group H...,NA,bmo,1.04,--,--,--,-0.68%
-2,HEAR,Turtle Beach Co...,159,amc,-0.24,--,--,--,-8.21%
-3,SBUX,Starbucks Corpo...,"106,331",amc,0.55,--,--,--,2.11%
-4,ATVI,Activision Bliz...,"36,883",amc,0.50,--,--,--,-3.44%
-5,EPD,Enterprise Prod...,"64,300",bmo,0.31,--,--,--,-1.88%
-6,ENB,Enbridge Inc,"73,646",bmo,0.36,--,--,--,-4.20%
-7,CHK,Chesapeake Ener...,"3,022",bmo,0.10,--,--,--,-7.58%
-8,KEM,Kemet Corporati...,"1,123",bmo,0.45,--,--,--,-35.62%
-9,WRK,Westrock Compan...,"9,786",bmo,0.81,--,--,--,-2.46%
-10,ANET,Arista Networks...,"20,745",amc,1.21,--,--,--,11.22%
-11,CYBR,Cyberark Softwa...,"4,849",bmo,0.18,--,--,--,11.14%
-12,RDS.A,Royal Dutch She...,"263,038",bmo,0.83,--,--,--,1.87%
-13,INTT,Intest Corporat...,50,amc,0.16,--,--,--,0.62%
-14,PCG,Pacific Gas & E...,"11,532",bmo,0.94,--,--,--,-1.03%
-15,MOH,Molina Healthca...,"8,990",amc,0.23,--,--,--,14.75%
-16,CI,Cigna Corporati...,"62,019",bmo,2.36,--,--,--,0.28%
-17,BOOT,Boot Barn Holdi...,992,amc,0.02,--,--,--,17.86%
-18,TEVA,Teva Pharmaceut...,"9,630",bmo,1.05,--,--,--,-19.90%
-19,ARCC,Ares Capital Co...,"7,725",bmo,0.35,--,--,--,-1.18%
-20,LADR,Ladder Capital...,"2,024",amc,0.35,--,--,--,1.78%
-21,CC,The Chemours Co...,"3,484",amc,1.01,--,--,--,-6.57%
-22,AJRD,Aerojet Rocketd...,"3,683",--,0.17,--,--,--,--
-23,NWL,Newell Brands I...,"6,482",bmo,0.92,--,--,--,-26.80%
-24,APA,Apache Corporat...,"10,218",bmo,-0.05,--,--,--,-1.30%
+2017-11-02,AAPL,Apple Inc.,"939,678",amc,1.87,--,--,--,2.61%
+2017-11-02,BABA,Alibaba Group H...,,bmo,1.04,--,--,--,-0.68%
+2017-11-02,HEAR,Turtle Beach Co...,159,amc,-0.24,--,--,--,-8.21%
+2017-11-02,SBUX,Starbucks Corpo...,"106,331",amc,0.55,--,--,--,2.11%
+2017-11-02,ATVI,Activision Bliz...,"36,883",amc,0.5,--,--,--,-3.44%
+2017-11-02,EPD,Enterprise Prod...,"64,300",bmo,0.31,--,--,--,-1.88%
+2017-11-02,ENB,Enbridge Inc,"73,646",bmo,0.36,--,--,--,-4.20%
+2017-11-02,CHK,Chesapeake Ener...,"3,022",bmo,0.1,--,--,--,-7.58%
+2017-11-02,KEM,Kemet Corporati...,"1,123",bmo,0.45,--,--,--,-35.62%
+2017-11-02,WRK,Westrock Compan...,"9,786",bmo,0.81,--,--,--,-2.46%
+2017-11-02,ANET,Arista Networks...,"20,745",amc,1.21,--,--,--,11.22%
+2017-11-02,CYBR,Cyberark Softwa...,"4,849",bmo,0.18,--,--,--,11.14%
+2017-11-02,RDS.A,Royal Dutch She...,"263,038",bmo,0.83,--,--,--,1.87%
+2017-11-02,INTT,Intest Corporat...,50,amc,0.16,--,--,--,0.62%
+2017-11-02,PCG,Pacific Gas & E...,"11,532",bmo,0.94,--,--,--,-1.03%
+2017-11-02,MOH,Molina Healthca...,"8,990",amc,0.23,--,--,--,14.75%
+2017-11-02,CI,Cigna Corporati...,"62,019",bmo,2.36,--,--,--,0.28%
+2017-11-02,BOOT,Boot Barn Holdi...,992,amc,0.02,--,--,--,17.86%
+2017-11-02,TEVA,Teva Pharmaceut...,"9,630",bmo,1.05,--,--,--,-19.90%
+2017-11-02,ARCC,Ares Capital Co...,"7,725",bmo,0.35,--,--,--,-1.18%
+2017-11-02,LADR,Ladder Capital...,"2,024",amc,0.35,--,--,--,1.78%
+2017-11-02,CC,The Chemours Co...,"3,484",amc,1.01,--,--,--,-6.57%
+2017-11-02,AJRD,Aerojet Rocketd...,"3,683",--,0.17,--,--,--,--
+2017-11-02,NWL,Newell Brands I...,"6,482",bmo,0.92,--,--,--,-26.80%
+2017-11-02,APA,Apache Corporat...,"10,218",bmo,-0.05,--,--,--,-1.30%

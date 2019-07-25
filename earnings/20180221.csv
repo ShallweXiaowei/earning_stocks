@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ROKU,"Roku, Inc.","11,127",amc,-0.11,--,--,--,-17.71%
-1,SO,Southern Compan...,"58,631",bmo,0.46,--,--,--,-1.27%
-2,O,Realty Income C...,"22,150",amc,0.77,--,--,--,1.88%
-3,AYX,"Alteryx, Inc.","7,253",amc,-0.03,--,--,--,14.33%
-4,MIC,Macquarie Infra...,"3,540",--,0.61,--,--,--,--
-5,AAP,Advance Auto Pa...,"11,522",bmo,0.65,--,--,--,8.21%
-6,AJRD,Aerojet Rocketd...,"3,683",--,0.25,--,--,--,--
-7,ATH,Athene Holding...,"8,676",amc,1.23,--,--,--,-2.71%
-8,AAOI,Applied Optoele...,196,amc,0.82,--,--,--,-20.38%
-9,NEO,"Neogenomics, In...","2,223",bmo,0.04,--,--,--,9.78%
-10,UCTT,Ultra Clean Hol...,547,amc,0.60,--,--,--,-6.46%
-11,STMP,Stamps.com Inc....,802,amc,2.75,--,--,--,11.00%
-12,MDR,Mcdermott Inter...,"1,662",bmo,0.09,--,--,--,-6.97%
-13,HFC,Hollyfrontier C...,"7,826",bmo,0.82,--,--,--,-3.41%
-14,KL,Kirkland Lake G...,"8,835",bmo,0.24,--,--,--,8.32%
-15,LGND,Ligand Pharmace...,"2,300",amc,1.06,--,--,--,-0.52%
-16,SUN,Sunoco Lp,"3,213",amc,0.37,--,--,--,0.63%
-17,LNG,Cheniere Energy...,"17,702",bmo,0.49,--,--,--,-2.24%
-18,GRMN,Garmin Ltd.,"15,797",bmo,0.75,--,--,--,-4.62%
-19,TRN,Trinity Industr...,"2,633",amc,0.42,--,--,--,-2.75%
-20,WLL,Whiting Petrole...,"1,553",amc,-0.32,--,--,--,25.21%
-21,GPOR,Gulfport Energy...,755,amc,0.38,--,--,--,14.15%
-22,SNPS,"Synopsys, Inc.","20,296",amc,1.00,--,--,--,-4.61%
-23,MTDR,Matador Resourc...,"2,222",amc,0.23,--,--,--,1.60%
-24,PE,"Parsley Energy,...","5,823",amc,0.18,--,--,--,8.40%
+2018-02-21,ROKU,"Roku, Inc.","11,127",amc,-0.11,--,--,--,-17.71%
+2018-02-21,SO,Southern Compan...,"58,631",bmo,0.46,--,--,--,-1.27%
+2018-02-21,O,Realty Income C...,"22,150",amc,0.77,--,--,--,1.88%
+2018-02-21,AYX,"Alteryx, Inc.","7,253",amc,-0.03,--,--,--,14.33%
+2018-02-21,MIC,Macquarie Infra...,"3,540",--,0.61,--,--,--,--
+2018-02-21,AAP,Advance Auto Pa...,"11,522",bmo,0.65,--,--,--,8.21%
+2018-02-21,AJRD,Aerojet Rocketd...,"3,683",--,0.25,--,--,--,--
+2018-02-21,ATH,Athene Holding...,"8,676",amc,1.23,--,--,--,-2.71%
+2018-02-21,AAOI,Applied Optoele...,196,amc,0.82,--,--,--,-20.38%
+2018-02-21,NEO,"Neogenomics, In...","2,223",bmo,0.04,--,--,--,9.78%
+2018-02-21,UCTT,Ultra Clean Hol...,547,amc,0.6,--,--,--,-6.46%
+2018-02-21,STMP,Stamps.com Inc....,802,amc,2.75,--,--,--,11.00%
+2018-02-21,MDR,Mcdermott Inter...,"1,662",bmo,0.09,--,--,--,-6.97%
+2018-02-21,HFC,Hollyfrontier C...,"7,826",bmo,0.82,--,--,--,-3.41%
+2018-02-21,KL,Kirkland Lake G...,"8,835",bmo,0.24,--,--,--,8.32%
+2018-02-21,LGND,Ligand Pharmace...,"2,300",amc,1.06,--,--,--,-0.52%
+2018-02-21,SUN,Sunoco Lp,"3,213",amc,0.37,--,--,--,0.63%
+2018-02-21,LNG,Cheniere Energy...,"17,702",bmo,0.49,--,--,--,-2.24%
+2018-02-21,GRMN,Garmin Ltd.,"15,797",bmo,0.75,--,--,--,-4.62%
+2018-02-21,TRN,Trinity Industr...,"2,633",amc,0.42,--,--,--,-2.75%
+2018-02-21,WLL,Whiting Petrole...,"1,553",amc,-0.32,--,--,--,25.21%
+2018-02-21,GPOR,Gulfport Energy...,755,amc,0.38,--,--,--,14.15%
+2018-02-21,SNPS,"Synopsys, Inc.","20,296",amc,1.0,--,--,--,-4.61%
+2018-02-21,MTDR,Matador Resourc...,"2,222",amc,0.23,--,--,--,1.60%
+2018-02-21,PE,"Parsley Energy,...","5,823",amc,0.18,--,--,--,8.40%

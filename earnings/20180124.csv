@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,GE,General Electri...,"91,568",bmo,0.28,--,--,--,-2.66%
-1,F,Ford Motor Comp...,"40,693",amc,0.42,--,--,--,-3.98%
-2,LRCX,Lam Research Co...,"27,533",amc,3.69,--,--,--,-5.00%
-3,ABT,Abbott Laborato...,"150,696",bmo,0.73,--,--,--,4.20%
-4,URI,"United Rentals,...","10,451",amc,3.34,--,--,--,-1.95%
-5,PGR,The Progressive...,"49,049",bmo,0.77,--,--,--,-3.01%
-6,UTX,United Technolo...,"114,288",bmo,1.56,--,--,--,-0.26%
-7,CMCSA,Comcast Corpora...,"196,427",bmo,0.47,--,--,--,1.30%
-8,XLNX,"Xilinx, Inc.","29,145",amc,0.63,--,--,--,-5.09%
-9,GD,General Dynamic...,"52,656",bmo,2.37,--,--,--,5.68%
-10,NVS,Novartis Ag,"207,496",bmo,1.16,--,--,--,4.85%
-11,LVS,Las Vegas Sands...,"47,790",amc,0.77,--,--,--,-2.69%
-12,ITW,Illinois Tool W...,"48,208",bmo,1.62,--,--,--,0.40%
-13,ROL,"Rollins, Inc.","12,181",bmo,0.13,--,--,--,5.45%
-14,RCL,Royal Caribbean...,"24,193",bmo,1.20,--,--,--,4.16%
-15,CCI,Crown Castle In...,"55,805",amc,1.06,--,--,--,-0.89%
-16,DFS,Discover Financ...,"25,963",amc,1.53,--,--,--,1.98%
-17,SWK,Stanley Black &...,"22,203",bmo,2.14,--,--,--,-1.90%
-18,ROK,Rockwell Automa...,"18,866",bmo,1.74,--,--,--,-2.06%
-19,HZO,"Marinemax, Inc....",460,bmo,-0.01,--,--,--,15.67%
-20,NSC,Norfolk Souther...,"53,443",bmo,1.56,--,--,--,-1.13%
-21,GWW,"W.w. Grainger,...","14,944",bmo,2.18,--,--,--,18.53%
-22,WHR,Whirlpool Corpo...,"9,163",amc,4.01,--,--,--,2.30%
-23,MPX,Marine Products...,525,bmo,0.12,--,--,--,11.24%
-24,TER,"Teradyne, Inc.","8,040",amc,0.34,--,--,--,-4.25%
+2018-01-24,GE,General Electri...,"91,568",bmo,0.28,--,--,--,-2.66%
+2018-01-24,F,Ford Motor Comp...,"40,693",amc,0.42,--,--,--,-3.98%
+2018-01-24,LRCX,Lam Research Co...,"27,533",amc,3.69,--,--,--,-5.00%
+2018-01-24,ABT,Abbott Laborato...,"150,696",bmo,0.73,--,--,--,4.20%
+2018-01-24,URI,"United Rentals,...","10,451",amc,3.34,--,--,--,-1.95%
+2018-01-24,PGR,The Progressive...,"49,049",bmo,0.77,--,--,--,-3.01%
+2018-01-24,UTX,United Technolo...,"114,288",bmo,1.56,--,--,--,-0.26%
+2018-01-24,CMCSA,Comcast Corpora...,"196,427",bmo,0.47,--,--,--,1.30%
+2018-01-24,XLNX,"Xilinx, Inc.","29,145",amc,0.63,--,--,--,-5.09%
+2018-01-24,GD,General Dynamic...,"52,656",bmo,2.37,--,--,--,5.68%
+2018-01-24,NVS,Novartis Ag,"207,496",bmo,1.16,--,--,--,4.85%
+2018-01-24,LVS,Las Vegas Sands...,"47,790",amc,0.77,--,--,--,-2.69%
+2018-01-24,ITW,Illinois Tool W...,"48,208",bmo,1.62,--,--,--,0.40%
+2018-01-24,ROL,"Rollins, Inc.","12,181",bmo,0.13,--,--,--,5.45%
+2018-01-24,RCL,Royal Caribbean...,"24,193",bmo,1.2,--,--,--,4.16%
+2018-01-24,CCI,Crown Castle In...,"55,805",amc,1.06,--,--,--,-0.89%
+2018-01-24,DFS,Discover Financ...,"25,963",amc,1.53,--,--,--,1.98%
+2018-01-24,SWK,Stanley Black &...,"22,203",bmo,2.14,--,--,--,-1.90%
+2018-01-24,ROK,Rockwell Automa...,"18,866",bmo,1.74,--,--,--,-2.06%
+2018-01-24,HZO,"Marinemax, Inc....",460,bmo,-0.01,--,--,--,15.67%
+2018-01-24,NSC,Norfolk Souther...,"53,443",bmo,1.56,--,--,--,-1.13%
+2018-01-24,GWW,"W.w. Grainger,...","14,944",bmo,2.18,--,--,--,18.53%
+2018-01-24,WHR,Whirlpool Corpo...,"9,163",amc,4.01,--,--,--,2.30%
+2018-01-24,MPX,Marine Products...,525,bmo,0.12,--,--,--,11.24%
+2018-01-24,TER,"Teradyne, Inc.","8,040",amc,0.34,--,--,--,-4.25%

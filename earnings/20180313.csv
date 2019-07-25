@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,DKS,Dick's Sporting...,"3,381",bmo,1.20,--,--,--,0.98%
-1,MDB,"Mongodb, Inc.","8,626",amc,-0.43,--,--,--,7.42%
-2,AVEO,Aveo Pharmaceut...,110,--,-0.02,--,--,--,--
-3,VSTM,"Verastem, Inc.",103,--,-0.38,--,--,--,--
-4,ATHX,"Athersys, Inc.",243,amc,-0.08,--,--,--,4.35%
-5,AXAS,Abraxas Petrole...,180,amc,0.04,--,--,--,-4.24%
-6,MLNT,Melinta Therape...,84,bmo,-2.95,--,--,--,-9.29%
-7,ATRS,"Antares Pharma,...",551,bmo,-0.03,--,--,--,-4.50%
-8,CLNE,Clean Energy Fu...,514,amc,-0.11,--,--,--,-3.36%
-9,HDS,Hd Supply Holdi...,"6,825",bmo,0.44,--,--,--,3.31%
-10,BLCM,Bellicum Pharma...,81,amc,-0.69,--,--,--,1.73%
-11,EVRI,Everi Holdings...,860,amc,-0.06,--,--,--,0.26%
-12,OLP,One Liberty Pro...,576,--,0.55,--,--,--,--
-13,PETX,Aratana Therape...,253,amc,-0.23,--,--,--,-14.22%
-14,PETQ,"Petiq, Inc.",986,amc,0.07,--,--,--,9.60%
-15,TSQ,Townsquare Medi...,106,bmo,0.13,--,--,--,7.24%
-16,GLMD,Galmed Pharmace...,147,bmo,-0.23,--,--,--,0.16%
-17,SENS,Senseonics Hold...,324,amc,-0.14,--,--,--,3.58%
-18,GDS,Gds Holdings,"4,544",bmo,-0.13,--,--,--,0.14%
-19,IPAR,"Inter Parfums,...","2,023",amc,0.11,--,--,--,1.06%
-20,NTRA,"Natera, Inc.","1,832",amc,-0.46,--,--,--,-2.93%
-21,MDGL,Madrigal Pharma...,"1,567",--,-0.68,--,--,--,--
-22,EPZM,"Epizyme, Inc.","1,214",bmo,-0.56,--,--,--,3.25%
-23,NRE,Northstar Realt...,850,bmo,0.17,--,--,--,12.09%
-24,CAL,"Caleres, Inc.",819,amc,0.44,--,--,--,10.59%
+2018-03-13,DKS,Dick's Sporting...,"3,381",bmo,1.2,--,--,--,0.98%
+2018-03-13,MDB,"Mongodb, Inc.","8,626",amc,-0.43,--,--,--,7.42%
+2018-03-13,AVEO,Aveo Pharmaceut...,110,--,-0.02,--,--,--,--
+2018-03-13,VSTM,"Verastem, Inc.",103,--,-0.38,--,--,--,--
+2018-03-13,ATHX,"Athersys, Inc.",243,amc,-0.08,--,--,--,4.35%
+2018-03-13,AXAS,Abraxas Petrole...,180,amc,0.04,--,--,--,-4.24%
+2018-03-13,MLNT,Melinta Therape...,84,bmo,-2.95,--,--,--,-9.29%
+2018-03-13,ATRS,"Antares Pharma,...",551,bmo,-0.03,--,--,--,-4.50%
+2018-03-13,CLNE,Clean Energy Fu...,514,amc,-0.11,--,--,--,-3.36%
+2018-03-13,HDS,Hd Supply Holdi...,"6,825",bmo,0.44,--,--,--,3.31%
+2018-03-13,BLCM,Bellicum Pharma...,81,amc,-0.69,--,--,--,1.73%
+2018-03-13,EVRI,Everi Holdings...,860,amc,-0.06,--,--,--,0.26%
+2018-03-13,OLP,One Liberty Pro...,576,--,0.55,--,--,--,--
+2018-03-13,PETX,Aratana Therape...,253,amc,-0.23,--,--,--,-14.22%
+2018-03-13,PETQ,"Petiq, Inc.",986,amc,0.07,--,--,--,9.60%
+2018-03-13,TSQ,Townsquare Medi...,106,bmo,0.13,--,--,--,7.24%
+2018-03-13,GLMD,Galmed Pharmace...,147,bmo,-0.23,--,--,--,0.16%
+2018-03-13,SENS,Senseonics Hold...,324,amc,-0.14,--,--,--,3.58%
+2018-03-13,GDS,Gds Holdings,"4,544",bmo,-0.13,--,--,--,0.14%
+2018-03-13,IPAR,"Inter Parfums,...","2,023",amc,0.11,--,--,--,1.06%
+2018-03-13,NTRA,"Natera, Inc.","1,832",amc,-0.46,--,--,--,-2.93%
+2018-03-13,MDGL,Madrigal Pharma...,"1,567",--,-0.68,--,--,--,--
+2018-03-13,EPZM,"Epizyme, Inc.","1,214",bmo,-0.56,--,--,--,3.25%
+2018-03-13,NRE,Northstar Realt...,850,bmo,0.17,--,--,--,12.09%
+2018-03-13,CAL,"Caleres, Inc.",819,amc,0.44,--,--,--,10.59%

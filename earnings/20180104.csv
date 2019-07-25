@@ -1,9 +1,9 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,WBA,Walgreens Boots...,"49,844",bmo,1.27,--,--,--,-5.18%
-1,LW,Lamb Weston Hol...,"9,411",bmo,0.53,--,--,--,2.07%
-2,RPM,Rpm Internation...,"8,158",bmo,0.60,--,--,--,-2.08%
-3,PSMT,"Pricesmart, Inc...","1,559",amc,0.82,--,--,--,-7.51%
-4,ANGO,"Angiodynamics,...",760,bmo,0.17,--,--,--,-4.27%
-5,FC,Franklin Covey...,475,amc,-0.33,--,--,--,13.50%
-6,PKE,Park Electroche...,344,bmo,0.12,--,--,--,3.26%
-7,AEHR,Aehr Test Syste...,36,amc,0.00,--,--,--,2.54%
+2018-01-04,WBA,Walgreens Boots...,"49,844",bmo,1.27,--,--,--,-5.18%
+2018-01-04,LW,Lamb Weston Hol...,"9,411",bmo,0.53,--,--,--,2.07%
+2018-01-04,RPM,Rpm Internation...,"8,158",bmo,0.6,--,--,--,-2.08%
+2018-01-04,PSMT,"Pricesmart, Inc...","1,559",amc,0.82,--,--,--,-7.51%
+2018-01-04,ANGO,"Angiodynamics,...",760,bmo,0.17,--,--,--,-4.27%
+2018-01-04,FC,Franklin Covey...,475,amc,-0.33,--,--,--,13.50%
+2018-01-04,PKE,Park Electroche...,344,bmo,0.12,--,--,--,3.26%
+2018-01-04,AEHR,Aehr Test Syste...,36,amc,0.0,--,--,--,2.54%

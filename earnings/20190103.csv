@@ -1,6 +1,6 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,RECN,Resources Conne...,512,amc,0.23,0.33,+0.10 ,+43.48% ,15.81%
-1,IIVI,Ii-vi Incorpora...,"2,359",bmo,0.67,0.71,+0.04 ,+5.97% ,-6.89%
-2,SMPL,The Simply Good...,"2,270",bmo,0.19,0.18,-0.01 ,-5.26% ,5.29%
-3,UNF,Unifirst Corpor...,"3,637",bmo,1.92,1.88,-0.04 ,-2.08% ,-7.69%
-4,LNDC,Landec Corporat...,299,amc,-0.02,0.00,+0.02 ,+100.00% ,-9.29%
+2019-01-03,RECN,Resources Conne...,512,amc,0.23,0.33,0.1,+43.48% ,15.81%
+2019-01-03,IIVI,Ii-vi Incorpora...,"2,359",bmo,0.67,0.71,0.04,+5.97% ,-6.89%
+2019-01-03,SMPL,The Simply Good...,"2,270",bmo,0.19,0.18,-0.01,-5.26% ,5.29%
+2019-01-03,UNF,Unifirst Corpor...,"3,637",bmo,1.92,1.88,-0.04,-2.08% ,-7.69%
+2019-01-03,LNDC,Landec Corporat...,299,amc,-0.02,0.0,0.02,+100.00% ,-9.29%

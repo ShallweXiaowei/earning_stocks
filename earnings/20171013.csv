@@ -1,9 +1,9 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,BAC,Bank Of America...,"278,210",bmo,0.46,--,--,--,1.49%
-1,WFC,Wells Fargo & C...,"214,695",bmo,1.04,--,--,--,-2.73%
-2,PNC,The Pnc Financi...,"63,910",bmo,2.13,--,--,--,-1.12%
-3,JBHT,J.b. Hunt Trans...,"9,880",bmo,0.96,--,--,--,-4.01%
-4,FRC,First Republic...,"16,766",bmo,1.16,--,--,--,-7.05%
-5,FHN,First Horizon N...,"4,740",bmo,0.30,--,--,--,0.58%
-6,DFRG,Del Frisco's Re...,270,bmo,-0.02,--,--,--,-11.76%
-7,OPNT,Opiant Pharmace...,53,--,-0.87,--,--,--,--
+2017-10-13,BAC,Bank Of America...,"278,210",bmo,0.46,--,--,--,1.49%
+2017-10-13,WFC,Wells Fargo & C...,"214,695",bmo,1.04,--,--,--,-2.73%
+2017-10-13,PNC,The Pnc Financi...,"63,910",bmo,2.13,--,--,--,-1.12%
+2017-10-13,JBHT,J.b. Hunt Trans...,"9,880",bmo,0.96,--,--,--,-4.01%
+2017-10-13,FRC,First Republic...,"16,766",bmo,1.16,--,--,--,-7.05%
+2017-10-13,FHN,First Horizon N...,"4,740",bmo,0.3,--,--,--,0.58%
+2017-10-13,DFRG,Del Frisco's Re...,270,bmo,-0.02,--,--,--,-11.76%
+2017-10-13,OPNT,Opiant Pharmace...,53,--,-0.87,--,--,--,--

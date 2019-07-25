@@ -1,17 +1,17 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,CRM,"Salesforce.com,...","119,954",amc,0.31,--,--,--,0.13%
-1,MDT,Medtronic Plc,"131,581",bmo,1.08,--,--,--,-2.11%
-2,MOMO,Momo Inc.,"6,976",bmo,0.32,--,--,--,-20.10%
-3,INTU,Intuit Inc.,"70,136",amc,0.16,--,--,--,-1.90%
-4,CREE,"Cree, Inc.","6,271",amc,0.05,--,--,--,-3.56%
-5,USAT,Usa Technologie...,452,bmo,0.00,--,--,--,0.97%
-6,COTY,Coty Inc.,"8,679",bmo,0.09,--,--,--,-9.41%
-7,TOL,Toll Brothers I...,"5,293",bmo,0.68,--,--,--,-2.59%
-8,NM,Navios Maritime...,56,bmo,-3.00,--,--,--,6.50%
-9,ARAY,Accuray Incorpo...,335,amc,-0.01,--,--,--,1.23%
-10,VNET,"21vianet Group,...",901,amc,-0.04,--,--,--,-4.59%
-11,AMWD,American Woodma...,"1,423",bmo,1.37,--,--,--,-9.73%
-12,ZTO,Zto Express (ca...,"10,079",amc,0.14,--,--,--,-6.21%
-13,LZB,La-z-boy Incorp...,"1,479",amc,0.29,--,--,--,-20.16%
-14,DAKT,"Daktronics, Inc...",295,bmo,0.13,--,--,--,4.07%
-15,KIRK,"Kirkland's, Inc...",31,bmo,-0.28,--,--,--,31.03%
+2017-08-22,CRM,"Salesforce.com,...","119,954",amc,0.31,--,--,--,0.13%
+2017-08-22,MDT,Medtronic Plc,"131,581",bmo,1.08,--,--,--,-2.11%
+2017-08-22,MOMO,Momo Inc.,"6,976",bmo,0.32,--,--,--,-20.10%
+2017-08-22,INTU,Intuit Inc.,"70,136",amc,0.16,--,--,--,-1.90%
+2017-08-22,CREE,"Cree, Inc.","6,271",amc,0.05,--,--,--,-3.56%
+2017-08-22,USAT,Usa Technologie...,452,bmo,0.0,--,--,--,0.97%
+2017-08-22,COTY,Coty Inc.,"8,679",bmo,0.09,--,--,--,-9.41%
+2017-08-22,TOL,Toll Brothers I...,"5,293",bmo,0.68,--,--,--,-2.59%
+2017-08-22,NM,Navios Maritime...,56,bmo,-3.0,--,--,--,6.50%
+2017-08-22,ARAY,Accuray Incorpo...,335,amc,-0.01,--,--,--,1.23%
+2017-08-22,VNET,"21vianet Group,...",901,amc,-0.04,--,--,--,-4.59%
+2017-08-22,AMWD,American Woodma...,"1,423",bmo,1.37,--,--,--,-9.73%
+2017-08-22,ZTO,Zto Express (ca...,"10,079",amc,0.14,--,--,--,-6.21%
+2017-08-22,LZB,La-z-boy Incorp...,"1,479",amc,0.29,--,--,--,-20.16%
+2017-08-22,DAKT,"Daktronics, Inc...",295,bmo,0.13,--,--,--,4.07%
+2017-08-22,KIRK,"Kirkland's, Inc...",31,bmo,-0.28,--,--,--,31.03%

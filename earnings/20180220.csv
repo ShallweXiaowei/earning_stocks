@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,WMT,Walmart Inc.,"319,672",bmo,1.36,--,--,--,-10.18%
-1,HD,"The Home Depot,...","232,667",bmo,1.62,--,--,--,-0.14%
-2,DUK,Duke Energy Cor...,"65,291",bmo,0.91,--,--,--,-1.32%
-3,MDT,Medtronic Plc,"131,581",bmo,1.16,--,--,--,-2.04%
-4,RCII,"Rent-a-center,...","1,483",amc,-0.07,--,--,--,-5.04%
-5,GLDD,Great Lakes Dre...,715,bmo,-0.18,--,--,--,-2.20%
-6,FE,Firstenergy Cor...,"23,240",amc,0.69,--,--,--,-0.12%
-7,AWK,American Water...,"21,294",amc,0.66,--,--,--,-1.25%
-8,RIG,Transocean Ltd....,"3,768",amc,-0.27,--,--,--,-0.88%
-9,DVN,Devon Energy Co...,"11,586",amc,0.60,--,--,--,-11.77%
-10,CATM,Cardtronics Plc...,"1,301",amc,0.63,--,--,--,-5.18%
-11,DPZ,Domino's Pizza...,"11,438",bmo,1.94,--,--,--,0.34%
-12,MGM,Mgm Resorts Int...,"15,702",bmo,0.07,--,--,--,0.70%
-13,CHEF,The Chefs' Ware...,"1,038",amc,0.22,--,--,--,13.37%
-14,CBRL,Cracker Barrel...,"4,158",bmo,2.42,--,--,--,-6.83%
-15,BYD,Boyd Gaming Cor...,"3,060",amc,0.26,--,--,--,-6.89%
-16,PGTI,"Pgt, Inc.",998,bmo,0.14,--,--,--,12.82%
-17,ECL,Ecolab Inc.,"56,804",bmo,1.40,--,--,--,0.17%
-18,KNOP,Knot Offshore P...,640,bmo,0.53,--,--,--,-1.18%
-19,MGP,Mgm Growth Prop...,"2,820",bmo,0.53,--,--,--,-0.75%
-20,WLK,Westlake Chemic...,"8,967",bmo,1.69,--,--,--,0.19%
-21,GPC,Genuine Parts C...,"15,424",bmo,1.11,--,--,--,-5.17%
-22,TXMD,"Therapeuticsmd,...",663,amc,-0.09,--,--,--,-3.77%
-23,CXO,Concho Resource...,"20,246",amc,0.46,--,--,--,1.37%
-24,SIX,Six Flags Enter...,"4,481",bmo,0.12,--,--,--,-4.61%
+2018-02-20,WMT,Walmart Inc.,"319,672",bmo,1.36,--,--,--,-10.18%
+2018-02-20,HD,"The Home Depot,...","232,667",bmo,1.62,--,--,--,-0.14%
+2018-02-20,DUK,Duke Energy Cor...,"65,291",bmo,0.91,--,--,--,-1.32%
+2018-02-20,MDT,Medtronic Plc,"131,581",bmo,1.16,--,--,--,-2.04%
+2018-02-20,RCII,"Rent-a-center,...","1,483",amc,-0.07,--,--,--,-5.04%
+2018-02-20,GLDD,Great Lakes Dre...,715,bmo,-0.18,--,--,--,-2.20%
+2018-02-20,FE,Firstenergy Cor...,"23,240",amc,0.69,--,--,--,-0.12%
+2018-02-20,AWK,American Water...,"21,294",amc,0.66,--,--,--,-1.25%
+2018-02-20,RIG,Transocean Ltd....,"3,768",amc,-0.27,--,--,--,-0.88%
+2018-02-20,DVN,Devon Energy Co...,"11,586",amc,0.6,--,--,--,-11.77%
+2018-02-20,CATM,Cardtronics Plc...,"1,301",amc,0.63,--,--,--,-5.18%
+2018-02-20,DPZ,Domino's Pizza...,"11,438",bmo,1.94,--,--,--,0.34%
+2018-02-20,MGM,Mgm Resorts Int...,"15,702",bmo,0.07,--,--,--,0.70%
+2018-02-20,CHEF,The Chefs' Ware...,"1,038",amc,0.22,--,--,--,13.37%
+2018-02-20,CBRL,Cracker Barrel...,"4,158",bmo,2.42,--,--,--,-6.83%
+2018-02-20,BYD,Boyd Gaming Cor...,"3,060",amc,0.26,--,--,--,-6.89%
+2018-02-20,PGTI,"Pgt, Inc.",998,bmo,0.14,--,--,--,12.82%
+2018-02-20,ECL,Ecolab Inc.,"56,804",bmo,1.4,--,--,--,0.17%
+2018-02-20,KNOP,Knot Offshore P...,640,bmo,0.53,--,--,--,-1.18%
+2018-02-20,MGP,Mgm Growth Prop...,"2,820",bmo,0.53,--,--,--,-0.75%
+2018-02-20,WLK,Westlake Chemic...,"8,967",bmo,1.69,--,--,--,0.19%
+2018-02-20,GPC,Genuine Parts C...,"15,424",bmo,1.11,--,--,--,-5.17%
+2018-02-20,TXMD,"Therapeuticsmd,...",663,amc,-0.09,--,--,--,-3.77%
+2018-02-20,CXO,Concho Resource...,"20,246",amc,0.46,--,--,--,1.37%
+2018-02-20,SIX,Six Flags Enter...,"4,481",bmo,0.12,--,--,--,-4.61%

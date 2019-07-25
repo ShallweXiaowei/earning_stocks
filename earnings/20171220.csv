@@ -1,8 +1,8 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,GIS,"General Mills,...","32,614",bmo,0.82,--,--,--,1.96%
-1,BB,Blackberry Limi...,"4,060",bmo,-0.01,--,--,--,11.96%
-2,BBBY,Bed Bath & Beyo...,"1,471",amc,0.36,--,--,--,-12.47%
-3,WGO,Winnebago Indus...,"1,214",bmo,0.50,--,--,--,-4.62%
-4,ADXS,"Advaxis, Inc.",10,amc,-8.25,--,--,--,-12.94%
-5,MLHR,"Herman Miller,...","2,628",amc,0.59,--,--,--,5.62%
-6,ATU,Actuant Corpora...,"1,480",bmo,0.18,--,--,--,-6.55%
+2017-12-20,GIS,"General Mills,...","32,614",bmo,0.82,--,--,--,1.96%
+2017-12-20,BB,Blackberry Limi...,"4,060",bmo,-0.01,--,--,--,11.96%
+2017-12-20,BBBY,Bed Bath & Beyo...,"1,471",amc,0.36,--,--,--,-12.47%
+2017-12-20,WGO,Winnebago Indus...,"1,214",bmo,0.5,--,--,--,-4.62%
+2017-12-20,ADXS,"Advaxis, Inc.",10,amc,-8.25,--,--,--,-12.94%
+2017-12-20,MLHR,"Herman Miller,...","2,628",amc,0.59,--,--,--,5.62%
+2017-12-20,ATU,Actuant Corpora...,"1,480",bmo,0.18,--,--,--,-6.55%

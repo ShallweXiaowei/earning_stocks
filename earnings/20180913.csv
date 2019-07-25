@@ -1,9 +1,9 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ADBE,Adobe Systems I...,"147,564",amc,1.69,1.73,+0.04 ,+2.37% ,2.30%
-1,CSBR,Champions Oncol...,90,amc,0.01,0.05,+0.04 ,+400.00% ,24.76%
-2,KR,The Kroger Co.,"17,374",bmo,0.38,0.41,+0.03 ,+7.89% ,-9.93%
-3,PTN,Palatin Technol...,222,bmo,0.02,0.06,+0.04 ,+200.00% ,-1.90%
-4,BRC,Brady Corporati...,"2,608",bmo,0.52,0.57,+0.05 ,+9.62% ,8.66%
-5,LOVE,The Lovesac Com...,423,bmo,-0.26,--,--,--,-4.85%
-6,RLGT,Radiant Logisti...,294,amc,0.07,0.11,+0.04 ,+57.14% ,11.96%
-7,PCYG,Park City Group...,100,amc,0.06,0.07,+0.01 ,+16.67% ,-2.20%
+2018-09-13,ADBE,Adobe Systems I...,"147,564",amc,1.69,1.73,+0.04 ,+2.37% ,2.30%
+2018-09-13,CSBR,Champions Oncol...,90,amc,0.01,0.05,+0.04 ,+400.00% ,24.76%
+2018-09-13,KR,The Kroger Co.,"17,374",bmo,0.38,0.41,+0.03 ,+7.89% ,-9.93%
+2018-09-13,PTN,Palatin Technol...,222,bmo,0.02,0.06,+0.04 ,+200.00% ,-1.90%
+2018-09-13,BRC,Brady Corporati...,"2,608",bmo,0.52,0.57,+0.05 ,+9.62% ,8.66%
+2018-09-13,LOVE,The Lovesac Com...,423,bmo,-0.26,--,--,--,-4.85%
+2018-09-13,RLGT,Radiant Logisti...,294,amc,0.07,0.11,+0.04 ,+57.14% ,11.96%
+2018-09-13,PCYG,Park City Group...,100,amc,0.06,0.07,+0.01 ,+16.67% ,-2.20%

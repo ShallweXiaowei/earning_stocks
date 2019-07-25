@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,JNJ,Johnson & Johns...,"373,221",bmo,1.80,--,--,--,3.43%
-1,IBM,International B...,"125,354",amc,3.28,--,--,--,8.86%
-2,UNH,Unitedhealth Gr...,"234,725",bmo,2.57,--,--,--,5.53%
-3,LRCX,Lam Research Co...,"27,533",amc,3.27,--,--,--,3.05%
-4,GS,The Goldman Sac...,"76,058",bmo,4.31,--,--,--,-2.61%
-5,PGR,The Progressive...,"49,049",bmo,0.34,--,--,--,-0.88%
-6,CSX,Csx Corporation...,"63,438",bmo,0.51,--,--,--,2.63%
-7,MS,Morgan Stanley,"74,372",bmo,0.81,--,--,--,0.37%
-8,CREE,"Cree, Inc.","6,271",amc,0.03,--,--,--,16.43%
-9,CMA,Comerica Incorp...,"11,251",bmo,1.20,--,--,--,-0.72%
-10,GWW,"W.w. Grainger,...","14,944",bmo,2.57,--,--,--,12.65%
-11,CP,Canadian Pacifi...,"33,355",amc,2.31,--,--,--,5.95%
-12,PACW,Pacwest Bancorp...,"4,605",--,0.76,--,--,--,--
-13,PLD,"Prologis, Inc.","51,996",bmo,0.67,--,--,--,-1.06%
-14,IBKR,Interactive Bro...,"22,713",amc,0.37,--,--,--,4.98%
-15,SNV,Synovus Financi...,"5,522",bmo,0.64,--,--,--,-1.69%
-16,NAVI,Navient Corpora...,"3,374",amc,0.50,--,--,--,-1.80%
-17,OMC,Omnicom Group I...,"18,659",bmo,1.10,--,--,--,2.25%
-18,FULT,Fulton Financia...,"2,797",amc,0.28,--,--,--,-2.64%
-19,WIT,Wipro Limited,"25,754",--,0.05,--,--,--,--
-20,PNFP,Pinnacle Financ...,"4,448",amc,0.89,--,--,--,3.30%
-21,UFPI,Universal Fores...,"2,307",amc,0.48,--,--,--,8.28%
-22,HCSG,Healthcare Serv...,"2,239",--,0.32,--,--,--,--
-23,OMAB,Grupo Aeroportu...,"2,157",--,0.70,--,--,--,--
-24,RNST,Renasant Corpor...,"2,115",amc,0.60,--,--,--,-1.71%
+2017-10-17,JNJ,Johnson & Johns...,"373,221",bmo,1.8,--,--,--,3.43%
+2017-10-17,IBM,International B...,"125,354",amc,3.28,--,--,--,8.86%
+2017-10-17,UNH,Unitedhealth Gr...,"234,725",bmo,2.57,--,--,--,5.53%
+2017-10-17,LRCX,Lam Research Co...,"27,533",amc,3.27,--,--,--,3.05%
+2017-10-17,GS,The Goldman Sac...,"76,058",bmo,4.31,--,--,--,-2.61%
+2017-10-17,PGR,The Progressive...,"49,049",bmo,0.34,--,--,--,-0.88%
+2017-10-17,CSX,Csx Corporation...,"63,438",bmo,0.51,--,--,--,2.63%
+2017-10-17,MS,Morgan Stanley,"74,372",bmo,0.81,--,--,--,0.37%
+2017-10-17,CREE,"Cree, Inc.","6,271",amc,0.03,--,--,--,16.43%
+2017-10-17,CMA,Comerica Incorp...,"11,251",bmo,1.2,--,--,--,-0.72%
+2017-10-17,GWW,"W.w. Grainger,...","14,944",bmo,2.57,--,--,--,12.65%
+2017-10-17,CP,Canadian Pacifi...,"33,355",amc,2.31,--,--,--,5.95%
+2017-10-17,PACW,Pacwest Bancorp...,"4,605",--,0.76,--,--,--,--
+2017-10-17,PLD,"Prologis, Inc.","51,996",bmo,0.67,--,--,--,-1.06%
+2017-10-17,IBKR,Interactive Bro...,"22,713",amc,0.37,--,--,--,4.98%
+2017-10-17,SNV,Synovus Financi...,"5,522",bmo,0.64,--,--,--,-1.69%
+2017-10-17,NAVI,Navient Corpora...,"3,374",amc,0.5,--,--,--,-1.80%
+2017-10-17,OMC,Omnicom Group I...,"18,659",bmo,1.1,--,--,--,2.25%
+2017-10-17,FULT,Fulton Financia...,"2,797",amc,0.28,--,--,--,-2.64%
+2017-10-17,WIT,Wipro Limited,"25,754",--,0.05,--,--,--,--
+2017-10-17,PNFP,Pinnacle Financ...,"4,448",amc,0.89,--,--,--,3.30%
+2017-10-17,UFPI,Universal Fores...,"2,307",amc,0.48,--,--,--,8.28%
+2017-10-17,HCSG,Healthcare Serv...,"2,239",--,0.32,--,--,--,--
+2017-10-17,OMAB,Grupo Aeroportu...,"2,157",--,0.7,--,--,--,--
+2017-10-17,RNST,Renasant Corpor...,"2,115",amc,0.6,--,--,--,-1.71%

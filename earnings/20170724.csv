@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,GOOGL,Alphabet Inc.,"786,348",amc,4.39,--,--,--,-2.93%
-1,HAL,Halliburton Com...,"20,128",bmo,0.19,--,--,--,-4.21%
-2,VFC,V.f. Corporatio...,"34,874",bmo,0.28,--,--,--,0.39%
-3,APC,Anadarko Petrol...,"35,671",amc,-0.34,--,--,--,3.42%
-4,LOGI,Logitech Intern...,"6,491",amc,0.22,--,--,--,-10.31%
-5,PETS,"Petmed Express,...",315,bmo,0.40,--,--,--,18.28%
-6,ITW,Illinois Tool W...,"48,208",bmo,1.63,--,--,--,-3.61%
-7,ARNC,Arconic Inc.,"11,709",bmo,0.27,--,--,--,-0.16%
-8,CE,Celanese Corpor...,"13,374",amc,1.74,--,--,--,-1.53%
-9,HSII,Heidrick & Stru...,560,amc,0.38,--,--,--,-10.36%
-10,SWK,Stanley Black &...,"22,203",bmo,1.96,--,--,--,-2.11%
-11,CDNS,Cadence Design...,"20,911",amc,0.33,--,--,--,4.48%
-12,AI,Arlington Asset...,197,amc,0.60,--,--,--,-5.60%
-13,CR,Crane Company,"5,064",amc,1.16,--,--,--,-8.01%
-14,HAS,"Hasbro, Inc.","13,456",bmo,0.46,--,--,--,-9.44%
-15,WERN,Werner Enterpri...,"2,166",amc,0.26,--,--,--,6.68%
-16,SGMS,Scientific Game...,"1,858",bmo,-0.52,--,--,--,27.19%
-17,KNX,Knight-swift Tr...,"5,815",amc,0.28,--,--,--,4.14%
-18,RPM,Rpm Internation...,"8,158",bmo,1.17,--,--,--,-6.95%
-19,MC,Moelis & Compan...,"2,045",amc,0.51,--,--,--,7.75%
-20,HXL,Hexcel Corporat...,"6,909",amc,0.69,--,--,--,-4.34%
-21,CRY,"Cryolife, Inc.","1,138",amc,0.10,--,--,--,0.25%
-22,RYAAY,Ryanair Holding...,"15,848",bmo,1.48,--,--,--,-0.86%
-23,KOF,Coca Cola Femsa...,"13,231",bmo,0.63,--,--,--,-5.71%
-24,LII,Lennox Internat...,"11,297",bmo,2.76,--,--,--,-3.33%
+2017-07-24,GOOGL,Alphabet Inc.,"786,348",amc,4.39,--,--,--,-2.93%
+2017-07-24,HAL,Halliburton Com...,"20,128",bmo,0.19,--,--,--,-4.21%
+2017-07-24,VFC,V.f. Corporatio...,"34,874",bmo,0.28,--,--,--,0.39%
+2017-07-24,APC,Anadarko Petrol...,"35,671",amc,-0.34,--,--,--,3.42%
+2017-07-24,LOGI,Logitech Intern...,"6,491",amc,0.22,--,--,--,-10.31%
+2017-07-24,PETS,"Petmed Express,...",315,bmo,0.4,--,--,--,18.28%
+2017-07-24,ITW,Illinois Tool W...,"48,208",bmo,1.63,--,--,--,-3.61%
+2017-07-24,ARNC,Arconic Inc.,"11,709",bmo,0.27,--,--,--,-0.16%
+2017-07-24,CE,Celanese Corpor...,"13,374",amc,1.74,--,--,--,-1.53%
+2017-07-24,HSII,Heidrick & Stru...,560,amc,0.38,--,--,--,-10.36%
+2017-07-24,SWK,Stanley Black &...,"22,203",bmo,1.96,--,--,--,-2.11%
+2017-07-24,CDNS,Cadence Design...,"20,911",amc,0.33,--,--,--,4.48%
+2017-07-24,AI,Arlington Asset...,197,amc,0.6,--,--,--,-5.60%
+2017-07-24,CR,Crane Company,"5,064",amc,1.16,--,--,--,-8.01%
+2017-07-24,HAS,"Hasbro, Inc.","13,456",bmo,0.46,--,--,--,-9.44%
+2017-07-24,WERN,Werner Enterpri...,"2,166",amc,0.26,--,--,--,6.68%
+2017-07-24,SGMS,Scientific Game...,"1,858",bmo,-0.52,--,--,--,27.19%
+2017-07-24,KNX,Knight-swift Tr...,"5,815",amc,0.28,--,--,--,4.14%
+2017-07-24,RPM,Rpm Internation...,"8,158",bmo,1.17,--,--,--,-6.95%
+2017-07-24,MC,Moelis & Compan...,"2,045",amc,0.51,--,--,--,7.75%
+2017-07-24,HXL,Hexcel Corporat...,"6,909",amc,0.69,--,--,--,-4.34%
+2017-07-24,CRY,"Cryolife, Inc.","1,138",amc,0.1,--,--,--,0.25%
+2017-07-24,RYAAY,Ryanair Holding...,"15,848",bmo,1.48,--,--,--,-0.86%
+2017-07-24,KOF,Coca Cola Femsa...,"13,231",bmo,0.63,--,--,--,-5.71%
+2017-07-24,LII,Lennox Internat...,"11,297",bmo,2.76,--,--,--,-3.33%

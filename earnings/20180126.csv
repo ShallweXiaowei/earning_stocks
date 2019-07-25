@@ -1,23 +1,23 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ABBV,Abbvie Inc.,"107,903",bmo,1.44,--,--,--,13.77%
-1,HON,Honeywell Inter...,"128,512",bmo,1.84,--,--,--,1.95%
-2,NEE,"Nextera Energy,...","99,671",bmo,1.31,--,--,--,3.00%
-3,CL,Colgate-palmoli...,"62,792",bmo,0.75,--,--,--,-4.85%
-4,APD,Air Products An...,"50,758",bmo,1.66,--,--,--,-2.39%
-5,NEP,Nextera Energy...,"2,776",bmo,0.26,--,--,--,2.43%
-6,LEA,Lear Corporatio...,"8,407",bmo,4.25,--,--,--,3.31%
-7,GNTX,Gentex Corporat...,"6,231",bmo,0.32,--,--,--,3.98%
-8,ATLKY,Atlas Copco Ab,"26,029",--,0.45,--,--,--,--
-9,HRC,Hill-rom Holdin...,"7,071",bmo,0.80,--,--,--,-3.07%
-10,MOG.A,Moog Inc.,"3,294",bmo,0.88,--,--,--,2.12%
-11,POL,Polyone Corpora...,"2,410",bmo,0.39,--,--,--,-4.00%
-12,ABCB,Ameris Bancorp,"1,873",bmo,0.63,--,--,--,2.62%
-13,PFS,Provident Finan...,"1,647",bmo,0.38,--,--,--,-4.03%
-14,WRLD,World Acceptanc...,"1,556",bmo,0.95,--,--,--,20.10%
-15,LBAI,Lakeland Bancor...,827,--,0.29,--,--,--,--
-16,FBMS,The First Bancs...,531,--,0.48,--,--,--,--
-17,SONA,Southern Nation...,374,--,0.24,--,--,--,--
-18,CIVB,Civista Bancsha...,346,--,0.27,--,--,--,--
-19,SMMF,Summit Financia...,345,--,0.53,--,--,--,--
-20,HFBC,"Hopfed Bancorp,...",130,--,0.18,--,--,--,--
-21,SAL,Salisbury Banco...,111,--,0.65,--,--,--,--
+2018-01-26,ABBV,Abbvie Inc.,"107,903",bmo,1.44,--,--,--,13.77%
+2018-01-26,HON,Honeywell Inter...,"128,512",bmo,1.84,--,--,--,1.95%
+2018-01-26,NEE,"Nextera Energy,...","99,671",bmo,1.31,--,--,--,3.00%
+2018-01-26,CL,Colgate-palmoli...,"62,792",bmo,0.75,--,--,--,-4.85%
+2018-01-26,APD,Air Products An...,"50,758",bmo,1.66,--,--,--,-2.39%
+2018-01-26,NEP,Nextera Energy...,"2,776",bmo,0.26,--,--,--,2.43%
+2018-01-26,LEA,Lear Corporatio...,"8,407",bmo,4.25,--,--,--,3.31%
+2018-01-26,GNTX,Gentex Corporat...,"6,231",bmo,0.32,--,--,--,3.98%
+2018-01-26,ATLKY,Atlas Copco Ab,"26,029",--,0.45,--,--,--,--
+2018-01-26,HRC,Hill-rom Holdin...,"7,071",bmo,0.8,--,--,--,-3.07%
+2018-01-26,MOG.A,Moog Inc.,"3,294",bmo,0.88,--,--,--,2.12%
+2018-01-26,POL,Polyone Corpora...,"2,410",bmo,0.39,--,--,--,-4.00%
+2018-01-26,ABCB,Ameris Bancorp,"1,873",bmo,0.63,--,--,--,2.62%
+2018-01-26,PFS,Provident Finan...,"1,647",bmo,0.38,--,--,--,-4.03%
+2018-01-26,WRLD,World Acceptanc...,"1,556",bmo,0.95,--,--,--,20.10%
+2018-01-26,LBAI,Lakeland Bancor...,827,--,0.29,--,--,--,--
+2018-01-26,FBMS,The First Bancs...,531,--,0.48,--,--,--,--
+2018-01-26,SONA,Southern Nation...,374,--,0.24,--,--,--,--
+2018-01-26,CIVB,Civista Bancsha...,346,--,0.27,--,--,--,--
+2018-01-26,SMMF,Summit Financia...,345,--,0.53,--,--,--,--
+2018-01-26,HFBC,"Hopfed Bancorp,...",130,--,0.18,--,--,--,--
+2018-01-26,SAL,Salisbury Banco...,111,--,0.65,--,--,--,--

@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,BBY,"Best Buy Co., I...","19,198",bmo,2.05,--,--,--,3.95%
-1,SPLK,Splunk Inc.,"19,570",amc,0.34,--,--,--,9.27%
-2,KSS,Kohl's Corporat...,"7,823",bmo,1.77,--,--,--,-5.05%
-3,JWN,"Nordstrom, Inc....","4,946",amc,1.24,--,--,--,5.07%
-4,VMW,"Vmware, Inc.","69,230",amc,1.63,--,--,--,-5.92%
-5,BUD,Anheuser-busch...,"156,980",bmo,0.98,--,--,--,3.08%
-6,OPK,"Opko Health, In...","1,453",amc,-0.08,--,--,--,5.97%
-7,TNDM,Tandem Diabetes...,"3,764",amc,-1.28,--,--,--,14.75%
-8,NTNX,Nutanix Inc.,"4,907",amc,-0.21,--,--,--,7.38%
-9,VGR,Vector Group Lt...,"1,373",bmo,0.11,--,--,--,-1.05%
-10,TD,Toronto Dominio...,"108,684",bmo,1.17,--,--,--,0.76%
-11,NKTR,Nektar Therapeu...,"6,125",amc,-0.38,--,--,--,21.67%
-12,SWN,Southwestern En...,"1,596",amc,0.10,--,--,--,20.49%
-13,UNIT,Communications...,"1,702",amc,0.48,--,--,--,-3.99%
-14,PBYI,Puma Biotechnol...,472,amc,-1.98,--,--,--,15.06%
-15,KEYS,Keysight Techno...,"17,212",amc,0.39,--,--,--,6.10%
-16,PEGI,Pattern Energy...,"2,290",bmo,0.05,--,--,--,-8.24%
-17,SRPT,Sarepta Therape...,"11,182",amc,-0.31,--,--,--,9.42%
-18,PSTG,"Pure Storage, I...","3,882",amc,0.07,--,--,--,-1.84%
-19,RBBN,"Sonus Networks,...",522,bmo,0.26,--,--,--,-7.87%
-20,NRG,"Nrg Energy, Inc...","9,642",bmo,-0.08,--,--,--,4.10%
-21,AOBC,American Outdoo...,499,amc,0.08,--,--,--,3.61%
-22,AMBA,"Ambarella, Inc....","1,457",amc,0.37,--,--,--,13.47%
-23,GPS,"The Gap, Inc.","6,917",amc,0.59,--,--,--,7.82%
-24,CORE,Core-mark Holdi...,"1,872",bmo,0.28,--,--,--,-1.07%
+2018-03-01,BBY,"Best Buy Co., I...","19,198",bmo,2.05,--,--,--,3.95%
+2018-03-01,SPLK,Splunk Inc.,"19,570",amc,0.34,--,--,--,9.27%
+2018-03-01,KSS,Kohl's Corporat...,"7,823",bmo,1.77,--,--,--,-5.05%
+2018-03-01,JWN,"Nordstrom, Inc....","4,946",amc,1.24,--,--,--,5.07%
+2018-03-01,VMW,"Vmware, Inc.","69,230",amc,1.63,--,--,--,-5.92%
+2018-03-01,BUD,Anheuser-busch...,"156,980",bmo,0.98,--,--,--,3.08%
+2018-03-01,OPK,"Opko Health, In...","1,453",amc,-0.08,--,--,--,5.97%
+2018-03-01,TNDM,Tandem Diabetes...,"3,764",amc,-1.28,--,--,--,14.75%
+2018-03-01,NTNX,Nutanix Inc.,"4,907",amc,-0.21,--,--,--,7.38%
+2018-03-01,VGR,Vector Group Lt...,"1,373",bmo,0.11,--,--,--,-1.05%
+2018-03-01,TD,Toronto Dominio...,"108,684",bmo,1.17,--,--,--,0.76%
+2018-03-01,NKTR,Nektar Therapeu...,"6,125",amc,-0.38,--,--,--,21.67%
+2018-03-01,SWN,Southwestern En...,"1,596",amc,0.1,--,--,--,20.49%
+2018-03-01,UNIT,Communications...,"1,702",amc,0.48,--,--,--,-3.99%
+2018-03-01,PBYI,Puma Biotechnol...,472,amc,-1.98,--,--,--,15.06%
+2018-03-01,KEYS,Keysight Techno...,"17,212",amc,0.39,--,--,--,6.10%
+2018-03-01,PEGI,Pattern Energy...,"2,290",bmo,0.05,--,--,--,-8.24%
+2018-03-01,SRPT,Sarepta Therape...,"11,182",amc,-0.31,--,--,--,9.42%
+2018-03-01,PSTG,"Pure Storage, I...","3,882",amc,0.07,--,--,--,-1.84%
+2018-03-01,RBBN,"Sonus Networks,...",522,bmo,0.26,--,--,--,-7.87%
+2018-03-01,NRG,"Nrg Energy, Inc...","9,642",bmo,-0.08,--,--,--,4.10%
+2018-03-01,AOBC,American Outdoo...,499,amc,0.08,--,--,--,3.61%
+2018-03-01,AMBA,"Ambarella, Inc....","1,457",amc,0.37,--,--,--,13.47%
+2018-03-01,GPS,"The Gap, Inc.","6,917",amc,0.59,--,--,--,7.82%
+2018-03-01,CORE,Core-mark Holdi...,"1,872",bmo,0.28,--,--,--,-1.07%

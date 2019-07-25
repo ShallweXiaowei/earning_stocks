@@ -1,4 +1,4 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,HELE,Helen Of Troy L...,"3,319",bmo,1.67,1.98,+0.31 ,+18.56% ,1.28%
-1,AZZ,Azz Inc.,"1,205",bmo,0.45,0.43,-0.02 ,-4.44% ,-6.21%
-2,CYDY,Cytodyn Inc.,152,--,-0.06,-0.07,-0.01 ,-16.67% ,--
+2018-10-09,HELE,Helen Of Troy L...,"3,319",bmo,1.67,1.98,0.31,+18.56% ,1.28%
+2018-10-09,AZZ,Azz Inc.,"1,205",bmo,0.45,0.43,-0.02,-4.44% ,-6.21%
+2018-10-09,CYDY,Cytodyn Inc.,152,--,-0.06,-0.07,-0.01,-16.67% ,--

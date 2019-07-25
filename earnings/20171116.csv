@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,WMT,Walmart Inc.,"319,672",bmo,0.97,--,--,--,10.90%
-1,AMAT,Applied Materia...,"41,170",amc,0.91,--,--,--,-2.33%
-2,BBY,"Best Buy Co., I...","19,198",bmo,0.79,--,--,--,-3.56%
-3,SPLK,Splunk Inc.,"19,570",amc,0.14,--,--,--,17.89%
-4,SCVL,"Shoe Carnival,...",423,amc,0.64,--,--,--,29.67%
-5,ROST,"Ross Stores, In...","36,790",amc,0.67,--,--,--,9.99%
-6,MANU,Manchester Unit...,734,bmo,-0.03,--,--,--,0.53%
-7,VIAB,Viacom Inc.,"12,644",bmo,0.85,--,--,--,-3.74%
-8,SJM,The J. M. Smuck...,"13,627",bmo,1.89,--,--,--,9.52%
-9,HP,Helmerich & Pay...,"5,474",bmo,-0.21,--,--,--,1.19%
-10,WSM,Williams-sonoma...,"5,097",amc,0.84,--,--,--,-13.41%
-11,GPS,"The Gap, Inc.","6,917",amc,0.55,--,--,--,6.99%
-12,SPH,Suburban Propan...,"1,478",bmo,-0.90,--,--,--,1.04%
-13,CRMT,America's Car-m...,570,amc,0.79,--,--,--,9.37%
-14,GLOB,Globant S.a.,"3,806",amc,0.34,--,--,--,13.32%
-15,HMLP,Hoegh Lng Partn...,593,bmo,0.36,--,--,--,-1.15%
-16,BERY,Berry Global Gr...,"7,154",bmo,0.79,--,--,--,2.85%
-17,POST,"Post Holdings,...","7,933",amc,0.93,--,--,--,-1.59%
-18,LTM,Latam Airlines...,"5,820",--,0.23,--,--,--,--
-19,ASND,Ascendis Pharma...,"4,735",amc,-0.85,--,--,--,0.52%
-20,BRC,Brady Corporati...,"2,608",bmo,0.48,--,--,--,4.74%
-21,STNG,Scorpio Tankers...,"1,561",bmo,-1.10,--,--,--,-1.47%
-22,QIWI,Qiwi Plc,"1,231",bmo,0.28,--,--,--,2.37%
-23,GPRK,Geopark Ltd,"1,117",--,0.15,--,--,--,--
-24,MATW,Matthews Intern...,"1,111",amc,1.09,--,--,--,-5.89%
+2017-11-16,WMT,Walmart Inc.,"319,672",bmo,0.97,--,--,--,10.90%
+2017-11-16,AMAT,Applied Materia...,"41,170",amc,0.91,--,--,--,-2.33%
+2017-11-16,BBY,"Best Buy Co., I...","19,198",bmo,0.79,--,--,--,-3.56%
+2017-11-16,SPLK,Splunk Inc.,"19,570",amc,0.14,--,--,--,17.89%
+2017-11-16,SCVL,"Shoe Carnival,...",423,amc,0.64,--,--,--,29.67%
+2017-11-16,ROST,"Ross Stores, In...","36,790",amc,0.67,--,--,--,9.99%
+2017-11-16,MANU,Manchester Unit...,734,bmo,-0.03,--,--,--,0.53%
+2017-11-16,VIAB,Viacom Inc.,"12,644",bmo,0.85,--,--,--,-3.74%
+2017-11-16,SJM,The J. M. Smuck...,"13,627",bmo,1.89,--,--,--,9.52%
+2017-11-16,HP,Helmerich & Pay...,"5,474",bmo,-0.21,--,--,--,1.19%
+2017-11-16,WSM,Williams-sonoma...,"5,097",amc,0.84,--,--,--,-13.41%
+2017-11-16,GPS,"The Gap, Inc.","6,917",amc,0.55,--,--,--,6.99%
+2017-11-16,SPH,Suburban Propan...,"1,478",bmo,-0.9,--,--,--,1.04%
+2017-11-16,CRMT,America's Car-m...,570,amc,0.79,--,--,--,9.37%
+2017-11-16,GLOB,Globant S.a.,"3,806",amc,0.34,--,--,--,13.32%
+2017-11-16,HMLP,Hoegh Lng Partn...,593,bmo,0.36,--,--,--,-1.15%
+2017-11-16,BERY,Berry Global Gr...,"7,154",bmo,0.79,--,--,--,2.85%
+2017-11-16,POST,"Post Holdings,...","7,933",amc,0.93,--,--,--,-1.59%
+2017-11-16,LTM,Latam Airlines...,"5,820",--,0.23,--,--,--,--
+2017-11-16,ASND,Ascendis Pharma...,"4,735",amc,-0.85,--,--,--,0.52%
+2017-11-16,BRC,Brady Corporati...,"2,608",bmo,0.48,--,--,--,4.74%
+2017-11-16,STNG,Scorpio Tankers...,"1,561",bmo,-1.1,--,--,--,-1.47%
+2017-11-16,QIWI,Qiwi Plc,"1,231",bmo,0.28,--,--,--,2.37%
+2017-11-16,GPRK,Geopark Ltd,"1,117",--,0.15,--,--,--,--
+2017-11-16,MATW,Matthews Intern...,"1,111",amc,1.09,--,--,--,-5.89%

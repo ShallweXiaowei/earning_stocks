@@ -1,6 +1,6 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,GIS,"General Mills,...","32,614",bmo,0.64,0.71,+0.07 ,+10.94% ,-7.62%
-1,AZO,"Autozone, Inc.","27,725",bmo,17.88,18.54,+0.66 ,+3.69% ,-1.97%
-2,CBRL,Cracker Barrel...,"4,158",bmo,2.66,2.19,-0.47 ,-17.67% ,-4.61%
-3,APOG,Apogee Enterpri...,"1,151",bmo,0.75,0.72,-0.03 ,-4.00% ,-11.90%
-4,AMRK,A-mark Precious...,90,amc,-0.10,-0.43,-0.33 ,-330.00% ,-4.58%
+2018-09-18,GIS,"General Mills,...","32,614",bmo,0.64,0.71,0.07,+10.94% ,-7.62%
+2018-09-18,AZO,"Autozone, Inc.","27,725",bmo,17.88,18.54,0.66,+3.69% ,-1.97%
+2018-09-18,CBRL,Cracker Barrel...,"4,158",bmo,2.66,2.19,-0.47,-17.67% ,-4.61%
+2018-09-18,APOG,Apogee Enterpri...,"1,151",bmo,0.75,0.72,-0.03,-4.00% ,-11.90%
+2018-09-18,AMRK,A-mark Precious...,90,amc,-0.1,-0.43,-0.33,-330.00% ,-4.58%

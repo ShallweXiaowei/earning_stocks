@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,AVGO,Broadcom Inc.,"112,519",amc,4.03,--,--,--,-3.71%
-1,VEEV,Veeva Systems I...,"25,042",amc,0.20,--,--,--,-13.59%
-2,ANF,Abercrombie & F...,"1,127",bmo,-0.34,--,--,--,17.07%
-3,SPLK,Splunk Inc.,"19,570",amc,0.06,--,--,--,8.48%
-4,MRVL,Marvell Technol...,"16,071",amc,0.28,--,--,--,7.50%
-5,ULTA,Ulta Beauty Inc...,"20,165",amc,1.78,--,--,--,-9.14%
-6,DLTR,"Dollar Tree, In...","26,048",bmo,0.87,--,--,--,5.62%
-7,BURL,Burlington Stor...,"11,648",bmo,0.50,--,--,--,1.37%
-8,VMW,"Vmware, Inc.","69,230",amc,1.15,--,--,--,1.89%
-9,TIF,Tiffany & Co.,"11,472",bmo,0.88,--,--,--,-1.32%
-10,ADSK,"Autodesk, Inc.","37,825",amc,-0.15,--,--,--,3.94%
-11,GME,Gamestop Corp.,565,amc,0.16,--,--,--,-10.93%
-12,SIG,Signet Jewelers...,903,bmo,1.10,--,--,--,16.67%
-13,HRL,Hormel Foods Co...,"22,231",bmo,0.37,--,--,--,-5.40%
-14,PSTG,"Pure Storage, I...","3,882",amc,-0.14,--,--,--,19.03%
-15,SJM,The J. M. Smuck...,"13,627",bmo,1.61,--,--,--,-9.54%
-16,CM,Canadian Imperi...,"35,546",bmo,2.08,--,--,--,-1.74%
-17,MIK,The Michaels Co...,"1,261",bmo,0.16,--,--,--,8.47%
-18,HMLP,Hoegh Lng Partn...,593,bmo,0.49,--,--,--,1.34%
-19,SDRL,Seadrill Limite...,"2,270",bmo,-0.06,--,--,--,--
-20,PDCO,Patterson Compa...,"2,148",bmo,0.43,--,--,--,1.57%
-21,SDLP,Seadrill Partne...,30,--,2.50,--,--,--,--
-22,PTR,Petrochina Comp...,"99,746",--,0.39,--,--,--,--
-23,TTC,Toro Company (t...,"7,118",bmo,0.57,--,--,--,-8.71%
-24,NOMD,Nomad Foods Lim...,"4,303",bmo,0.22,--,--,--,-1.13%
+2017-08-24,AVGO,Broadcom Inc.,"112,519",amc,4.03,--,--,--,-3.71%
+2017-08-24,VEEV,Veeva Systems I...,"25,042",amc,0.2,--,--,--,-13.59%
+2017-08-24,ANF,Abercrombie & F...,"1,127",bmo,-0.34,--,--,--,17.07%
+2017-08-24,SPLK,Splunk Inc.,"19,570",amc,0.06,--,--,--,8.48%
+2017-08-24,MRVL,Marvell Technol...,"16,071",amc,0.28,--,--,--,7.50%
+2017-08-24,ULTA,Ulta Beauty Inc...,"20,165",amc,1.78,--,--,--,-9.14%
+2017-08-24,DLTR,"Dollar Tree, In...","26,048",bmo,0.87,--,--,--,5.62%
+2017-08-24,BURL,Burlington Stor...,"11,648",bmo,0.5,--,--,--,1.37%
+2017-08-24,VMW,"Vmware, Inc.","69,230",amc,1.15,--,--,--,1.89%
+2017-08-24,TIF,Tiffany & Co.,"11,472",bmo,0.88,--,--,--,-1.32%
+2017-08-24,ADSK,"Autodesk, Inc.","37,825",amc,-0.15,--,--,--,3.94%
+2017-08-24,GME,Gamestop Corp.,565,amc,0.16,--,--,--,-10.93%
+2017-08-24,SIG,Signet Jewelers...,903,bmo,1.1,--,--,--,16.67%
+2017-08-24,HRL,Hormel Foods Co...,"22,231",bmo,0.37,--,--,--,-5.40%
+2017-08-24,PSTG,"Pure Storage, I...","3,882",amc,-0.14,--,--,--,19.03%
+2017-08-24,SJM,The J. M. Smuck...,"13,627",bmo,1.61,--,--,--,-9.54%
+2017-08-24,CM,Canadian Imperi...,"35,546",bmo,2.08,--,--,--,-1.74%
+2017-08-24,MIK,The Michaels Co...,"1,261",bmo,0.16,--,--,--,8.47%
+2017-08-24,HMLP,Hoegh Lng Partn...,593,bmo,0.49,--,--,--,1.34%
+2017-08-24,SDRL,Seadrill Limite...,"2,270",bmo,-0.06,--,--,--,--
+2017-08-24,PDCO,Patterson Compa...,"2,148",bmo,0.43,--,--,--,1.57%
+2017-08-24,SDLP,Seadrill Partne...,30,--,2.5,--,--,--,--
+2017-08-24,PTR,Petrochina Comp...,"99,746",--,0.39,--,--,--,--
+2017-08-24,TTC,Toro Company (t...,"7,118",bmo,0.57,--,--,--,-8.71%
+2017-08-24,NOMD,Nomad Foods Lim...,"4,303",bmo,0.22,--,--,--,-1.13%

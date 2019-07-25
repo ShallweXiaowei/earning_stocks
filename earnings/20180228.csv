@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,CRM,"Salesforce.com,...","119,954",amc,0.33,--,--,--,2.74%
-1,LOW,Lowe's Companie...,"81,596",bmo,0.88,--,--,--,-6.47%
-2,TJX,The Tjx Compani...,"66,005",bmo,0.64,--,--,--,6.95%
-3,CROX,"Crocs, Inc.","1,461",bmo,-0.37,--,--,--,-13.01%
-4,LB,"L Brands, Inc.","7,648",amc,2.04,--,--,--,-13.87%
-5,STWD,Starwood Proper...,"6,427",bmo,0.51,--,--,--,1.30%
-6,HABT,The Habit Resta...,267,amc,-0.01,--,--,--,6.36%
-7,BOX,"Box, Inc.","2,556",amc,-0.08,--,--,--,-23.32%
-8,MYL,Mylan N.v.,"10,046",amc,1.41,--,--,--,0.92%
-9,ODP,"Office Depot, I...","1,185",bmo,0.07,--,--,--,-9.31%
-10,STAA,Staar Surgical...,"1,308",amc,0.03,--,--,--,-7.64%
-11,SBOW,Silverbow Resou...,151,amc,1.49,--,--,--,4.65%
-12,CLH,"Clean Harbors,...","3,990",bmo,0.05,--,--,--,-0.22%
-13,DQ,Daqo New Energy...,472,bmo,2.53,--,--,--,-11.28%
-14,FRO,Frontline Ltd.,"1,364",bmo,-0.08,--,--,--,-3.97%
-15,SSYS,"Stratasys, Ltd....","1,510",bmo,0.16,--,--,--,-16.48%
-16,ADI,"Analog Devices,...","41,731",bmo,1.29,--,--,--,-2.29%
-17,KTOS,Kratos Defense...,"2,551",amc,0.07,--,--,--,-8.38%
-18,HIIQ,Health Insuranc...,365,amc,0.34,--,--,--,4.33%
-19,WTI,"W&t Offshore, I...",643,amc,0.15,--,--,--,-8.48%
-20,EPR,Epr Properties,"5,811",amc,1.44,--,--,--,-7.72%
-21,BAYRY,Bayer Aktienges...,"63,708",--,0.31,--,--,--,--
-22,DOC,Physicians Real...,"3,244",bmo,0.27,--,--,--,-2.24%
-23,HZNP,Horizon Pharma...,"4,502",bmo,0.22,--,--,--,2.75%
-24,MNST,Monster Beverag...,"35,833",amc,0.37,--,--,--,-14.44%
+2018-02-28,CRM,"Salesforce.com,...","119,954",amc,0.33,--,--,--,2.74%
+2018-02-28,LOW,Lowe's Companie...,"81,596",bmo,0.88,--,--,--,-6.47%
+2018-02-28,TJX,The Tjx Compani...,"66,005",bmo,0.64,--,--,--,6.95%
+2018-02-28,CROX,"Crocs, Inc.","1,461",bmo,-0.37,--,--,--,-13.01%
+2018-02-28,LB,"L Brands, Inc.","7,648",amc,2.04,--,--,--,-13.87%
+2018-02-28,STWD,Starwood Proper...,"6,427",bmo,0.51,--,--,--,1.30%
+2018-02-28,HABT,The Habit Resta...,267,amc,-0.01,--,--,--,6.36%
+2018-02-28,BOX,"Box, Inc.","2,556",amc,-0.08,--,--,--,-23.32%
+2018-02-28,MYL,Mylan N.v.,"10,046",amc,1.41,--,--,--,0.92%
+2018-02-28,ODP,"Office Depot, I...","1,185",bmo,0.07,--,--,--,-9.31%
+2018-02-28,STAA,Staar Surgical...,"1,308",amc,0.03,--,--,--,-7.64%
+2018-02-28,SBOW,Silverbow Resou...,151,amc,1.49,--,--,--,4.65%
+2018-02-28,CLH,"Clean Harbors,...","3,990",bmo,0.05,--,--,--,-0.22%
+2018-02-28,DQ,Daqo New Energy...,472,bmo,2.53,--,--,--,-11.28%
+2018-02-28,FRO,Frontline Ltd.,"1,364",bmo,-0.08,--,--,--,-3.97%
+2018-02-28,SSYS,"Stratasys, Ltd....","1,510",bmo,0.16,--,--,--,-16.48%
+2018-02-28,ADI,"Analog Devices,...","41,731",bmo,1.29,--,--,--,-2.29%
+2018-02-28,KTOS,Kratos Defense...,"2,551",amc,0.07,--,--,--,-8.38%
+2018-02-28,HIIQ,Health Insuranc...,365,amc,0.34,--,--,--,4.33%
+2018-02-28,WTI,"W&t Offshore, I...",643,amc,0.15,--,--,--,-8.48%
+2018-02-28,EPR,Epr Properties,"5,811",amc,1.44,--,--,--,-7.72%
+2018-02-28,BAYRY,Bayer Aktienges...,"63,708",--,0.31,--,--,--,--
+2018-02-28,DOC,Physicians Real...,"3,244",bmo,0.27,--,--,--,-2.24%
+2018-02-28,HZNP,Horizon Pharma...,"4,502",bmo,0.22,--,--,--,2.75%
+2018-02-28,MNST,Monster Beverag...,"35,833",amc,0.37,--,--,--,-14.44%

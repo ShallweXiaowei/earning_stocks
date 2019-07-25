@@ -1,19 +1,19 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,UUUU,Energy Fuels In...,284,--,-0.08,--,--,--,--
-1,BIG,"Big Lots, Inc.","1,056",bmo,2.42,--,--,--,-10.09%
-2,NTEC,Intec Pharma Lt...,129,--,-0.20,--,--,--,--
-3,AMWD,American Woodma...,"1,423",bmo,0.88,--,--,--,1.16%
-4,ONCS,Oncosec Medical...,16,--,-1.90,-2.40,-0.50 ,-26.32% ,--
-5,ESES,Eco-stim Energy...,0,bmo,-0.12,--,--,--,-3.93%
-6,RCM,R1 Rcm Inc.,"1,427",bmo,0.02,--,--,--,2.18%
-7,UBA,Urstadt Biddle...,850,--,0.33,--,--,--,--
-8,PRTY,Party City Hold...,665,bmo,0.80,--,--,--,7.56%
-9,CCXI,"Chemocentryx, I...",516,bmo,-0.22,--,--,--,11.94%
-10,OBSV,Obseva Sa,509,bmo,-0.56,--,--,--,0.00%
-11,USDP,Usd Partners Lp...,317,amc,0.27,--,--,--,0.88%
-12,CNTY,Century Casinos...,286,bmo,0.06,--,--,--,-1.17%
-13,PIRS,Pieris Pharmace...,229,amc,-0.04,--,--,--,-1.76%
-14,GWRS,Global Water Re...,221,bmo,0.01,--,--,--,-0.44%
-15,MCF,Contango Oil &...,56,bmo,-0.18,--,--,--,-1.16%
-16,SNMP,Sanchez Midstre...,40,--,-0.41,--,--,--,--
-17,TRIL,Trillium Therap...,10,--,-0.83,--,--,--,--
+2018-03-09,UUUU,Energy Fuels In...,284,--,-0.08,--,--,--,--
+2018-03-09,BIG,"Big Lots, Inc.","1,056",bmo,2.42,--,--,--,-10.09%
+2018-03-09,NTEC,Intec Pharma Lt...,129,--,-0.2,--,--,--,--
+2018-03-09,AMWD,American Woodma...,"1,423",bmo,0.88,--,--,--,1.16%
+2018-03-09,ONCS,Oncosec Medical...,16,--,-1.9,-2.40,-0.50 ,-26.32% ,--
+2018-03-09,ESES,Eco-stim Energy...,0,bmo,-0.12,--,--,--,-3.93%
+2018-03-09,RCM,R1 Rcm Inc.,"1,427",bmo,0.02,--,--,--,2.18%
+2018-03-09,UBA,Urstadt Biddle...,850,--,0.33,--,--,--,--
+2018-03-09,PRTY,Party City Hold...,665,bmo,0.8,--,--,--,7.56%
+2018-03-09,CCXI,"Chemocentryx, I...",516,bmo,-0.22,--,--,--,11.94%
+2018-03-09,OBSV,Obseva Sa,509,bmo,-0.56,--,--,--,0.00%
+2018-03-09,USDP,Usd Partners Lp...,317,amc,0.27,--,--,--,0.88%
+2018-03-09,CNTY,Century Casinos...,286,bmo,0.06,--,--,--,-1.17%
+2018-03-09,PIRS,Pieris Pharmace...,229,amc,-0.04,--,--,--,-1.76%
+2018-03-09,GWRS,Global Water Re...,221,bmo,0.01,--,--,--,-0.44%
+2018-03-09,MCF,Contango Oil &...,56,bmo,-0.18,--,--,--,-1.16%
+2018-03-09,SNMP,Sanchez Midstre...,40,--,-0.41,--,--,--,--
+2018-03-09,TRIL,Trillium Therap...,10,--,-0.83,--,--,--,--

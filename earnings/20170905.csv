@@ -1,10 +1,10 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,COUP,Coupa Software,"8,491",amc,-0.17,--,--,--,4.26%
-1,CASY,Caseys General...,"5,845",amc,1.46,--,--,--,1.58%
-2,HPE,Hewlett Packard...,"20,315",amc,0.25,--,--,--,-1.92%
-3,HQY,"Healthequity, I...","4,055",amc,0.14,--,--,--,7.79%
-4,PLAY,Dave & Buster's...,"1,476",amc,0.55,--,--,--,-11.58%
-5,HOME,At Home Group I...,457,amc,0.17,--,--,--,-10.11%
-6,DLNG,Dynagas Lng Par...,50,bmo,0.17,--,--,--,-6.43%
-7,DLTH,Duluth Holdings...,409,amc,0.10,--,--,--,1.57%
-8,MEIP,"Mei Pharma, Inc...",164,bmo,-0.15,--,--,--,5.36%
+2017-09-05,COUP,Coupa Software,"8,491",amc,-0.17,--,--,--,4.26%
+2017-09-05,CASY,Caseys General...,"5,845",amc,1.46,--,--,--,1.58%
+2017-09-05,HPE,Hewlett Packard...,"20,315",amc,0.25,--,--,--,-1.92%
+2017-09-05,HQY,"Healthequity, I...","4,055",amc,0.14,--,--,--,7.79%
+2017-09-05,PLAY,Dave & Buster's...,"1,476",amc,0.55,--,--,--,-11.58%
+2017-09-05,HOME,At Home Group I...,457,amc,0.17,--,--,--,-10.11%
+2017-09-05,DLNG,Dynagas Lng Par...,50,bmo,0.17,--,--,--,-6.43%
+2017-09-05,DLTH,Duluth Holdings...,409,amc,0.1,--,--,--,1.57%
+2017-09-05,MEIP,"Mei Pharma, Inc...",164,bmo,-0.15,--,--,--,5.36%

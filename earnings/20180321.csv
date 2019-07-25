@@ -1,22 +1,22 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,TCEHY,Tencent Holding...,"433,821",--,0.29,--,--,--,--
-1,GIS,"General Mills,...","32,614",bmo,0.79,--,--,--,-8.85%
-2,FIVE,"Five Below, Inc...","7,133",amc,1.17,--,--,--,4.20%
-3,WPM,Silver Wheaton...,"10,454",amc,0.16,--,--,--,1.51%
-4,WGO,Winnebago Indus...,"1,214",bmo,0.65,--,--,--,-5.00%
-5,GES,"Guess?, Inc.","1,170",amc,0.53,--,--,--,28.29%
-6,EGO,Eldorado Gold C...,994,amc,0.00,--,--,--,-11.54%
-7,ALTR,Altair Engineer...,"2,956",amc,0.06,--,--,--,-2.77%
-8,MLHR,"Herman Miller,...","2,628",amc,0.49,--,--,--,-13.73%
-9,PQG,Pq Group Holdin...,"2,238",bmo,0.12,--,--,--,5.39%
-10,ATU,Actuant Corpora...,"1,480",bmo,0.14,--,--,--,-3.80%
-11,SCHL,Scholastic Corp...,"1,163",amc,-0.35,-0.30,+0.05 ,+14.29% ,2.06%
-12,QADA,Qad Inc.,831,amc,-0.09,--,--,--,0.45%
-13,METC,Ramaco Resourcs...,218,amc,0.04,--,--,--,-1.26%
-14,PANL,Pangaea Logisti...,158,amc,0.10,--,--,--,-4.09%
-15,TGEN,Tecogen Inc.,86,bmo,0.00,--,--,--,18.22%
-16,WYY,Widepoint Corpo...,36,amc,0.00,--,--,--,-2.99%
-17,OSS,One Stop System...,31,amc,0.02,--,--,--,-1.15%
-18,SPHS,"Sophiris Bio, I...",28,--,-0.11,--,--,--,--
-19,SITO,"Sito Mobile, Lt...",19,amc,-0.17,--,--,--,-9.61%
-20,OTIV,On Track Innova...,19,bmo,-0.01,--,--,--,-5.00%
+2018-03-21,TCEHY,Tencent Holding...,"433,821",--,0.29,--,--,--,--
+2018-03-21,GIS,"General Mills,...","32,614",bmo,0.79,--,--,--,-8.85%
+2018-03-21,FIVE,"Five Below, Inc...","7,133",amc,1.17,--,--,--,4.20%
+2018-03-21,WPM,Silver Wheaton...,"10,454",amc,0.16,--,--,--,1.51%
+2018-03-21,WGO,Winnebago Indus...,"1,214",bmo,0.65,--,--,--,-5.00%
+2018-03-21,GES,"Guess?, Inc.","1,170",amc,0.53,--,--,--,28.29%
+2018-03-21,EGO,Eldorado Gold C...,994,amc,0.0,--,--,--,-11.54%
+2018-03-21,ALTR,Altair Engineer...,"2,956",amc,0.06,--,--,--,-2.77%
+2018-03-21,MLHR,"Herman Miller,...","2,628",amc,0.49,--,--,--,-13.73%
+2018-03-21,PQG,Pq Group Holdin...,"2,238",bmo,0.12,--,--,--,5.39%
+2018-03-21,ATU,Actuant Corpora...,"1,480",bmo,0.14,--,--,--,-3.80%
+2018-03-21,SCHL,Scholastic Corp...,"1,163",amc,-0.35,-0.30,+0.05 ,+14.29% ,2.06%
+2018-03-21,QADA,Qad Inc.,831,amc,-0.09,--,--,--,0.45%
+2018-03-21,METC,Ramaco Resourcs...,218,amc,0.04,--,--,--,-1.26%
+2018-03-21,PANL,Pangaea Logisti...,158,amc,0.1,--,--,--,-4.09%
+2018-03-21,TGEN,Tecogen Inc.,86,bmo,0.0,--,--,--,18.22%
+2018-03-21,WYY,Widepoint Corpo...,36,amc,0.0,--,--,--,-2.99%
+2018-03-21,OSS,One Stop System...,31,amc,0.02,--,--,--,-1.15%
+2018-03-21,SPHS,"Sophiris Bio, I...",28,--,-0.11,--,--,--,--
+2018-03-21,SITO,"Sito Mobile, Lt...",19,amc,-0.17,--,--,--,-9.61%
+2018-03-21,OTIV,On Track Innova...,19,bmo,-0.01,--,--,--,-5.00%

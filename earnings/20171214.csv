@@ -1,10 +1,10 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ADBE,Adobe Systems I...,"147,564",amc,1.15,--,--,--,1.43%
-1,COST,Costco Wholesal...,"117,973",amc,1.35,--,--,--,3.32%
-2,ORCL,Oracle Corporat...,"197,747",amc,0.68,--,--,--,-3.77%
-3,JBL,"Jabil, Inc.","4,823",amc,0.78,--,--,--,1.53%
-4,SAFM,Sanderson Farms...,"3,155",bmo,3.62,--,--,--,-13.00%
-5,SCHL,Scholastic Corp...,"1,163",bmo,1.75,--,--,--,-4.47%
-6,BRT,Brt Realty Trus...,209,--,0.17,--,--,--,--
-7,VIRC,Virco Manufactu...,74,--,0.30,--,--,--,--
-8,PURE,Pure Bioscience...,26,amc,-0.02,--,--,--,2.04%
+2017-12-14,ADBE,Adobe Systems I...,"147,564",amc,1.15,--,--,--,1.43%
+2017-12-14,COST,Costco Wholesal...,"117,973",amc,1.35,--,--,--,3.32%
+2017-12-14,ORCL,Oracle Corporat...,"197,747",amc,0.68,--,--,--,-3.77%
+2017-12-14,JBL,"Jabil, Inc.","4,823",amc,0.78,--,--,--,1.53%
+2017-12-14,SAFM,Sanderson Farms...,"3,155",bmo,3.62,--,--,--,-13.00%
+2017-12-14,SCHL,Scholastic Corp...,"1,163",bmo,1.75,--,--,--,-4.47%
+2017-12-14,BRT,Brt Realty Trus...,209,--,0.17,--,--,--,--
+2017-12-14,VIRC,Virco Manufactu...,74,--,0.3,--,--,--,--
+2017-12-14,PURE,Pure Bioscience...,26,amc,-0.02,--,--,--,2.04%

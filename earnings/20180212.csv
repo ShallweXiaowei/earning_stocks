@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,MOH,Molina Healthca...,"8,990",amc,0.23,--,--,--,-3.74%
-1,QLYS,"Qualys, Inc.","3,462",amc,0.28,--,--,--,7.51%
-2,NSP,"Insperity, Inc....","5,246",bmo,0.46,--,--,--,6.98%
-3,VIPS,Vipshop Holding...,"5,727",amc,0.21,--,--,--,6.71%
-4,RNG,"Ringcentral, In...","9,681",amc,0.06,--,--,--,7.12%
-5,FDC,First Data Corp...,"26,594",bmo,0.44,--,--,--,3.10%
-6,FMC,Fmc Corporation...,"11,150",amc,1.03,--,--,--,-3.94%
-7,CRNT,Ceragon Network...,206,bmo,0.04,--,--,--,19.14%
-8,G,Genpact Limited...,"7,333",amc,0.41,--,--,--,-6.13%
-9,OTTR,Otter Tail Corp...,"2,097",amc,0.44,--,--,--,1.71%
-10,IIN,Intricon Corpor...,204,amc,0.06,--,--,--,8.82%
-11,CHGG,"Chegg, Inc.","4,807",amc,0.13,--,--,--,17.05%
-12,NAT,Nordic American...,321,bmo,-0.17,--,--,--,11.17%
-13,NVTA,Invitae Corpora...,"2,146",amc,-0.61,--,--,--,-3.18%
-14,VECO,Veeco Instrumen...,597,amc,0.09,--,--,--,13.91%
-15,BRX,Brixmor Propert...,"5,420",amc,0.50,--,--,--,3.27%
-16,AMKR,Amkor Technolog...,"1,773",amc,0.19,--,--,--,5.58%
-17,QSR,Restaurant Bran...,"17,980",bmo,0.57,--,--,--,6.09%
-18,USAC,Usa Compression...,"1,631",bmo,0.11,--,--,--,4.61%
-19,DO,Diamond Offshor...,"1,210",bmo,0.00,--,--,--,1.68%
-20,BHF,Brighthouse Fin...,"4,297",amc,2.11,--,--,--,-8.02%
-21,RPD,"Rapid7, Inc.","2,869",bmo,-0.17,--,--,--,-2.44%
-22,L,Loews Corporati...,"16,979",bmo,0.72,--,--,--,1.65%
-23,ACGL,Arch Capital Gr...,"15,336",amc,0.38,--,--,--,0.59%
-24,CNA,Cna Financial C...,"13,023",bmo,0.82,--,--,--,4.76%
+2018-02-12,MOH,Molina Healthca...,"8,990",amc,0.23,--,--,--,-3.74%
+2018-02-12,QLYS,"Qualys, Inc.","3,462",amc,0.28,--,--,--,7.51%
+2018-02-12,NSP,"Insperity, Inc....","5,246",bmo,0.46,--,--,--,6.98%
+2018-02-12,VIPS,Vipshop Holding...,"5,727",amc,0.21,--,--,--,6.71%
+2018-02-12,RNG,"Ringcentral, In...","9,681",amc,0.06,--,--,--,7.12%
+2018-02-12,FDC,First Data Corp...,"26,594",bmo,0.44,--,--,--,3.10%
+2018-02-12,FMC,Fmc Corporation...,"11,150",amc,1.03,--,--,--,-3.94%
+2018-02-12,CRNT,Ceragon Network...,206,bmo,0.04,--,--,--,19.14%
+2018-02-12,G,Genpact Limited...,"7,333",amc,0.41,--,--,--,-6.13%
+2018-02-12,OTTR,Otter Tail Corp...,"2,097",amc,0.44,--,--,--,1.71%
+2018-02-12,IIN,Intricon Corpor...,204,amc,0.06,--,--,--,8.82%
+2018-02-12,CHGG,"Chegg, Inc.","4,807",amc,0.13,--,--,--,17.05%
+2018-02-12,NAT,Nordic American...,321,bmo,-0.17,--,--,--,11.17%
+2018-02-12,NVTA,Invitae Corpora...,"2,146",amc,-0.61,--,--,--,-3.18%
+2018-02-12,VECO,Veeco Instrumen...,597,amc,0.09,--,--,--,13.91%
+2018-02-12,BRX,Brixmor Propert...,"5,420",amc,0.5,--,--,--,3.27%
+2018-02-12,AMKR,Amkor Technolog...,"1,773",amc,0.19,--,--,--,5.58%
+2018-02-12,QSR,Restaurant Bran...,"17,980",bmo,0.57,--,--,--,6.09%
+2018-02-12,USAC,Usa Compression...,"1,631",bmo,0.11,--,--,--,4.61%
+2018-02-12,DO,Diamond Offshor...,"1,210",bmo,0.0,--,--,--,1.68%
+2018-02-12,BHF,Brighthouse Fin...,"4,297",amc,2.11,--,--,--,-8.02%
+2018-02-12,RPD,"Rapid7, Inc.","2,869",bmo,-0.17,--,--,--,-2.44%
+2018-02-12,L,Loews Corporati...,"16,979",bmo,0.72,--,--,--,1.65%
+2018-02-12,ACGL,Arch Capital Gr...,"15,336",amc,0.38,--,--,--,0.59%
+2018-02-12,CNA,Cna Financial C...,"13,023",bmo,0.82,--,--,--,4.76%

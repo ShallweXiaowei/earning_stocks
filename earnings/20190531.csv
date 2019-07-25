@@ -1,5 +1,5 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,CONN,"Conn's, Inc.",605,bmo,0.53,0.58,+0.05 ,+9.43% ,-14.36%
-1,BIG,"Big Lots, Inc.","1,021",bmo,0.69,0.92,+0.23 ,+33.33% ,6.11%
-2,GCO,Genesco Inc.,661,bmo,0.04,0.33,+0.29 ,+725.00% ,11.72%
-3,BBW,Build-a-bear Wo...,75,bmo,0.15,0.08,-0.07 ,-46.67% ,3.92%
+2019-05-31,CONN,"Conn's, Inc.",605,bmo,0.53,0.58,0.05,+9.43% ,-14.36%
+2019-05-31,BIG,"Big Lots, Inc.","1,021",bmo,0.69,0.92,0.23,+33.33% ,6.11%
+2019-05-31,GCO,Genesco Inc.,661,bmo,0.04,0.33,0.29,+725.00% ,11.72%
+2019-05-31,BBW,Build-a-bear Wo...,75,bmo,0.15,0.08,-0.07,-46.67% ,3.92%

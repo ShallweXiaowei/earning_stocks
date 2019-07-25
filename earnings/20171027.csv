@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ABBV,Abbvie Inc.,"107,903",bmo,1.39,--,--,--,2.65%
-1,XOM,Exxon Mobil Cor...,"322,113",bmo,0.89,--,--,--,0.29%
-2,MRK,"Merck & Co., In...","220,390",bmo,1.03,--,--,--,-6.05%
-3,CVX,Chevron Corpora...,"235,311",bmo,0.99,--,--,--,-4.14%
-4,NRZ,New Residential...,"6,464",bmo,0.56,--,--,--,4.87%
-5,PSX,Phillips 66,"43,904",bmo,1.62,--,--,--,0.89%
-6,HUN,Huntsman Corpor...,"4,776",bmo,0.50,--,--,--,4.23%
-7,VTR,"Ventas, Inc.","25,014",bmo,1.04,--,--,--,2.29%
-8,COG,Cabot Oil & Gas...,"10,006",bmo,0.08,--,--,--,8.52%
-9,CL,Colgate-palmoli...,"62,792",bmo,0.73,--,--,--,-1.14%
-10,TOT,Total S.a.,"138,114",bmo,0.99,--,--,--,0.92%
-11,E,Eni Spa,"59,346",bmo,0.22,--,--,--,-2.30%
-12,WY,Weyerhaeuser Co...,"19,819",bmo,0.31,--,--,--,1.81%
-13,LYB,Lyondellbasell...,"32,374",bmo,2.43,--,--,--,-2.19%
-14,SPG,Simon Property...,"50,350",bmo,2.88,--,--,--,-4.34%
-15,PSXP,Phillips 66 Par...,"6,275",bmo,0.59,--,--,--,3.14%
-16,GBX,Greenbrier Comp...,939,bmo,0.79,--,--,--,-0.90%
-17,GT,The Goodyear Ti...,"3,491",bmo,0.67,--,--,--,-4.43%
-18,CCJ,Cameco Corporat...,"4,279",bmo,0.10,--,--,--,-6.11%
-19,OSB,Norbord Inc.,"2,046",--,1.24,--,--,--,--
-20,UFS,Domtar Corporat...,"2,703",bmo,0.73,--,--,--,2.49%
-21,POR,Portland Genera...,"4,916",bmo,0.38,--,--,--,3.92%
-22,THC,Tenet Healthcar...,"1,996",amc,-0.38,--,--,--,3.89%
-23,ICAGY,International C...,"4,653",bmo,1.18,--,--,--,-6.88%
-24,AON,Aon Plc,"47,522",bmo,1.27,--,--,--,-3.33%
+2017-10-27,ABBV,Abbvie Inc.,"107,903",bmo,1.39,--,--,--,2.65%
+2017-10-27,XOM,Exxon Mobil Cor...,"322,113",bmo,0.89,--,--,--,0.29%
+2017-10-27,MRK,"Merck & Co., In...","220,390",bmo,1.03,--,--,--,-6.05%
+2017-10-27,CVX,Chevron Corpora...,"235,311",bmo,0.99,--,--,--,-4.14%
+2017-10-27,NRZ,New Residential...,"6,464",bmo,0.56,--,--,--,4.87%
+2017-10-27,PSX,Phillips 66,"43,904",bmo,1.62,--,--,--,0.89%
+2017-10-27,HUN,Huntsman Corpor...,"4,776",bmo,0.5,--,--,--,4.23%
+2017-10-27,VTR,"Ventas, Inc.","25,014",bmo,1.04,--,--,--,2.29%
+2017-10-27,COG,Cabot Oil & Gas...,"10,006",bmo,0.08,--,--,--,8.52%
+2017-10-27,CL,Colgate-palmoli...,"62,792",bmo,0.73,--,--,--,-1.14%
+2017-10-27,TOT,Total S.a.,"138,114",bmo,0.99,--,--,--,0.92%
+2017-10-27,E,Eni Spa,"59,346",bmo,0.22,--,--,--,-2.30%
+2017-10-27,WY,Weyerhaeuser Co...,"19,819",bmo,0.31,--,--,--,1.81%
+2017-10-27,LYB,Lyondellbasell...,"32,374",bmo,2.43,--,--,--,-2.19%
+2017-10-27,SPG,Simon Property...,"50,350",bmo,2.88,--,--,--,-4.34%
+2017-10-27,PSXP,Phillips 66 Par...,"6,275",bmo,0.59,--,--,--,3.14%
+2017-10-27,GBX,Greenbrier Comp...,939,bmo,0.79,--,--,--,-0.90%
+2017-10-27,GT,The Goodyear Ti...,"3,491",bmo,0.67,--,--,--,-4.43%
+2017-10-27,CCJ,Cameco Corporat...,"4,279",bmo,0.1,--,--,--,-6.11%
+2017-10-27,OSB,Norbord Inc.,"2,046",--,1.24,--,--,--,--
+2017-10-27,UFS,Domtar Corporat...,"2,703",bmo,0.73,--,--,--,2.49%
+2017-10-27,POR,Portland Genera...,"4,916",bmo,0.38,--,--,--,3.92%
+2017-10-27,THC,Tenet Healthcar...,"1,996",amc,-0.38,--,--,--,3.89%
+2017-10-27,ICAGY,International C...,"4,653",bmo,1.18,--,--,--,-6.88%
+2017-10-27,AON,Aon Plc,"47,522",bmo,1.27,--,--,--,-3.33%

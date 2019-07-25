@@ -1,19 +1,19 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,PANW,Palo Alto Netwo...,"20,099",amc,0.68,--,--,--,4.82%
-1,URBN,Urban Outfitter...,"2,312",amc,0.33,--,--,--,3.71%
-2,INTU,Intuit Inc.,"70,136",amc,0.05,--,--,--,-3.80%
-3,A,Agilent Technol...,"23,937",amc,0.63,--,--,--,-0.07%
-4,VIPS,Vipshop Holding...,"5,727",amc,0.15,--,--,--,-11.14%
-5,ASYS,"Amtech Systems,...",85,amc,0.06,--,--,--,-6.30%
-6,BITA,Bitauto Holding...,769,bmo,0.33,--,--,--,-3.88%
-7,BECN,Beacon Roofing...,"2,527",amc,0.94,--,--,--,4.80%
-8,DY,Dycom Industrie...,"1,830",bmo,0.91,--,--,--,9.08%
-9,GLAD,Gladstone Capit...,277,amc,0.21,--,--,--,0.41%
-10,ZTO,Zto Express (ca...,"10,079",amc,0.15,--,--,--,0.24%
-11,CUB,Cubic Corporati...,"2,088",amc,0.14,--,--,--,13.55%
-12,ENTA,Enanta Pharmace...,"1,671",amc,1.94,--,--,--,-8.17%
-13,RAVN,Raven Industrie...,"1,293",amc,0.21,--,--,--,6.06%
-14,GBDC,Golub Capital B...,"1,075",amc,0.32,--,--,--,-0.89%
-15,PRQR,Proqr Therapeut...,359,--,-0.49,--,--,--,--
-16,SNWV,Sanuwave Health...,25,bmo,-0.01,--,--,--,1.82%
-17,MEEC,Midwest Energy...,20,amc,0.00,--,--,--,-7.89%
+2017-11-20,PANW,Palo Alto Netwo...,"20,099",amc,0.68,--,--,--,4.82%
+2017-11-20,URBN,Urban Outfitter...,"2,312",amc,0.33,--,--,--,3.71%
+2017-11-20,INTU,Intuit Inc.,"70,136",amc,0.05,--,--,--,-3.80%
+2017-11-20,A,Agilent Technol...,"23,937",amc,0.63,--,--,--,-0.07%
+2017-11-20,VIPS,Vipshop Holding...,"5,727",amc,0.15,--,--,--,-11.14%
+2017-11-20,ASYS,"Amtech Systems,...",85,amc,0.06,--,--,--,-6.30%
+2017-11-20,BITA,Bitauto Holding...,769,bmo,0.33,--,--,--,-3.88%
+2017-11-20,BECN,Beacon Roofing...,"2,527",amc,0.94,--,--,--,4.80%
+2017-11-20,DY,Dycom Industrie...,"1,830",bmo,0.91,--,--,--,9.08%
+2017-11-20,GLAD,Gladstone Capit...,277,amc,0.21,--,--,--,0.41%
+2017-11-20,ZTO,Zto Express (ca...,"10,079",amc,0.15,--,--,--,0.24%
+2017-11-20,CUB,Cubic Corporati...,"2,088",amc,0.14,--,--,--,13.55%
+2017-11-20,ENTA,Enanta Pharmace...,"1,671",amc,1.94,--,--,--,-8.17%
+2017-11-20,RAVN,Raven Industrie...,"1,293",amc,0.21,--,--,--,6.06%
+2017-11-20,GBDC,Golub Capital B...,"1,075",amc,0.32,--,--,--,-0.89%
+2017-11-20,PRQR,Proqr Therapeut...,359,--,-0.49,--,--,--,--
+2017-11-20,SNWV,Sanuwave Health...,25,bmo,-0.01,--,--,--,1.82%
+2017-11-20,MEEC,Midwest Energy...,20,amc,0.0,--,--,--,-7.89%

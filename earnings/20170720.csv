@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,MSFT,Microsoft Corpo...,"1,050,266",amc,0.71,--,--,--,-0.58%
-1,V,Visa Inc.,"352,625",amc,0.80,--,--,--,1.52%
-2,BX,Blackstone Grou...,"31,105",bmo,0.62,--,--,--,-1.44%
-3,ISRG,Intuitive Surgi...,"62,025",amc,1.91,--,--,--,-4.55%
-4,ABT,Abbott Laborato...,"150,696",bmo,0.60,--,--,--,2.87%
-5,PM,Philip Morris I...,"124,651",bmo,1.23,--,--,--,-1.45%
-6,SWKS,Skyworks Soluti...,"13,872",amc,1.51,--,--,--,-0.16%
-7,UNP,Union Pacific C...,"120,354",bmo,1.37,--,--,--,-1.58%
-8,EBAY,Ebay Inc.,"34,687",amc,0.45,--,--,--,-1.53%
-9,NUE,Nucor Corporati...,"16,858",bmo,1.12,--,--,--,-1.22%
-10,ETFC,E*trade Financi...,"11,292",amc,0.48,--,--,--,5.13%
-11,KEY,Keycorp,"18,149",bmo,0.34,--,--,--,-3.67%
-12,COF,Capital One Fin...,"43,456",amc,1.90,--,--,--,8.55%
-13,SKX,Skechers U.s.a....,"5,155",amc,0.44,--,--,--,0.67%
-14,SHW,The Sherwin-wil...,"43,032",bmo,4.54,--,--,--,-2.49%
-15,BBT,Bb&t Corporatio...,"38,250",bmo,0.77,--,--,--,3.35%
-16,CTAS,Cintas Corporat...,"25,048",amc,1.08,--,--,--,9.19%
-17,BK,The Bank Of New...,"42,638",bmo,0.84,--,--,--,1.60%
-18,TRV,The Travelers C...,"40,259",bmo,2.07,--,--,--,-1.49%
-19,HZO,"Marinemax, Inc....",460,bmo,0.68,--,--,--,-24.56%
-20,MTG,Mgic Investment...,"4,952",bmo,0.25,--,--,--,-0.68%
-21,ABB,Abb Ltd,"41,575",bmo,0.29,--,--,--,-2.79%
-22,DHR,Danaher Corpora...,"103,417",bmo,0.97,--,--,--,-3.02%
-23,PPG,"Ppg Industries,...","27,851",bmo,1.81,--,--,--,-6.06%
-24,GPC,Genuine Parts C...,"15,424",bmo,1.31,--,--,--,-1.53%
+2017-07-20,MSFT,Microsoft Corpo...,"1,050,266",amc,0.71,--,--,--,-0.58%
+2017-07-20,V,Visa Inc.,"352,625",amc,0.8,--,--,--,1.52%
+2017-07-20,BX,Blackstone Grou...,"31,105",bmo,0.62,--,--,--,-1.44%
+2017-07-20,ISRG,Intuitive Surgi...,"62,025",amc,1.91,--,--,--,-4.55%
+2017-07-20,ABT,Abbott Laborato...,"150,696",bmo,0.6,--,--,--,2.87%
+2017-07-20,PM,Philip Morris I...,"124,651",bmo,1.23,--,--,--,-1.45%
+2017-07-20,SWKS,Skyworks Soluti...,"13,872",amc,1.51,--,--,--,-0.16%
+2017-07-20,UNP,Union Pacific C...,"120,354",bmo,1.37,--,--,--,-1.58%
+2017-07-20,EBAY,Ebay Inc.,"34,687",amc,0.45,--,--,--,-1.53%
+2017-07-20,NUE,Nucor Corporati...,"16,858",bmo,1.12,--,--,--,-1.22%
+2017-07-20,ETFC,E*trade Financi...,"11,292",amc,0.48,--,--,--,5.13%
+2017-07-20,KEY,Keycorp,"18,149",bmo,0.34,--,--,--,-3.67%
+2017-07-20,COF,Capital One Fin...,"43,456",amc,1.9,--,--,--,8.55%
+2017-07-20,SKX,Skechers U.s.a....,"5,155",amc,0.44,--,--,--,0.67%
+2017-07-20,SHW,The Sherwin-wil...,"43,032",bmo,4.54,--,--,--,-2.49%
+2017-07-20,BBT,Bb&t Corporatio...,"38,250",bmo,0.77,--,--,--,3.35%
+2017-07-20,CTAS,Cintas Corporat...,"25,048",amc,1.08,--,--,--,9.19%
+2017-07-20,BK,The Bank Of New...,"42,638",bmo,0.84,--,--,--,1.60%
+2017-07-20,TRV,The Travelers C...,"40,259",bmo,2.07,--,--,--,-1.49%
+2017-07-20,HZO,"Marinemax, Inc....",460,bmo,0.68,--,--,--,-24.56%
+2017-07-20,MTG,Mgic Investment...,"4,952",bmo,0.25,--,--,--,-0.68%
+2017-07-20,ABB,Abb Ltd,"41,575",bmo,0.29,--,--,--,-2.79%
+2017-07-20,DHR,Danaher Corpora...,"103,417",bmo,0.97,--,--,--,-3.02%
+2017-07-20,PPG,"Ppg Industries,...","27,851",bmo,1.81,--,--,--,-6.06%
+2017-07-20,GPC,Genuine Parts C...,"15,424",bmo,1.31,--,--,--,-1.53%

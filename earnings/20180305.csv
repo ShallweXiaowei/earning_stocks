@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,YY,Yy Inc.,"4,449",amc,1.82,--,--,--,-12.30%
-1,VCEL,Vericel Corpora...,833,bmo,-0.10,--,--,--,41.92%
-2,SNDX,Syndax Pharmace...,252,amc,-0.85,--,--,--,-2.21%
-3,ASNA,Ascena Retail G...,99,amc,-0.09,--,--,--,-5.99%
-4,OBLN,Obalon Therptcs...,19,--,-0.48,--,--,--,--
-5,NEWT,Newtek Business...,442,amc,0.55,--,--,--,2.63%
-6,ADUS,Addus Homecare...,"1,018",amc,0.44,--,--,--,3.05%
-7,TACT,Transact Techno...,88,amc,0.14,--,--,--,-13.87%
-8,ACMR,"Acm Research, I...",234,bmo,0.13,--,--,--,8.49%
-9,ARQL,"Arqule, Inc.","1,235",bmo,-0.09,--,--,--,0.00%
-10,FATE,Fate Therapeuti...,"1,377",amc,-0.24,--,--,--,-5.16%
-11,ZTO,Zto Express (ca...,"10,079",amc,0.28,--,--,--,6.02%
-12,PARR,Par Pacific Hol...,"1,064",amc,0.20,--,--,--,7.51%
-13,DSGX,The Descartes S...,"3,139",amc,0.10,--,--,--,-0.18%
-14,FRPT,"Freshpet, Inc.","1,644",amc,0.06,--,--,--,-10.09%
-15,ANAB,"Anaptysbio, Inc...","1,453",--,-0.41,--,--,--,--
-16,JT,Jianpu Technolo...,659,bmo,-0.02,--,--,--,-3.46%
-17,NX,Quanex Building...,615,amc,-0.11,--,--,--,6.02%
-18,NVGS,Navigator Holdi...,548,amc,0.00,--,--,--,6.19%
-19,WMC,Western Asset M...,530,amc,0.30,--,--,--,3.73%
-20,EGLE,Eagle Bulk Ship...,413,amc,-0.03,--,--,--,2.80%
-21,PKOH,Park-ohio Holdi...,413,amc,0.81,--,--,--,8.56%
-22,RYI,Ryerson Holding...,301,amc,0.06,--,--,--,-7.92%
-23,CRHM,Crh Medical Cor...,209,amc,0.03,--,--,--,12.07%
-24,ADMA,Adma Biologics...,207,--,-0.51,--,--,--,--
+2018-03-05,YY,Yy Inc.,"4,449",amc,1.82,--,--,--,-12.30%
+2018-03-05,VCEL,Vericel Corpora...,833,bmo,-0.1,--,--,--,41.92%
+2018-03-05,SNDX,Syndax Pharmace...,252,amc,-0.85,--,--,--,-2.21%
+2018-03-05,ASNA,Ascena Retail G...,99,amc,-0.09,--,--,--,-5.99%
+2018-03-05,OBLN,Obalon Therptcs...,19,--,-0.48,--,--,--,--
+2018-03-05,NEWT,Newtek Business...,442,amc,0.55,--,--,--,2.63%
+2018-03-05,ADUS,Addus Homecare...,"1,018",amc,0.44,--,--,--,3.05%
+2018-03-05,TACT,Transact Techno...,88,amc,0.14,--,--,--,-13.87%
+2018-03-05,ACMR,"Acm Research, I...",234,bmo,0.13,--,--,--,8.49%
+2018-03-05,ARQL,"Arqule, Inc.","1,235",bmo,-0.09,--,--,--,0.00%
+2018-03-05,FATE,Fate Therapeuti...,"1,377",amc,-0.24,--,--,--,-5.16%
+2018-03-05,ZTO,Zto Express (ca...,"10,079",amc,0.28,--,--,--,6.02%
+2018-03-05,PARR,Par Pacific Hol...,"1,064",amc,0.2,--,--,--,7.51%
+2018-03-05,DSGX,The Descartes S...,"3,139",amc,0.1,--,--,--,-0.18%
+2018-03-05,FRPT,"Freshpet, Inc.","1,644",amc,0.06,--,--,--,-10.09%
+2018-03-05,ANAB,"Anaptysbio, Inc...","1,453",--,-0.41,--,--,--,--
+2018-03-05,JT,Jianpu Technolo...,659,bmo,-0.02,--,--,--,-3.46%
+2018-03-05,NX,Quanex Building...,615,amc,-0.11,--,--,--,6.02%
+2018-03-05,NVGS,Navigator Holdi...,548,amc,0.0,--,--,--,6.19%
+2018-03-05,WMC,Western Asset M...,530,amc,0.3,--,--,--,3.73%
+2018-03-05,EGLE,Eagle Bulk Ship...,413,amc,-0.03,--,--,--,2.80%
+2018-03-05,PKOH,Park-ohio Holdi...,413,amc,0.81,--,--,--,8.56%
+2018-03-05,RYI,Ryerson Holding...,301,amc,0.06,--,--,--,-7.92%
+2018-03-05,CRHM,Crh Medical Cor...,209,amc,0.03,--,--,--,12.07%
+2018-03-05,ADMA,Adma Biologics...,207,--,-0.51,--,--,--,--

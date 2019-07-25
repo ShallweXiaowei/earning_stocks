@@ -1,11 +1,11 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,AEO,American Eagle...,"2,952",amc,0.47,0.48,+0.01 ,+2.13% ,2.94%
-1,PLAY,Dave & Buster's...,"1,476",amc,0.21,0.30,+0.09 ,+42.86% ,-7.88%
-2,PVTL,Pivotal Softwar...,"2,877",amc,-0.09,--,--,--,2.53%
-3,ARWR,Arrowhead Pharm...,"2,515",amc,-0.17,-0.12,+0.05 ,+29.41% ,11.53%
-4,ASHTY,Ashtead Group P...,"14,073",--,2.49,2.70,+0.21 ,+8.43% ,--
-5,AXNX,Axonics Modulat...,"1,153",amc,-0.48,--,--,--,6.14%
-6,PHX,Panhandle Royal...,207,amc,0.07,0.06,-0.01 ,-14.29% ,1.15%
-7,SMMT,Summit Therapeu...,18,--,-0.15,-0.65,-0.50 ,-333.33% ,--
-8,MMMB,Mamamancini's H...,17,--,0.01,0.01,0.00 ,0.00% ,--
-9,FRAN,Francesca's Hol...,15,bmo,-2.16,--,--,--,-16.67%
+2018-12-11,AEO,American Eagle...,"2,952",amc,0.47,0.48,+0.01 ,+2.13% ,2.94%
+2018-12-11,PLAY,Dave & Buster's...,"1,476",amc,0.21,0.30,+0.09 ,+42.86% ,-7.88%
+2018-12-11,PVTL,Pivotal Softwar...,"2,877",amc,-0.09,--,--,--,2.53%
+2018-12-11,ARWR,Arrowhead Pharm...,"2,515",amc,-0.17,-0.12,+0.05 ,+29.41% ,11.53%
+2018-12-11,ASHTY,Ashtead Group P...,"14,073",--,2.49,2.70,+0.21 ,+8.43% ,--
+2018-12-11,AXNX,Axonics Modulat...,"1,153",amc,-0.48,--,--,--,6.14%
+2018-12-11,PHX,Panhandle Royal...,207,amc,0.07,0.06,-0.01 ,-14.29% ,1.15%
+2018-12-11,SMMT,Summit Therapeu...,18,--,-0.15,-0.65,-0.50 ,-333.33% ,--
+2018-12-11,MMMB,Mamamancini's H...,17,--,0.01,0.01,0.00 ,0.00% ,--
+2018-12-11,FRAN,Francesca's Hol...,15,bmo,-2.16,--,--,--,-16.67%

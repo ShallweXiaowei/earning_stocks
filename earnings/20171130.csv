@@ -1,25 +1,25 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ULTA,Ulta Beauty Inc...,"20,165",amc,1.67,--,--,--,-4.12%
-1,FIVE,"Five Below, Inc...","7,133",amc,0.13,--,--,--,-0.47%
-2,KR,The Kroger Co.,"17,374",bmo,0.40,--,--,--,6.07%
-3,VMW,"Vmware, Inc.","69,230",amc,1.27,--,--,--,3.61%
-4,TITN,Titan Machinery...,430,bmo,0.08,--,--,--,13.70%
-5,NTNX,Nutanix Inc.,"4,907",amc,-0.26,--,--,--,9.94%
-6,TD,Toronto Dominio...,"108,684",bmo,1.11,--,--,--,-2.47%
-7,EXPR,"Express, Inc.",176,bmo,0.08,--,--,--,5.64%
-8,AMBA,"Ambarella, Inc....","1,457",amc,0.66,--,--,--,14.30%
-9,CM,Canadian Imperi...,"35,546",bmo,2.05,--,--,--,2.78%
-10,MIK,The Michaels Co...,"1,261",bmo,0.43,--,--,--,11.63%
-11,YEXT,Yext Inc.,"2,243",amc,-0.13,--,--,--,-5.73%
-12,ZUMZ,Zumiez Inc.,667,amc,0.48,--,--,--,-8.49%
-13,ALTR,Altair Engineer...,"2,956",amc,0.04,--,--,--,4.78%
-14,GLNG,Golar Lng Limit...,"1,836",--,-0.36,--,--,--,--
-15,BKS,"Barnes & Noble,...",484,bmo,-0.23,--,--,--,-11.54%
-16,PFLT,Pennantpark Flo...,452,amc,0.34,--,--,--,-1.07%
-17,DCI,Donaldson Compa...,"6,360",bmo,0.42,--,--,--,2.89%
-18,AVAL,Grupo Aval Acci...,"2,928",--,0.13,--,--,--,--
-19,AMSWA,American Softwa...,416,amc,0.07,--,--,--,-7.20%
-20,MRUS,Merus N.v.,331,--,-0.69,--,--,--,--
-21,TNP,Tsakos Energy N...,294,bmo,-0.09,--,--,--,-7.25%
-22,CULP,"Culp, Inc.",235,--,0.33,--,--,--,--
-23,UTI,Universal Techn...,94,amc,0.03,--,--,--,-22.01%
+2017-11-30,ULTA,Ulta Beauty Inc...,"20,165",amc,1.67,--,--,--,-4.12%
+2017-11-30,FIVE,"Five Below, Inc...","7,133",amc,0.13,--,--,--,-0.47%
+2017-11-30,KR,The Kroger Co.,"17,374",bmo,0.4,--,--,--,6.07%
+2017-11-30,VMW,"Vmware, Inc.","69,230",amc,1.27,--,--,--,3.61%
+2017-11-30,TITN,Titan Machinery...,430,bmo,0.08,--,--,--,13.70%
+2017-11-30,NTNX,Nutanix Inc.,"4,907",amc,-0.26,--,--,--,9.94%
+2017-11-30,TD,Toronto Dominio...,"108,684",bmo,1.11,--,--,--,-2.47%
+2017-11-30,EXPR,"Express, Inc.",176,bmo,0.08,--,--,--,5.64%
+2017-11-30,AMBA,"Ambarella, Inc....","1,457",amc,0.66,--,--,--,14.30%
+2017-11-30,CM,Canadian Imperi...,"35,546",bmo,2.05,--,--,--,2.78%
+2017-11-30,MIK,The Michaels Co...,"1,261",bmo,0.43,--,--,--,11.63%
+2017-11-30,YEXT,Yext Inc.,"2,243",amc,-0.13,--,--,--,-5.73%
+2017-11-30,ZUMZ,Zumiez Inc.,667,amc,0.48,--,--,--,-8.49%
+2017-11-30,ALTR,Altair Engineer...,"2,956",amc,0.04,--,--,--,4.78%
+2017-11-30,GLNG,Golar Lng Limit...,"1,836",--,-0.36,--,--,--,--
+2017-11-30,BKS,"Barnes & Noble,...",484,bmo,-0.23,--,--,--,-11.54%
+2017-11-30,PFLT,Pennantpark Flo...,452,amc,0.34,--,--,--,-1.07%
+2017-11-30,DCI,Donaldson Compa...,"6,360",bmo,0.42,--,--,--,2.89%
+2017-11-30,AVAL,Grupo Aval Acci...,"2,928",--,0.13,--,--,--,--
+2017-11-30,AMSWA,American Softwa...,416,amc,0.07,--,--,--,-7.20%
+2017-11-30,MRUS,Merus N.v.,331,--,-0.69,--,--,--,--
+2017-11-30,TNP,Tsakos Energy N...,294,bmo,-0.09,--,--,--,-7.25%
+2017-11-30,CULP,"Culp, Inc.",235,--,0.33,--,--,--,--
+2017-11-30,UTI,Universal Techn...,94,amc,0.03,--,--,--,-22.01%

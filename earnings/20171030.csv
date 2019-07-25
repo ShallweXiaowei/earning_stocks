@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,D,Dominion Energy...,"62,504",bmo,1.03,--,--,--,1.20%
-1,OHI,Omega Healthcar...,"7,819",amc,0.85,--,--,--,-6.81%
-2,RCII,"Rent-a-center,...","1,483",amc,-0.08,--,--,--,-1.29%
-3,ALSN,Allison Transmi...,"5,763",amc,0.48,--,--,--,0.45%
-4,ARLP,Alliance Resour...,"2,271",bmo,0.53,--,--,--,-1.72%
-5,BGSF,Bg Staffing Inc...,190,amc,0.35,--,--,--,-6.33%
-6,UIS,Unisys Corporat...,510,amc,-0.18,--,--,--,4.17%
-7,MEDP,Medpace Holding...,"2,314",amc,0.36,--,--,--,5.34%
-8,EXAS,Exact Sciences...,"15,245",amc,-0.30,--,--,--,9.76%
-9,FDC,First Data Corp...,"26,594",bmo,0.40,--,--,--,-6.17%
-10,CGNX,Cognex Corporat...,"7,623",amc,0.53,--,--,--,-0.41%
-11,MDLZ,Mondelez Intern...,"79,944",amc,0.54,--,--,--,5.42%
-12,NTDOY,Nintendo Co.,"44,572",--,0.06,--,--,--,--
-13,SNP,China Petroleum...,"81,420",--,0.97,--,--,--,--
-14,HSBC,Hsbc Holdings P...,"167,713",--,0.95,--,--,--,--
-15,MCY,Mercury General...,"3,587",bmo,0.42,--,--,--,4.87%
-16,HLIT,Harmonic Inc.,522,amc,-0.08,--,--,--,25.42%
-17,EIX,Edison Internat...,"21,888",amc,1.33,--,--,--,0.45%
-18,TREX,"Trex Company, I...","4,257",amc,0.27,--,--,--,25.65%
-19,CHGG,"Chegg, Inc.","4,807",amc,0.00,--,--,--,-4.85%
-20,SRE,Sempra Energy,"37,970",bmo,1.04,--,--,--,1.57%
-21,AEIS,Advanced Energy...,"2,114",amc,1.17,--,--,--,-9.53%
-22,OLN,Olin Corporatio...,"3,584",amc,0.35,--,--,--,2.24%
-23,CTB,Cooper Tire & R...,"1,585",bmo,0.85,--,--,--,-9.93%
-24,NBL,Noble Energy In...,"10,483",amc,-0.13,--,--,--,-1.41%
+2017-10-30,D,Dominion Energy...,"62,504",bmo,1.03,--,--,--,1.20%
+2017-10-30,OHI,Omega Healthcar...,"7,819",amc,0.85,--,--,--,-6.81%
+2017-10-30,RCII,"Rent-a-center,...","1,483",amc,-0.08,--,--,--,-1.29%
+2017-10-30,ALSN,Allison Transmi...,"5,763",amc,0.48,--,--,--,0.45%
+2017-10-30,ARLP,Alliance Resour...,"2,271",bmo,0.53,--,--,--,-1.72%
+2017-10-30,BGSF,Bg Staffing Inc...,190,amc,0.35,--,--,--,-6.33%
+2017-10-30,UIS,Unisys Corporat...,510,amc,-0.18,--,--,--,4.17%
+2017-10-30,MEDP,Medpace Holding...,"2,314",amc,0.36,--,--,--,5.34%
+2017-10-30,EXAS,Exact Sciences...,"15,245",amc,-0.3,--,--,--,9.76%
+2017-10-30,FDC,First Data Corp...,"26,594",bmo,0.4,--,--,--,-6.17%
+2017-10-30,CGNX,Cognex Corporat...,"7,623",amc,0.53,--,--,--,-0.41%
+2017-10-30,MDLZ,Mondelez Intern...,"79,944",amc,0.54,--,--,--,5.42%
+2017-10-30,NTDOY,Nintendo Co.,"44,572",--,0.06,--,--,--,--
+2017-10-30,SNP,China Petroleum...,"81,420",--,0.97,--,--,--,--
+2017-10-30,HSBC,Hsbc Holdings P...,"167,713",--,0.95,--,--,--,--
+2017-10-30,MCY,Mercury General...,"3,587",bmo,0.42,--,--,--,4.87%
+2017-10-30,HLIT,Harmonic Inc.,522,amc,-0.08,--,--,--,25.42%
+2017-10-30,EIX,Edison Internat...,"21,888",amc,1.33,--,--,--,0.45%
+2017-10-30,TREX,"Trex Company, I...","4,257",amc,0.27,--,--,--,25.65%
+2017-10-30,CHGG,"Chegg, Inc.","4,807",amc,0.0,--,--,--,-4.85%
+2017-10-30,SRE,Sempra Energy,"37,970",bmo,1.04,--,--,--,1.57%
+2017-10-30,AEIS,Advanced Energy...,"2,114",amc,1.17,--,--,--,-9.53%
+2017-10-30,OLN,Olin Corporatio...,"3,584",amc,0.35,--,--,--,2.24%
+2017-10-30,CTB,Cooper Tire & R...,"1,585",bmo,0.85,--,--,--,-9.93%
+2017-10-30,NBL,Noble Energy In...,"10,483",amc,-0.13,--,--,--,-1.41%

@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ADBE,Adobe Systems I...,"147,564",amc,1.43,--,--,--,3.05%
-1,AVGO,Broadcom Inc.,"112,519",amc,5.04,--,--,--,-4.81%
-2,ULTA,Ulta Beauty Inc...,"20,165",amc,2.77,--,--,--,7.64%
-3,DG,Dollar General...,"36,152",bmo,1.48,--,--,--,4.75%
-4,PBR,Petroleo Brasil...,"102,267",--,0.18,--,--,--,--
-5,SHEN,Shenandoah Tele...,"1,975",bmo,0.05,--,--,--,1.79%
-6,HUD,Hudson Ltd.,"1,306",bmo,0.08,--,--,--,-2.21%
-7,CARA,Cara Therapeuti...,867,amc,-0.42,--,--,--,-5.60%
-8,CATB,Catabasis Pharm...,86,amc,-3.10,--,--,--,1.03%
-9,AGEN,Agenus Inc.,361,bmo,-0.28,--,--,--,-3.32%
-10,OSTK,"Overstock.com,...",519,amc,-0.03,--,--,--,-5.19%
-11,HSGX,Histogenics Cor...,19,bmo,-0.31,--,--,--,-4.61%
-12,BTG,B2gold Corp,"3,006",bmo,0.02,--,--,--,3.15%
-13,JBL,"Jabil, Inc.","4,823",amc,0.62,--,--,--,10.11%
-14,BLPH,Bellerophon The...,43,--,-0.24,--,--,--,--
-15,SND,Smart Sand Inc,92,bmo,0.15,--,--,--,-15.50%
-16,BITA,Bitauto Holding...,769,bmo,0.13,--,--,--,-10.52%
-17,ADAP,Adaptimmune The...,387,bmo,-0.25,--,--,--,18.78%
-18,INFI,Infinity Pharma...,98,amc,-0.27,--,--,--,-5.47%
-19,ASUR,Asure Software...,148,--,0.20,--,--,--,--
-20,AUPH,Aurinia Pharmac...,591,amc,-0.14,--,--,--,6.53%
-21,ZUMZ,Zumiez Inc.,667,amc,0.90,--,--,--,10.50%
-22,ADT,Adt Inc.,"4,707",bmo,0.14,--,--,--,-12.54%
-23,BDSI,Biodelivery Sci...,414,amc,-0.22,--,--,--,-3.66%
-24,AVID,Avid Technology...,417,amc,0.25,--,--,--,-7.21%
+2018-03-15,ADBE,Adobe Systems I...,"147,564",amc,1.43,--,--,--,3.05%
+2018-03-15,AVGO,Broadcom Inc.,"112,519",amc,5.04,--,--,--,-4.81%
+2018-03-15,ULTA,Ulta Beauty Inc...,"20,165",amc,2.77,--,--,--,7.64%
+2018-03-15,DG,Dollar General...,"36,152",bmo,1.48,--,--,--,4.75%
+2018-03-15,PBR,Petroleo Brasil...,"102,267",--,0.18,--,--,--,--
+2018-03-15,SHEN,Shenandoah Tele...,"1,975",bmo,0.05,--,--,--,1.79%
+2018-03-15,HUD,Hudson Ltd.,"1,306",bmo,0.08,--,--,--,-2.21%
+2018-03-15,CARA,Cara Therapeuti...,867,amc,-0.42,--,--,--,-5.60%
+2018-03-15,CATB,Catabasis Pharm...,86,amc,-3.1,--,--,--,1.03%
+2018-03-15,AGEN,Agenus Inc.,361,bmo,-0.28,--,--,--,-3.32%
+2018-03-15,OSTK,"Overstock.com,...",519,amc,-0.03,--,--,--,-5.19%
+2018-03-15,HSGX,Histogenics Cor...,19,bmo,-0.31,--,--,--,-4.61%
+2018-03-15,BTG,B2gold Corp,"3,006",bmo,0.02,--,--,--,3.15%
+2018-03-15,JBL,"Jabil, Inc.","4,823",amc,0.62,--,--,--,10.11%
+2018-03-15,BLPH,Bellerophon The...,43,--,-0.24,--,--,--,--
+2018-03-15,SND,Smart Sand Inc,92,bmo,0.15,--,--,--,-15.50%
+2018-03-15,BITA,Bitauto Holding...,769,bmo,0.13,--,--,--,-10.52%
+2018-03-15,ADAP,Adaptimmune The...,387,bmo,-0.25,--,--,--,18.78%
+2018-03-15,INFI,Infinity Pharma...,98,amc,-0.27,--,--,--,-5.47%
+2018-03-15,ASUR,Asure Software...,148,--,0.2,--,--,--,--
+2018-03-15,AUPH,Aurinia Pharmac...,591,amc,-0.14,--,--,--,6.53%
+2018-03-15,ZUMZ,Zumiez Inc.,667,amc,0.9,--,--,--,10.50%
+2018-03-15,ADT,Adt Inc.,"4,707",bmo,0.14,--,--,--,-12.54%
+2018-03-15,BDSI,Biodelivery Sci...,414,amc,-0.22,--,--,--,-3.66%
+2018-03-15,AVID,Avid Technology...,417,amc,0.25,--,--,--,-7.21%

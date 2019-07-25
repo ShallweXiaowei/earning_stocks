@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ATVI,Activision Bliz...,"36,883",amc,0.30,--,--,--,-3.06%
-1,EPD,Enterprise Prod...,"64,300",bmo,0.33,--,--,--,-1.47%
-2,ENB,Enbridge Inc,"73,646",bmo,0.35,--,--,--,-0.10%
-3,CHK,Chesapeake Ener...,"3,022",bmo,0.14,--,--,--,-2.60%
-4,ETSY,"Etsy, Inc.","7,617",amc,0.00,--,--,--,11.48%
-5,KHC,The Kraft Heinz...,"37,806",amc,0.96,--,--,--,0.17%
-6,WRK,Westrock Compan...,"9,786",bmo,0.64,--,--,--,-1.84%
-7,ANET,Arista Networks...,"20,745",amc,0.95,--,--,--,19.44%
-8,DUK,Duke Energy Cor...,"65,291",bmo,1.02,--,--,--,0.90%
-9,TEVA,Teva Pharmaceut...,"9,630",bmo,1.11,--,--,--,-24.00%
-10,UBNT,Ubiquiti Networ...,"9,389",bmo,0.73,--,--,--,16.56%
-11,MEET,"Meetme, Inc.",263,amc,0.06,--,--,--,-14.40%
-12,PPL,Ppl Corporation...,"22,381",bmo,0.50,--,--,--,0.39%
-13,HIMX,Himax Technolog...,606,bmo,0.00,--,--,--,-2.13%
-14,VSH,Vishay Intertec...,"2,364",bmo,0.34,--,--,--,-1.69%
-15,AGN,Allergan Plc,"54,969",bmo,3.95,--,--,--,0.07%
-16,INGN,"Inogen, Inc","1,445",amc,0.28,--,--,--,-7.24%
-17,GRUB,Grubhub Inc.,"7,099",amc,0.26,--,--,--,9.06%
-18,NEWR,"New Relic, Inc....","5,316",amc,-0.13,--,--,--,-1.07%
-19,APA,Apache Corporat...,"10,218",bmo,0.00,--,--,--,-8.04%
-20,UNT,Unit Corporatio...,474,bmo,0.06,--,--,--,11.65%
-21,AAOI,Applied Optoele...,196,amc,1.35,--,--,--,-34.07%
-22,GTE,Gran Tierra Ene...,575,amc,0.04,--,--,--,1.79%
-23,GPRO,"Gopro, Inc.",853,amc,-0.26,--,--,--,19.25%
-24,BIP,Brookfield Infr...,"15,147",bmo,0.80,--,--,--,-1.64%
+2017-08-03,ATVI,Activision Bliz...,"36,883",amc,0.3,--,--,--,-3.06%
+2017-08-03,EPD,Enterprise Prod...,"64,300",bmo,0.33,--,--,--,-1.47%
+2017-08-03,ENB,Enbridge Inc,"73,646",bmo,0.35,--,--,--,-0.10%
+2017-08-03,CHK,Chesapeake Ener...,"3,022",bmo,0.14,--,--,--,-2.60%
+2017-08-03,ETSY,"Etsy, Inc.","7,617",amc,0.0,--,--,--,11.48%
+2017-08-03,KHC,The Kraft Heinz...,"37,806",amc,0.96,--,--,--,0.17%
+2017-08-03,WRK,Westrock Compan...,"9,786",bmo,0.64,--,--,--,-1.84%
+2017-08-03,ANET,Arista Networks...,"20,745",amc,0.95,--,--,--,19.44%
+2017-08-03,DUK,Duke Energy Cor...,"65,291",bmo,1.02,--,--,--,0.90%
+2017-08-03,TEVA,Teva Pharmaceut...,"9,630",bmo,1.11,--,--,--,-24.00%
+2017-08-03,UBNT,Ubiquiti Networ...,"9,389",bmo,0.73,--,--,--,16.56%
+2017-08-03,MEET,"Meetme, Inc.",263,amc,0.06,--,--,--,-14.40%
+2017-08-03,PPL,Ppl Corporation...,"22,381",bmo,0.5,--,--,--,0.39%
+2017-08-03,HIMX,Himax Technolog...,606,bmo,0.0,--,--,--,-2.13%
+2017-08-03,VSH,Vishay Intertec...,"2,364",bmo,0.34,--,--,--,-1.69%
+2017-08-03,AGN,Allergan Plc,"54,969",bmo,3.95,--,--,--,0.07%
+2017-08-03,INGN,"Inogen, Inc","1,445",amc,0.28,--,--,--,-7.24%
+2017-08-03,GRUB,Grubhub Inc.,"7,099",amc,0.26,--,--,--,9.06%
+2017-08-03,NEWR,"New Relic, Inc....","5,316",amc,-0.13,--,--,--,-1.07%
+2017-08-03,APA,Apache Corporat...,"10,218",bmo,0.0,--,--,--,-8.04%
+2017-08-03,UNT,Unit Corporatio...,474,bmo,0.06,--,--,--,11.65%
+2017-08-03,AAOI,Applied Optoele...,196,amc,1.35,--,--,--,-34.07%
+2017-08-03,GTE,Gran Tierra Ene...,575,amc,0.04,--,--,--,1.79%
+2017-08-03,GPRO,"Gopro, Inc.",853,amc,-0.26,--,--,--,19.25%
+2017-08-03,BIP,Brookfield Infr...,"15,147",bmo,0.8,--,--,--,-1.64%

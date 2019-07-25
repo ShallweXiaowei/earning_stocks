@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,JD,"Jd.com, Inc.","37,360",bmo,0.08,--,--,--,-3.59%
-1,CSIQ,Canadian Solar...,"1,327",bmo,-0.16,--,--,--,-3.26%
-2,PLYM,Plymouth Ind Re...,152,bmo,0.29,--,--,--,0.88%
-3,SYY,Sysco Corporati...,"36,878",bmo,0.71,--,--,--,-0.95%
-4,EXTR,Extreme Network...,772,amc,0.15,--,--,--,11.48%
-5,PLAB,"Photronics, Inc...",569,amc,0.09,--,--,--,-20.30%
-6,AZUL,Azul Sa,"12,243",bmo,0.01,--,--,--,1.14%
-7,WPRT,Westport Fuel S...,376,amc,-0.15,--,--,--,15.18%
-8,GALT,Galectin Therap...,181,bmo,-0.15,--,--,--,6.40%
-9,ASUR,Asure Software...,148,bmo,0.10,--,--,--,-4.65%
-10,WOW,"Wideopenwest, I...",665,bmo,0.09,--,--,--,-0.36%
-11,ANY,Sphere 3d Corp....,3,amc,-12.00,--,--,--,-9.28%
-12,SOI,Solaris Oilfiel...,656,amc,0.07,--,--,--,-1.30%
-13,FUJIY,Fujifilm Holdin...,"21,194",--,0.21,--,--,--,--
-14,CGIX,Cancer Genetics...,10,amc,-0.16,--,--,--,-20.51%
-15,FATE,Fate Therapeuti...,"1,377",amc,-0.24,--,--,--,2.91%
-16,EIGR,Eiger Biopharma...,195,--,-1.38,--,--,--,--
-17,FSM,Fortuna Silver...,457,amc,0.04,--,--,--,-3.12%
-18,SBS,Companhia De Sa...,"8,756",amc,0.25,--,--,--,-5.47%
-19,RETA,Reata Pharmaceu...,"2,700",--,-0.32,--,--,--,--
-20,BHVN,Biohaven Pharma...,"1,911",--,-0.57,--,--,--,--
-21,HOLI,Hollysys Automa...,"1,143",amc,0.37,--,--,--,5.37%
-22,EXPI,Exp World Holdi...,641,--,-0.05,--,--,--,--
-23,AVH,Avianca Holding...,333,--,-0.13,--,--,--,--
-24,TEUM,Pareteum Corp.,317,amc,-0.11,--,--,--,-9.32%
+2017-08-14,JD,"Jd.com, Inc.","37,360",bmo,0.08,--,--,--,-3.59%
+2017-08-14,CSIQ,Canadian Solar...,"1,327",bmo,-0.16,--,--,--,-3.26%
+2017-08-14,PLYM,Plymouth Ind Re...,152,bmo,0.29,--,--,--,0.88%
+2017-08-14,SYY,Sysco Corporati...,"36,878",bmo,0.71,--,--,--,-0.95%
+2017-08-14,EXTR,Extreme Network...,772,amc,0.15,--,--,--,11.48%
+2017-08-14,PLAB,"Photronics, Inc...",569,amc,0.09,--,--,--,-20.30%
+2017-08-14,AZUL,Azul Sa,"12,243",bmo,0.01,--,--,--,1.14%
+2017-08-14,WPRT,Westport Fuel S...,376,amc,-0.15,--,--,--,15.18%
+2017-08-14,GALT,Galectin Therap...,181,bmo,-0.15,--,--,--,6.40%
+2017-08-14,ASUR,Asure Software...,148,bmo,0.1,--,--,--,-4.65%
+2017-08-14,WOW,"Wideopenwest, I...",665,bmo,0.09,--,--,--,-0.36%
+2017-08-14,ANY,Sphere 3d Corp....,3,amc,-12.0,--,--,--,-9.28%
+2017-08-14,SOI,Solaris Oilfiel...,656,amc,0.07,--,--,--,-1.30%
+2017-08-14,FUJIY,Fujifilm Holdin...,"21,194",--,0.21,--,--,--,--
+2017-08-14,CGIX,Cancer Genetics...,10,amc,-0.16,--,--,--,-20.51%
+2017-08-14,FATE,Fate Therapeuti...,"1,377",amc,-0.24,--,--,--,2.91%
+2017-08-14,EIGR,Eiger Biopharma...,195,--,-1.38,--,--,--,--
+2017-08-14,FSM,Fortuna Silver...,457,amc,0.04,--,--,--,-3.12%
+2017-08-14,SBS,Companhia De Sa...,"8,756",amc,0.25,--,--,--,-5.47%
+2017-08-14,RETA,Reata Pharmaceu...,"2,700",--,-0.32,--,--,--,--
+2017-08-14,BHVN,Biohaven Pharma...,"1,911",--,-0.57,--,--,--,--
+2017-08-14,HOLI,Hollysys Automa...,"1,143",amc,0.37,--,--,--,5.37%
+2017-08-14,EXPI,Exp World Holdi...,641,--,-0.05,--,--,--,--
+2017-08-14,AVH,Avianca Holding...,333,--,-0.13,--,--,--,--
+2017-08-14,TEUM,Pareteum Corp.,317,amc,-0.11,--,--,--,-9.32%

@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,BAC,Bank Of America...,"278,210",bmo,0.43,--,--,--,-0.50%
-1,JNJ,Johnson & Johns...,"373,221",bmo,1.79,--,--,--,1.75%
-2,IBM,International B...,"125,354",amc,2.73,--,--,--,-4.20%
-3,UNH,Unitedhealth Gr...,"234,725",bmo,2.38,--,--,--,0.27%
-4,LMT,Lockheed Martin...,"104,517",bmo,3.10,--,--,--,-0.59%
-5,GS,The Goldman Sac...,"76,058",bmo,3.36,--,--,--,-2.60%
-6,ERIC,Ericsson,"31,340",bmo,0.05,--,--,--,-16.69%
-7,PGR,The Progressive...,"49,049",bmo,0.60,--,--,--,-0.24%
-8,CSX,Csx Corporation...,"63,438",amc,0.59,--,--,--,-5.07%
-9,UAL,United Airlines...,"23,837",amc,2.72,--,--,--,-5.91%
-10,NVS,Novartis Ag,"207,496",bmo,1.16,--,--,--,1.80%
-11,SCHW,The Charles Sch...,"54,548",--,0.39,--,--,--,--
-12,AMTD,Td Ameritrade H...,"28,346",bmo,0.41,--,--,--,4.33%
-13,CMA,Comerica Incorp...,"11,251",bmo,1.06,--,--,--,-1.97%
-14,PACW,Pacwest Bancorp...,"4,605",--,0.72,--,--,--,--
-15,PLD,"Prologis, Inc.","51,996",bmo,0.78,--,--,--,2.73%
-16,IBKR,Interactive Bro...,"22,713",amc,0.32,--,--,--,-1.04%
-17,SNV,Synovus Financi...,"5,522",bmo,0.59,--,--,--,-0.69%
-18,NAVI,Navient Corpora...,"3,374",amc,0.41,--,--,--,-6.77%
-19,FULT,Fulton Financia...,"2,797",amc,0.26,--,--,--,-2.90%
-20,AMX,"America Movil,...","49,390",amc,0.32,--,--,--,0.76%
-21,MDSO,Medidata Soluti...,"5,645",bmo,0.29,--,--,--,-1.00%
-22,PNFP,Pinnacle Financ...,"4,448",amc,0.80,--,--,--,3.22%
-23,WTFC,Wintrust Financ...,"4,146",amc,0.99,--,--,--,2.41%
-24,NEOG,Neogen Corporat...,"3,193",bmo,0.24,--,--,--,-5.54%
+2017-07-18,BAC,Bank Of America...,"278,210",bmo,0.43,--,--,--,-0.50%
+2017-07-18,JNJ,Johnson & Johns...,"373,221",bmo,1.79,--,--,--,1.75%
+2017-07-18,IBM,International B...,"125,354",amc,2.73,--,--,--,-4.20%
+2017-07-18,UNH,Unitedhealth Gr...,"234,725",bmo,2.38,--,--,--,0.27%
+2017-07-18,LMT,Lockheed Martin...,"104,517",bmo,3.1,--,--,--,-0.59%
+2017-07-18,GS,The Goldman Sac...,"76,058",bmo,3.36,--,--,--,-2.60%
+2017-07-18,ERIC,Ericsson,"31,340",bmo,0.05,--,--,--,-16.69%
+2017-07-18,PGR,The Progressive...,"49,049",bmo,0.6,--,--,--,-0.24%
+2017-07-18,CSX,Csx Corporation...,"63,438",amc,0.59,--,--,--,-5.07%
+2017-07-18,UAL,United Airlines...,"23,837",amc,2.72,--,--,--,-5.91%
+2017-07-18,NVS,Novartis Ag,"207,496",bmo,1.16,--,--,--,1.80%
+2017-07-18,SCHW,The Charles Sch...,"54,548",--,0.39,--,--,--,--
+2017-07-18,AMTD,Td Ameritrade H...,"28,346",bmo,0.41,--,--,--,4.33%
+2017-07-18,CMA,Comerica Incorp...,"11,251",bmo,1.06,--,--,--,-1.97%
+2017-07-18,PACW,Pacwest Bancorp...,"4,605",--,0.72,--,--,--,--
+2017-07-18,PLD,"Prologis, Inc.","51,996",bmo,0.78,--,--,--,2.73%
+2017-07-18,IBKR,Interactive Bro...,"22,713",amc,0.32,--,--,--,-1.04%
+2017-07-18,SNV,Synovus Financi...,"5,522",bmo,0.59,--,--,--,-0.69%
+2017-07-18,NAVI,Navient Corpora...,"3,374",amc,0.41,--,--,--,-6.77%
+2017-07-18,FULT,Fulton Financia...,"2,797",amc,0.26,--,--,--,-2.90%
+2017-07-18,AMX,"America Movil,...","49,390",amc,0.32,--,--,--,0.76%
+2017-07-18,MDSO,Medidata Soluti...,"5,645",bmo,0.29,--,--,--,-1.00%
+2017-07-18,PNFP,Pinnacle Financ...,"4,448",amc,0.8,--,--,--,3.22%
+2017-07-18,WTFC,Wintrust Financ...,"4,146",amc,0.99,--,--,--,2.41%
+2017-07-18,NEOG,Neogen Corporat...,"3,193",bmo,0.24,--,--,--,-5.54%

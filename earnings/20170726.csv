@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,FB,"Facebook, Inc.","560,621",amc,1.14,--,--,--,2.92%
-1,BA,The Boeing Comp...,"200,218",bmo,2.32,--,--,--,9.88%
-2,F,Ford Motor Comp...,"40,693",bmo,0.44,--,--,--,-1.86%
-3,PYPL,Paypal Holdings...,"137,655",amc,0.42,--,--,--,2.31%
-4,GILD,Gilead Sciences...,"87,369",amc,2.18,--,--,--,1.04%
-5,KO,Coca-cola Compa...,"222,307",bmo,0.57,--,--,--,1.11%
-6,LRCX,Lam Research Co...,"27,533",amc,3.02,--,--,--,-2.13%
-7,AMED,"Amedisys, Inc.","3,910",amc,0.50,--,--,--,-3.51%
-8,OHI,Omega Healthcar...,"7,819",amc,0.86,--,--,--,-4.04%
-9,NOC,Northrop Grumma...,"55,219",bmo,2.84,--,--,--,-0.07%
-10,FTNT,"Fortinet, Inc.","13,471",amc,0.20,--,--,--,-5.32%
-11,XLNX,"Xilinx, Inc.","29,145",amc,0.60,--,--,--,-2.27%
-12,NEE,"Nextera Energy,...","99,671",bmo,1.76,--,--,--,1.66%
-13,O,Realty Income C...,"22,150",amc,0.76,--,--,--,0.05%
-14,GSK,Glaxosmithkline...,"101,332",--,0.68,--,--,--,--
-15,WM,Waste Managemen...,"49,476",bmo,0.82,--,--,--,-1.30%
-16,NOW,"Servicenow, Inc...","54,640",amc,0.20,--,--,--,0.75%
-17,AGNC,Agnc Investment...,"9,119",amc,0.59,--,--,--,0.09%
-18,ANTM,"Anthem, Inc.","73,059",bmo,3.25,--,--,--,-2.93%
-19,RCII,"Rent-a-center,...","1,483",amc,0.07,--,--,--,2.35%
-20,STM,Stmicroelectron...,"15,861",bmo,0.18,--,--,--,2.16%
-21,AUO,Au Optronics Co...,"2,858",bmo,0.36,--,--,--,-3.01%
-22,TMO,Thermo Fisher S...,"120,254",bmo,2.27,--,--,--,-2.81%
-23,MEOH,Methanex Corpor...,"3,483",amc,1.19,--,--,--,-2.49%
-24,GD,General Dynamic...,"52,656",bmo,2.45,--,--,--,-4.37%
+2017-07-26,FB,"Facebook, Inc.","560,621",amc,1.14,--,--,--,2.92%
+2017-07-26,BA,The Boeing Comp...,"200,218",bmo,2.32,--,--,--,9.88%
+2017-07-26,F,Ford Motor Comp...,"40,693",bmo,0.44,--,--,--,-1.86%
+2017-07-26,PYPL,Paypal Holdings...,"137,655",amc,0.42,--,--,--,2.31%
+2017-07-26,GILD,Gilead Sciences...,"87,369",amc,2.18,--,--,--,1.04%
+2017-07-26,KO,Coca-cola Compa...,"222,307",bmo,0.57,--,--,--,1.11%
+2017-07-26,LRCX,Lam Research Co...,"27,533",amc,3.02,--,--,--,-2.13%
+2017-07-26,AMED,"Amedisys, Inc.","3,910",amc,0.5,--,--,--,-3.51%
+2017-07-26,OHI,Omega Healthcar...,"7,819",amc,0.86,--,--,--,-4.04%
+2017-07-26,NOC,Northrop Grumma...,"55,219",bmo,2.84,--,--,--,-0.07%
+2017-07-26,FTNT,"Fortinet, Inc.","13,471",amc,0.2,--,--,--,-5.32%
+2017-07-26,XLNX,"Xilinx, Inc.","29,145",amc,0.6,--,--,--,-2.27%
+2017-07-26,NEE,"Nextera Energy,...","99,671",bmo,1.76,--,--,--,1.66%
+2017-07-26,O,Realty Income C...,"22,150",amc,0.76,--,--,--,0.05%
+2017-07-26,GSK,Glaxosmithkline...,"101,332",--,0.68,--,--,--,--
+2017-07-26,WM,Waste Managemen...,"49,476",bmo,0.82,--,--,--,-1.30%
+2017-07-26,NOW,"Servicenow, Inc...","54,640",amc,0.2,--,--,--,0.75%
+2017-07-26,AGNC,Agnc Investment...,"9,119",amc,0.59,--,--,--,0.09%
+2017-07-26,ANTM,"Anthem, Inc.","73,059",bmo,3.25,--,--,--,-2.93%
+2017-07-26,RCII,"Rent-a-center,...","1,483",amc,0.07,--,--,--,2.35%
+2017-07-26,STM,Stmicroelectron...,"15,861",bmo,0.18,--,--,--,2.16%
+2017-07-26,AUO,Au Optronics Co...,"2,858",bmo,0.36,--,--,--,-3.01%
+2017-07-26,TMO,Thermo Fisher S...,"120,254",bmo,2.27,--,--,--,-2.81%
+2017-07-26,MEOH,Methanex Corpor...,"3,483",amc,1.19,--,--,--,-2.49%
+2017-07-26,GD,General Dynamic...,"52,656",bmo,2.45,--,--,--,-4.37%

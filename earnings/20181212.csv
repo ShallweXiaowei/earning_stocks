@@ -1,8 +1,8 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,TLRD,Tailored Brands...,288,amc,0.94,1.01,+0.07 ,+7.45% ,-29.84%
-1,PLAB,"Photronics, Inc...",569,bmo,0.17,0.18,+0.01 ,+5.88% ,-1.04%
-2,NDSN,Nordson Corpora...,"7,966",amc,1.47,1.44,-0.03 ,-2.04% ,6.33%
-3,OXM,Oxford Industri...,"1,241",amc,0.17,0.14,-0.03 ,-17.65% ,-10.12%
-4,VRA,"Vera Bradley, I...",391,bmo,0.16,0.12,-0.04 ,-25.00% ,-10.31%
-5,AVXL,Anavex Life Sci...,179,amc,-0.08,-0.13,-0.05 ,-62.50% ,-3.77%
-6,SKIS,"Peak Resorts, I...",74,bmo,-0.84,-0.81,+0.03 ,+3.57% ,4.90%
+2018-12-12,TLRD,Tailored Brands...,288,amc,0.94,1.01,0.07,+7.45% ,-29.84%
+2018-12-12,PLAB,"Photronics, Inc...",569,bmo,0.17,0.18,0.01,+5.88% ,-1.04%
+2018-12-12,NDSN,Nordson Corpora...,"7,966",amc,1.47,1.44,-0.03,-2.04% ,6.33%
+2018-12-12,OXM,Oxford Industri...,"1,241",amc,0.17,0.14,-0.03,-17.65% ,-10.12%
+2018-12-12,VRA,"Vera Bradley, I...",391,bmo,0.16,0.12,-0.04,-25.00% ,-10.31%
+2018-12-12,AVXL,Anavex Life Sci...,179,amc,-0.08,-0.13,-0.05,-62.50% ,-3.77%
+2018-12-12,SKIS,"Peak Resorts, I...",74,bmo,-0.84,-0.81,0.03,+3.57% ,4.90%

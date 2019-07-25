@@ -1,13 +1,13 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,NFLX,"Netflix, Inc.","166,384",amc,0.32,--,--,--,-1.58%
-1,SCHW,The Charles Sch...,"54,548",--,0.41,--,--,--,--
-2,CE,Celanese Corpor...,"13,374",amc,1.92,--,--,--,-2.64%
-3,BMI,"Badger Meter, I...","1,728",amc,0.35,--,--,--,-12.20%
-4,IEX,Idex Corporatio...,"13,001",amc,1.06,--,--,--,-0.69%
-5,ELS,Equity Lifestyl...,"11,240",amc,0.90,--,--,--,0.76%
-6,BRO,"Brown & Brown,...","9,804",amc,0.25,--,--,--,0.08%
-7,SFBS,Servisfirst Ban...,"1,840",amc,0.47,--,--,--,2.17%
-8,FDEF,First Defiance...,561,amc,0.44,--,--,--,1.73%
-9,CSTR,Capstar Financi...,270,bmo,0.22,--,--,--,6.75%
-10,BMRA,"Biomerica, Inc....",26,--,-0.03,--,--,--,--
-11,MNI,Mcclatchy Compa...,20,bmo,-0.55,--,--,--,-2.33%
+2017-10-16,NFLX,"Netflix, Inc.","166,384",amc,0.32,--,--,--,-1.58%
+2017-10-16,SCHW,The Charles Sch...,"54,548",--,0.41,--,--,--,--
+2017-10-16,CE,Celanese Corpor...,"13,374",amc,1.92,--,--,--,-2.64%
+2017-10-16,BMI,"Badger Meter, I...","1,728",amc,0.35,--,--,--,-12.20%
+2017-10-16,IEX,Idex Corporatio...,"13,001",amc,1.06,--,--,--,-0.69%
+2017-10-16,ELS,Equity Lifestyl...,"11,240",amc,0.9,--,--,--,0.76%
+2017-10-16,BRO,"Brown & Brown,...","9,804",amc,0.25,--,--,--,0.08%
+2017-10-16,SFBS,Servisfirst Ban...,"1,840",amc,0.47,--,--,--,2.17%
+2017-10-16,FDEF,First Defiance...,561,amc,0.44,--,--,--,1.73%
+2017-10-16,CSTR,Capstar Financi...,270,bmo,0.22,--,--,--,6.75%
+2017-10-16,BMRA,"Biomerica, Inc....",26,--,-0.03,--,--,--,--
+2017-10-16,MNI,Mcclatchy Compa...,20,bmo,-0.55,--,--,--,-2.33%

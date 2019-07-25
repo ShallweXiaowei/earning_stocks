@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,GE,General Electri...,"91,568",bmo,0.25,--,--,--,-2.92%
-1,SLB,Schlumberger Li...,"54,809",bmo,0.30,--,--,--,-0.73%
-2,HON,Honeywell Inter...,"128,512",bmo,1.77,--,--,--,1.04%
-3,SYF,Synchrony Finan...,"24,547",bmo,0.58,--,--,--,4.54%
-4,ECA,Encana Corporat...,"7,114",bmo,0.04,--,--,--,1.65%
-5,CL,Colgate-palmoli...,"62,792",bmo,0.72,--,--,--,1.64%
-6,RF,Regions Financi...,"15,411",bmo,0.24,--,--,--,-0.56%
-7,CFG,Citizens Financ...,"16,450",bmo,0.59,--,--,--,-2.18%
-8,HBAN,Huntington Banc...,"14,566",bmo,0.23,--,--,--,-4.35%
-9,STI,"Suntrust Banks,...","28,387",bmo,0.98,--,--,--,0.63%
-10,FITB,Fifth Third Ban...,"20,820",bmo,0.42,--,--,--,2.71%
-11,KSU,Kansas City Sou...,"12,366",bmo,1.26,--,--,--,1.13%
-12,GNTX,Gentex Corporat...,"6,231",bmo,0.32,--,--,--,-7.40%
-13,MCO,Moody's Corpora...,"38,191",bmo,1.33,--,--,--,4.25%
-14,NVR,"Nvr, Inc.","12,026",bmo,28.63,--,--,--,8.22%
-15,ALV,"Autoliv, Inc.","5,909",bmo,1.48,--,--,--,-7.86%
-16,WBS,Webster Financi...,"4,369",bmo,0.60,--,--,--,-4.59%
-17,SSB,South State Cor...,"2,660",bmo,1.18,--,--,--,-1.19%
-18,ABCB,Ameris Bancorp,"1,873",bmo,0.65,--,--,--,-0.42%
-19,MINI,"Mobile Mini, In...","1,364",bmo,0.26,--,--,--,1.65%
-20,OFG,Ofg Bancorp,"1,235",bmo,0.26,--,--,--,2.03%
-21,VLRS,Controladora Vu...,"1,001",bmo,-0.08,--,--,--,-4.10%
-22,BLX,Banco Latinoame...,825,bmo,0.65,--,--,--,-5.70%
-23,FBMS,The First Bancs...,531,--,0.36,--,--,--,--
-24,DFRG,Del Frisco's Re...,270,bmo,0.17,--,--,--,-4.52%
+2017-07-21,GE,General Electri...,"91,568",bmo,0.25,--,--,--,-2.92%
+2017-07-21,SLB,Schlumberger Li...,"54,809",bmo,0.3,--,--,--,-0.73%
+2017-07-21,HON,Honeywell Inter...,"128,512",bmo,1.77,--,--,--,1.04%
+2017-07-21,SYF,Synchrony Finan...,"24,547",bmo,0.58,--,--,--,4.54%
+2017-07-21,ECA,Encana Corporat...,"7,114",bmo,0.04,--,--,--,1.65%
+2017-07-21,CL,Colgate-palmoli...,"62,792",bmo,0.72,--,--,--,1.64%
+2017-07-21,RF,Regions Financi...,"15,411",bmo,0.24,--,--,--,-0.56%
+2017-07-21,CFG,Citizens Financ...,"16,450",bmo,0.59,--,--,--,-2.18%
+2017-07-21,HBAN,Huntington Banc...,"14,566",bmo,0.23,--,--,--,-4.35%
+2017-07-21,STI,"Suntrust Banks,...","28,387",bmo,0.98,--,--,--,0.63%
+2017-07-21,FITB,Fifth Third Ban...,"20,820",bmo,0.42,--,--,--,2.71%
+2017-07-21,KSU,Kansas City Sou...,"12,366",bmo,1.26,--,--,--,1.13%
+2017-07-21,GNTX,Gentex Corporat...,"6,231",bmo,0.32,--,--,--,-7.40%
+2017-07-21,MCO,Moody's Corpora...,"38,191",bmo,1.33,--,--,--,4.25%
+2017-07-21,NVR,"Nvr, Inc.","12,026",bmo,28.63,--,--,--,8.22%
+2017-07-21,ALV,"Autoliv, Inc.","5,909",bmo,1.48,--,--,--,-7.86%
+2017-07-21,WBS,Webster Financi...,"4,369",bmo,0.6,--,--,--,-4.59%
+2017-07-21,SSB,South State Cor...,"2,660",bmo,1.18,--,--,--,-1.19%
+2017-07-21,ABCB,Ameris Bancorp,"1,873",bmo,0.65,--,--,--,-0.42%
+2017-07-21,MINI,"Mobile Mini, In...","1,364",bmo,0.26,--,--,--,1.65%
+2017-07-21,OFG,Ofg Bancorp,"1,235",bmo,0.26,--,--,--,2.03%
+2017-07-21,VLRS,Controladora Vu...,"1,001",bmo,-0.08,--,--,--,-4.10%
+2017-07-21,BLX,Banco Latinoame...,825,bmo,0.65,--,--,--,-5.70%
+2017-07-21,FBMS,The First Bancs...,531,--,0.36,--,--,--,--
+2017-07-21,DFRG,Del Frisco's Re...,270,bmo,0.17,--,--,--,-4.52%

@@ -1,22 +1,22 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,LULU,Lululemon Athle...,"23,868",amc,0.35,--,--,--,7.19%
-1,PANW,Palo Alto Netwo...,"20,099",amc,0.79,--,--,--,10.54%
-2,DG,Dollar General...,"36,152",bmo,1.09,--,--,--,-5.43%
-3,CIEN,Ciena Corporati...,"6,667",bmo,0.49,--,--,--,-10.96%
-4,TITN,Titan Machinery...,430,bmo,-0.01,--,--,--,-16.99%
-5,TECD,Tech Data Corpo...,"3,802",amc,2.06,--,--,--,-20.70%
-6,NTNX,Nutanix Inc.,"4,907",amc,-0.38,--,--,--,0.00%
-7,TD,Toronto Dominio...,"108,684",bmo,1.08,--,--,--,4.36%
-8,CPB,Campbell Soup C...,"12,519",bmo,0.55,--,--,--,-8.06%
-9,AMBA,"Ambarella, Inc....","1,457",amc,0.45,--,--,--,-22.35%
-10,MEI,Methode Electro...,"1,052",bmo,0.54,--,--,--,3.41%
-11,COO,The Cooper Comp...,"16,466",amc,2.58,--,--,--,-5.84%
-12,GCO,Genesco Inc.,704,bmo,-0.06,--,--,--,-17.06%
-13,VIVHY,Vivendi Sa,"36,199",--,0.24,--,--,--,--
-14,OXM,Oxford Industri...,"1,241",amc,1.43,--,--,--,8.51%
-15,LE,"Lands' End, Inc...",377,bmo,-0.12,--,--,--,-12.27%
-16,LEJU,Leju Holdings L...,176,bmo,-0.12,--,--,--,2.96%
-17,BVXV,Biondvax Pharma...,38,--,0.00,--,--,--,--
-18,AYTU,Aytu Bioscience...,31,--,-240.00,--,--,--,--
-19,SMMT,Summit Therapeu...,18,bmo,1.39,--,--,--,0.00%
-20,AAAP,Advanced Accele...,NA,--,-0.13,--,--,--,--
+2017-08-31,LULU,Lululemon Athle...,"23,868",amc,0.35,--,--,--,7.19%
+2017-08-31,PANW,Palo Alto Netwo...,"20,099",amc,0.79,--,--,--,10.54%
+2017-08-31,DG,Dollar General...,"36,152",bmo,1.09,--,--,--,-5.43%
+2017-08-31,CIEN,Ciena Corporati...,"6,667",bmo,0.49,--,--,--,-10.96%
+2017-08-31,TITN,Titan Machinery...,430,bmo,-0.01,--,--,--,-16.99%
+2017-08-31,TECD,Tech Data Corpo...,"3,802",amc,2.06,--,--,--,-20.70%
+2017-08-31,NTNX,Nutanix Inc.,"4,907",amc,-0.38,--,--,--,0.00%
+2017-08-31,TD,Toronto Dominio...,"108,684",bmo,1.08,--,--,--,4.36%
+2017-08-31,CPB,Campbell Soup C...,"12,519",bmo,0.55,--,--,--,-8.06%
+2017-08-31,AMBA,"Ambarella, Inc....","1,457",amc,0.45,--,--,--,-22.35%
+2017-08-31,MEI,Methode Electro...,"1,052",bmo,0.54,--,--,--,3.41%
+2017-08-31,COO,The Cooper Comp...,"16,466",amc,2.58,--,--,--,-5.84%
+2017-08-31,GCO,Genesco Inc.,704,bmo,-0.06,--,--,--,-17.06%
+2017-08-31,VIVHY,Vivendi Sa,"36,199",--,0.24,--,--,--,--
+2017-08-31,OXM,Oxford Industri...,"1,241",amc,1.43,--,--,--,8.51%
+2017-08-31,LE,"Lands' End, Inc...",377,bmo,-0.12,--,--,--,-12.27%
+2017-08-31,LEJU,Leju Holdings L...,176,bmo,-0.12,--,--,--,2.96%
+2017-08-31,BVXV,Biondvax Pharma...,38,--,0.0,--,--,--,--
+2017-08-31,AYTU,Aytu Bioscience...,31,--,-240.0,--,--,--,--
+2017-08-31,SMMT,Summit Therapeu...,18,bmo,1.39,--,--,--,0.00%
+2017-08-31,AAAP,Advanced Accele...,,--,-0.13,--,--,--,--

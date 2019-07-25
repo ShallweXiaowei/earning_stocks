@@ -1,10 +1,10 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,RIG,Transocean Ltd....,"3,547",amc,-0.24,-0.34,-0.10 ,-41.67% ,-2.24%
-1,OTTR,Otter Tail Corp...,"2,064",amc,0.35,0.35,0.00 ,0.00% ,0.52%
-2,WTR,"Aqua America, I...","8,845",amc,0.32,0.31,-0.01 ,-3.13% ,-0.28%
-3,CLR,Continental Res...,"13,661",amc,0.59,0.54,-0.05 ,-8.47% ,-5.37%
-4,HLX,Helix Energy So...,"1,202",amc,-0.08,-0.09,-0.01 ,-12.50% ,-7.20%
-5,SCI,Service Corpora...,"8,527",amc,0.56,0.54,-0.02 ,-3.57% ,-6.48%
-6,APY,Apergy Corporat...,"2,344",amc,0.35,--,--,--,6.63%
-7,DOOR,Masonite Intern...,"1,316",amc,0.62,0.68,+0.06 ,+9.68% ,-0.28%
-8,SPN,Superior Energy...,128,amc,-0.29,-0.20,+0.09 ,+31.03% ,23.70%
+2019-02-18,RIG,Transocean Ltd....,"3,547",amc,-0.24,-0.34,-0.10 ,-41.67% ,-2.24%
+2019-02-18,OTTR,Otter Tail Corp...,"2,064",amc,0.35,0.35,0.00 ,0.00% ,0.52%
+2019-02-18,WTR,"Aqua America, I...","8,845",amc,0.32,0.31,-0.01 ,-3.13% ,-0.28%
+2019-02-18,CLR,Continental Res...,"13,661",amc,0.59,0.54,-0.05 ,-8.47% ,-5.37%
+2019-02-18,HLX,Helix Energy So...,"1,202",amc,-0.08,-0.09,-0.01 ,-12.50% ,-7.20%
+2019-02-18,SCI,Service Corpora...,"8,527",amc,0.56,0.54,-0.02 ,-3.57% ,-6.48%
+2019-02-18,APY,Apergy Corporat...,"2,344",amc,0.35,--,--,--,6.63%
+2019-02-18,DOOR,Masonite Intern...,"1,316",amc,0.62,0.68,+0.06 ,+9.68% ,-0.28%
+2019-02-18,SPN,Superior Energy...,128,amc,-0.29,-0.20,+0.09 ,+31.03% ,23.70%

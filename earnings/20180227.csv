@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,SQ,"Square, Inc.","31,431",amc,0.07,--,--,--,0.30%
-1,M,"Macy's, Inc.","6,703",bmo,2.69,--,--,--,3.46%
-2,VEEV,Veeva Systems I...,"25,042",amc,0.21,--,--,--,12.29%
-3,ETSY,"Etsy, Inc.","7,617",amc,0.08,--,--,--,20.35%
-4,AMRN,Amarin Corporat...,"7,659",bmo,-0.05,--,--,--,-3.78%
-5,AMED,"Amedisys, Inc.","3,910",amc,0.59,--,--,--,-0.37%
-6,FTR,Frontier Commun...,186,amc,-1.12,--,--,--,-23.92%
-7,ARC,Arc Document So...,95,amc,0.00,--,--,--,-3.62%
-8,WDAY,"Workday, Inc.","48,818",amc,0.21,--,--,--,-1.20%
-9,LADR,Ladder Capital...,"2,024",amc,0.43,--,--,--,0.14%
-10,ALB,Albemarle Corpo...,"7,471",amc,1.21,--,--,--,-9.98%
-11,AAXN,Axon Enterprise...,"3,788",amc,-0.03,--,--,--,27.82%
-12,DXCM,"Dexcom, Inc.","13,384",amc,0.03,--,--,--,0.75%
-13,INGN,"Inogen, Inc","1,445",amc,0.21,--,--,--,-7.26%
-14,BMO,Bank Of Montrea...,"49,305",bmo,1.66,--,--,--,-2.15%
-15,TDOC,"Teladoc, Inc.","4,889",amc,-0.40,--,--,--,7.51%
-16,AZO,"Autozone, Inc.","27,725",bmo,8.81,--,--,--,-11.07%
-17,GNL,Global Net Leas...,"1,687",bmo,0.51,--,--,--,-4.51%
-18,HTZ,Hertz Global Ho...,"1,372",amc,-0.55,--,--,--,-5.56%
-19,AMT,American Tower...,"92,400",bmo,1.68,--,--,--,-1.43%
-20,EOG,"Eog Resources,...","51,399",amc,0.52,--,--,--,-5.16%
-21,GTE,Gran Tierra Ene...,575,amc,0.07,--,--,--,-4.94%
-22,BKNG,Booking Holding...,"83,325",amc,14.12,--,--,--,6.77%
-23,ALRM,Alarm.com Holdi...,"2,528",amc,0.24,--,--,--,-5.33%
-24,VALE,Vale S.a.,"68,456",--,0.23,--,--,--,--
+2018-02-27,SQ,"Square, Inc.","31,431",amc,0.07,--,--,--,0.30%
+2018-02-27,M,"Macy's, Inc.","6,703",bmo,2.69,--,--,--,3.46%
+2018-02-27,VEEV,Veeva Systems I...,"25,042",amc,0.21,--,--,--,12.29%
+2018-02-27,ETSY,"Etsy, Inc.","7,617",amc,0.08,--,--,--,20.35%
+2018-02-27,AMRN,Amarin Corporat...,"7,659",bmo,-0.05,--,--,--,-3.78%
+2018-02-27,AMED,"Amedisys, Inc.","3,910",amc,0.59,--,--,--,-0.37%
+2018-02-27,FTR,Frontier Commun...,186,amc,-1.12,--,--,--,-23.92%
+2018-02-27,ARC,Arc Document So...,95,amc,0.0,--,--,--,-3.62%
+2018-02-27,WDAY,"Workday, Inc.","48,818",amc,0.21,--,--,--,-1.20%
+2018-02-27,LADR,Ladder Capital...,"2,024",amc,0.43,--,--,--,0.14%
+2018-02-27,ALB,Albemarle Corpo...,"7,471",amc,1.21,--,--,--,-9.98%
+2018-02-27,AAXN,Axon Enterprise...,"3,788",amc,-0.03,--,--,--,27.82%
+2018-02-27,DXCM,"Dexcom, Inc.","13,384",amc,0.03,--,--,--,0.75%
+2018-02-27,INGN,"Inogen, Inc","1,445",amc,0.21,--,--,--,-7.26%
+2018-02-27,BMO,Bank Of Montrea...,"49,305",bmo,1.66,--,--,--,-2.15%
+2018-02-27,TDOC,"Teladoc, Inc.","4,889",amc,-0.4,--,--,--,7.51%
+2018-02-27,AZO,"Autozone, Inc.","27,725",bmo,8.81,--,--,--,-11.07%
+2018-02-27,GNL,Global Net Leas...,"1,687",bmo,0.51,--,--,--,-4.51%
+2018-02-27,HTZ,Hertz Global Ho...,"1,372",amc,-0.55,--,--,--,-5.56%
+2018-02-27,AMT,American Tower...,"92,400",bmo,1.68,--,--,--,-1.43%
+2018-02-27,EOG,"Eog Resources,...","51,399",amc,0.52,--,--,--,-5.16%
+2018-02-27,GTE,Gran Tierra Ene...,575,amc,0.07,--,--,--,-4.94%
+2018-02-27,BKNG,Booking Holding...,"83,325",amc,14.12,--,--,--,6.77%
+2018-02-27,ALRM,Alarm.com Holdi...,"2,528",amc,0.24,--,--,--,-5.33%
+2018-02-27,VALE,Vale S.a.,"68,456",--,0.23,--,--,--,--

@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,INTT,Intest Corporat...,50,amc,0.14,--,--,--,7.45%
-1,VRS,Verso Corporati...,663,bmo,0.77,--,--,--,-2.79%
-2,MRVL,Marvell Technol...,"16,071",amc,0.31,--,--,--,0.08%
-3,CRSP,Crispr Therapeu...,"2,518",--,-0.71,--,--,--,--
-4,KR,The Kroger Co.,"17,374",bmo,0.63,--,--,--,-12.39%
-5,BURL,Burlington Stor...,"11,648",bmo,2.09,--,--,--,5.84%
-6,GHDX,"Genomic Health,...","2,165",bmo,0.09,--,--,--,-5.23%
-7,UPLD,Upland Software...,995,amc,0.26,--,--,--,10.89%
-8,AEO,American Eagle...,"2,952",bmo,0.44,--,--,--,-9.43%
-9,TECD,Tech Data Corpo...,"3,802",bmo,3.53,--,--,--,-19.72%
-10,CRIS,"Curis, Inc.",59,bmo,-0.45,--,--,--,31.19%
-11,ACRX,Acelrx Pharmace...,193,amc,-0.20,--,--,--,10.53%
-12,PLYM,Plymouth Ind Re...,152,amc,0.08,--,--,--,0.41%
-13,FNKO,"Funko, Inc.","1,061",amc,0.15,--,--,--,6.17%
-14,AREX,Approach Resour...,31,amc,-0.07,--,--,--,-9.25%
-15,BGSF,Bg Staffing Inc...,190,bmo,0.25,--,--,--,2.46%
-16,GLP,Global Partners...,694,bmo,0.20,--,--,--,-0.62%
-17,FCEL,Fuelcell Energy...,22,bmo,-2.40,-1.92,+0.48 ,+20.00% ,5.27%
-18,LOCO,El Pollo Loco H...,410,amc,0.10,--,--,--,7.81%
-19,UNFI,United Natural...,505,amc,0.53,--,--,--,5.03%
-20,FLY,Fly Leasing Lim...,493,bmo,0.53,--,--,--,2.15%
-21,FNSR,Finisar Corpora...,"2,781",amc,0.24,--,--,--,-4.53%
-22,FGP,Ferrellgas Part...,99,bmo,0.61,--,--,--,1.55%
-23,MTN,"Vail Resorts, I...","8,967",bmo,3.55,--,--,--,5.41%
-24,TGTX,Tg Therapeutics...,754,bmo,-0.46,--,--,--,7.87%
+2018-03-08,INTT,Intest Corporat...,50,amc,0.14,--,--,--,7.45%
+2018-03-08,VRS,Verso Corporati...,663,bmo,0.77,--,--,--,-2.79%
+2018-03-08,MRVL,Marvell Technol...,"16,071",amc,0.31,--,--,--,0.08%
+2018-03-08,CRSP,Crispr Therapeu...,"2,518",--,-0.71,--,--,--,--
+2018-03-08,KR,The Kroger Co.,"17,374",bmo,0.63,--,--,--,-12.39%
+2018-03-08,BURL,Burlington Stor...,"11,648",bmo,2.09,--,--,--,5.84%
+2018-03-08,GHDX,"Genomic Health,...","2,165",bmo,0.09,--,--,--,-5.23%
+2018-03-08,UPLD,Upland Software...,995,amc,0.26,--,--,--,10.89%
+2018-03-08,AEO,American Eagle...,"2,952",bmo,0.44,--,--,--,-9.43%
+2018-03-08,TECD,Tech Data Corpo...,"3,802",bmo,3.53,--,--,--,-19.72%
+2018-03-08,CRIS,"Curis, Inc.",59,bmo,-0.45,--,--,--,31.19%
+2018-03-08,ACRX,Acelrx Pharmace...,193,amc,-0.2,--,--,--,10.53%
+2018-03-08,PLYM,Plymouth Ind Re...,152,amc,0.08,--,--,--,0.41%
+2018-03-08,FNKO,"Funko, Inc.","1,061",amc,0.15,--,--,--,6.17%
+2018-03-08,AREX,Approach Resour...,31,amc,-0.07,--,--,--,-9.25%
+2018-03-08,BGSF,Bg Staffing Inc...,190,bmo,0.25,--,--,--,2.46%
+2018-03-08,GLP,Global Partners...,694,bmo,0.2,--,--,--,-0.62%
+2018-03-08,FCEL,Fuelcell Energy...,22,bmo,-2.4,-1.92,+0.48 ,+20.00% ,5.27%
+2018-03-08,LOCO,El Pollo Loco H...,410,amc,0.1,--,--,--,7.81%
+2018-03-08,UNFI,United Natural...,505,amc,0.53,--,--,--,5.03%
+2018-03-08,FLY,Fly Leasing Lim...,493,bmo,0.53,--,--,--,2.15%
+2018-03-08,FNSR,Finisar Corpora...,"2,781",amc,0.24,--,--,--,-4.53%
+2018-03-08,FGP,Ferrellgas Part...,99,bmo,0.61,--,--,--,1.55%
+2018-03-08,MTN,"Vail Resorts, I...","8,967",bmo,3.55,--,--,--,5.41%
+2018-03-08,TGTX,Tg Therapeutics...,754,bmo,-0.46,--,--,--,7.87%

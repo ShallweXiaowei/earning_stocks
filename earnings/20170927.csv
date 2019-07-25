@@ -1,11 +1,11 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,THO,Thor Industries...,"3,206",amc,1.95,--,--,--,2.57%
-1,CMTL,Comtech Telecom...,676,amc,0.28,--,--,--,-17.40%
-2,PIR,"Pier 1 Imports,...",27,amc,-1.20,--,--,--,-6.67%
-3,JBL,"Jabil, Inc.","4,823",amc,0.61,--,--,--,3.85%
-4,FUL,H. B. Fuller Co...,"2,402",amc,0.68,--,--,--,2.62%
-5,WOR,Worthington Ind...,"2,298",bmo,0.82,--,--,--,-4.28%
-6,PRGS,Progress Softwa...,"1,813",amc,0.48,--,--,--,-0.66%
-7,ATU,Actuant Corpora...,"1,480",bmo,0.21,--,--,--,-6.52%
-8,ENZ,"Enzo Biochem, I...",174,amc,-0.02,--,--,--,-6.99%
-9,SOL,Renesola Ltd.,49,bmo,-0.76,--,--,--,-1.63%
+2017-09-27,THO,Thor Industries...,"3,206",amc,1.95,--,--,--,2.57%
+2017-09-27,CMTL,Comtech Telecom...,676,amc,0.28,--,--,--,-17.40%
+2017-09-27,PIR,"Pier 1 Imports,...",27,amc,-1.2,--,--,--,-6.67%
+2017-09-27,JBL,"Jabil, Inc.","4,823",amc,0.61,--,--,--,3.85%
+2017-09-27,FUL,H. B. Fuller Co...,"2,402",amc,0.68,--,--,--,2.62%
+2017-09-27,WOR,Worthington Ind...,"2,298",bmo,0.82,--,--,--,-4.28%
+2017-09-27,PRGS,Progress Softwa...,"1,813",amc,0.48,--,--,--,-0.66%
+2017-09-27,ATU,Actuant Corpora...,"1,480",bmo,0.21,--,--,--,-6.52%
+2017-09-27,ENZ,"Enzo Biochem, I...",174,amc,-0.02,--,--,--,-6.99%
+2017-09-27,SOL,Renesola Ltd.,49,bmo,-0.76,--,--,--,-1.63%

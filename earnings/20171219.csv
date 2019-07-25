@@ -1,13 +1,13 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,MU,Micron Technolo...,"43,512",amc,2.20,--,--,--,4.02%
-1,FDX,Fedex Corporati...,"42,205",amc,2.87,--,--,--,3.52%
-2,SCS,Steelcase Inc.,"2,025",amc,0.22,--,--,--,2.79%
-3,RHT,"Red Hat, Inc.","33,430",amc,0.70,--,--,--,-5.32%
-4,DRI,Darden Restaura...,"15,205",bmo,0.70,--,--,--,6.79%
-5,CCL,Carnival Corpor...,"24,720",bmo,0.50,--,--,--,2.30%
-6,NAV,Navistar Intern...,"3,357",bmo,0.65,--,--,--,7.37%
-7,FDS,Factset Researc...,"11,298",bmo,1.98,--,--,--,-8.44%
-8,WOR,Worthington Ind...,"2,298",bmo,0.67,--,--,--,2.74%
-9,CVGW,"Calavo Growers,...","1,693",--,0.41,--,--,--,--
-10,REVG,"Rev Group, Inc....",877,amc,0.46,--,--,--,3.91%
-11,BLIN,Bridgeline Digi...,2,amc,-3.50,--,--,--,12.64%
+2017-12-19,MU,Micron Technolo...,"43,512",amc,2.2,--,--,--,4.02%
+2017-12-19,FDX,Fedex Corporati...,"42,205",amc,2.87,--,--,--,3.52%
+2017-12-19,SCS,Steelcase Inc.,"2,025",amc,0.22,--,--,--,2.79%
+2017-12-19,RHT,"Red Hat, Inc.","33,430",amc,0.7,--,--,--,-5.32%
+2017-12-19,DRI,Darden Restaura...,"15,205",bmo,0.7,--,--,--,6.79%
+2017-12-19,CCL,Carnival Corpor...,"24,720",bmo,0.5,--,--,--,2.30%
+2017-12-19,NAV,Navistar Intern...,"3,357",bmo,0.65,--,--,--,7.37%
+2017-12-19,FDS,Factset Researc...,"11,298",bmo,1.98,--,--,--,-8.44%
+2017-12-19,WOR,Worthington Ind...,"2,298",bmo,0.67,--,--,--,2.74%
+2017-12-19,CVGW,"Calavo Growers,...","1,693",--,0.41,--,--,--,--
+2017-12-19,REVG,"Rev Group, Inc....",877,amc,0.46,--,--,--,3.91%
+2017-12-19,BLIN,Bridgeline Digi...,2,amc,-3.5,--,--,--,12.64%

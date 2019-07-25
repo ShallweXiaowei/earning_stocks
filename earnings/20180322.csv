@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,MU,Micron Technolo...,"43,512",amc,2.76,--,--,--,-7.99%
-1,SGH,Smart Global Ho...,562,amc,1.33,--,--,--,11.01%
-2,NKE,"Nike, Inc.","136,459",amc,0.52,--,--,--,0.33%
-3,BTI,British America...,"79,955",--,2.00,--,--,--,--
-4,ACN,Accenture Plc,"128,607",bmo,1.50,--,--,--,-7.28%
-5,DRI,Darden Restaura...,"15,205",bmo,1.64,--,--,--,-7.90%
-6,CAG,Conagra Brands...,"13,635",bmo,0.56,--,--,--,0.31%
-7,CCL,Carnival Corpor...,"24,720",bmo,0.43,--,--,--,-1.28%
-8,CTAS,Cintas Corporat...,"25,048",amc,1.24,1.37,+0.13 ,+10.48% ,2.91%
-9,GIII,G-iii Apparel G...,"1,418",bmo,0.16,--,--,--,-12.00%
-10,KBH,Kb Home,"2,262",amc,0.30,--,--,--,2.36%
-11,HOME,At Home Group I...,457,amc,0.35,--,--,--,19.24%
-12,JKS,Jinkosolar Hold...,661,bmo,0.23,--,--,--,-7.97%
-13,CMC,Commercial Meta...,"2,100",bmo,0.26,--,--,--,-12.25%
-14,MIK,The Michaels Co...,"1,261",bmo,1.21,--,--,--,-7.76%
-15,CLBS,Caladrius Biosc...,26,amc,-0.83,--,--,--,-3.12%
-16,CDNA,"Caredx, Inc.","1,489",amc,-0.15,--,--,--,25.75%
-17,SCON,Superconductor...,5,bmo,-1.10,--,--,--,-11.61%
-18,NOMD,Nomad Foods Lim...,"4,303",bmo,0.31,--,--,--,-1.67%
-19,NEOG,Neogen Corporat...,"3,193",bmo,0.24,0.32,+0.08 ,+33.33% ,-3.68%
-20,JAG,Jagged Peak Ene...,"1,882",amc,0.09,--,--,--,2.02%
-21,BPMP,Bp Midstream Pa...,"1,642",bmo,0.28,--,--,--,-3.11%
-22,LE,"Lands' End, Inc...",377,bmo,0.44,--,--,--,26.11%
-23,SMTS,Sierra Metals I...,215,amc,0.02,--,--,--,0.00%
-24,ICAD,Icad Inc.,121,amc,-0.14,--,--,--,-2.89%
+2018-03-22,MU,Micron Technolo...,"43,512",amc,2.76,--,--,--,-7.99%
+2018-03-22,SGH,Smart Global Ho...,562,amc,1.33,--,--,--,11.01%
+2018-03-22,NKE,"Nike, Inc.","136,459",amc,0.52,--,--,--,0.33%
+2018-03-22,BTI,British America...,"79,955",--,2.0,--,--,--,--
+2018-03-22,ACN,Accenture Plc,"128,607",bmo,1.5,--,--,--,-7.28%
+2018-03-22,DRI,Darden Restaura...,"15,205",bmo,1.64,--,--,--,-7.90%
+2018-03-22,CAG,Conagra Brands...,"13,635",bmo,0.56,--,--,--,0.31%
+2018-03-22,CCL,Carnival Corpor...,"24,720",bmo,0.43,--,--,--,-1.28%
+2018-03-22,CTAS,Cintas Corporat...,"25,048",amc,1.24,1.37,+0.13 ,+10.48% ,2.91%
+2018-03-22,GIII,G-iii Apparel G...,"1,418",bmo,0.16,--,--,--,-12.00%
+2018-03-22,KBH,Kb Home,"2,262",amc,0.3,--,--,--,2.36%
+2018-03-22,HOME,At Home Group I...,457,amc,0.35,--,--,--,19.24%
+2018-03-22,JKS,Jinkosolar Hold...,661,bmo,0.23,--,--,--,-7.97%
+2018-03-22,CMC,Commercial Meta...,"2,100",bmo,0.26,--,--,--,-12.25%
+2018-03-22,MIK,The Michaels Co...,"1,261",bmo,1.21,--,--,--,-7.76%
+2018-03-22,CLBS,Caladrius Biosc...,26,amc,-0.83,--,--,--,-3.12%
+2018-03-22,CDNA,"Caredx, Inc.","1,489",amc,-0.15,--,--,--,25.75%
+2018-03-22,SCON,Superconductor...,5,bmo,-1.1,--,--,--,-11.61%
+2018-03-22,NOMD,Nomad Foods Lim...,"4,303",bmo,0.31,--,--,--,-1.67%
+2018-03-22,NEOG,Neogen Corporat...,"3,193",bmo,0.24,0.32,+0.08 ,+33.33% ,-3.68%
+2018-03-22,JAG,Jagged Peak Ene...,"1,882",amc,0.09,--,--,--,2.02%
+2018-03-22,BPMP,Bp Midstream Pa...,"1,642",bmo,0.28,--,--,--,-3.11%
+2018-03-22,LE,"Lands' End, Inc...",377,bmo,0.44,--,--,--,26.11%
+2018-03-22,SMTS,Sierra Metals I...,215,amc,0.02,--,--,--,0.00%
+2018-03-22,ICAD,Icad Inc.,121,amc,-0.14,--,--,--,-2.89%

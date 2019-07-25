@@ -1,16 +1,16 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,CSIQ,Canadian Solar...,"1,327",bmo,0.83,--,--,--,7.17%
-1,ORCL,Oracle Corporat...,"197,747",amc,0.72,--,--,--,-9.43%
-2,HQY,"Healthequity, I...","4,055",amc,0.06,--,--,--,11.47%
-3,LXFR,Luxfer Holdings...,667,amc,0.25,--,--,--,-7.09%
-4,CDLX,"Cardlytics, Inc...",668,amc,-0.33,--,--,--,0.18%
-5,ATTO,Atento S.a.,180,amc,0.25,--,--,--,-3.24%
-6,LEJU,Leju Holdings L...,176,bmo,-0.17,--,--,--,8.22%
-7,CDOR,Condor Hospital...,104,amc,0.21,--,--,--,-2.68%
-8,IWSY,Imageware Syste...,96,--,-0.03,--,--,--,--
-9,MDWD,Mediwound Ltd.,88,bmo,-0.16,--,--,--,12.65%
-10,AITB,Ait Therapeutic...,58,amc,-0.50,--,--,--,0.00%
-11,FCSC,Fibrocell Scien...,19,bmo,-1.15,--,--,--,-7.35%
-12,LIFE,"Atyr Pharma, In...",17,amc,-6.02,--,--,--,-3.33%
-13,RTTR,Ritter Pharmace...,10,--,-0.50,--,--,--,--
-14,APOP,Cellect Biotech...,3,--,-0.31,--,--,--,--
+2018-03-19,CSIQ,Canadian Solar...,"1,327",bmo,0.83,--,--,--,7.17%
+2018-03-19,ORCL,Oracle Corporat...,"197,747",amc,0.72,--,--,--,-9.43%
+2018-03-19,HQY,"Healthequity, I...","4,055",amc,0.06,--,--,--,11.47%
+2018-03-19,LXFR,Luxfer Holdings...,667,amc,0.25,--,--,--,-7.09%
+2018-03-19,CDLX,"Cardlytics, Inc...",668,amc,-0.33,--,--,--,0.18%
+2018-03-19,ATTO,Atento S.a.,180,amc,0.25,--,--,--,-3.24%
+2018-03-19,LEJU,Leju Holdings L...,176,bmo,-0.17,--,--,--,8.22%
+2018-03-19,CDOR,Condor Hospital...,104,amc,0.21,--,--,--,-2.68%
+2018-03-19,IWSY,Imageware Syste...,96,--,-0.03,--,--,--,--
+2018-03-19,MDWD,Mediwound Ltd.,88,bmo,-0.16,--,--,--,12.65%
+2018-03-19,AITB,Ait Therapeutic...,58,amc,-0.5,--,--,--,0.00%
+2018-03-19,FCSC,Fibrocell Scien...,19,bmo,-1.15,--,--,--,-7.35%
+2018-03-19,LIFE,"Atyr Pharma, In...",17,amc,-6.02,--,--,--,-3.33%
+2018-03-19,RTTR,Ritter Pharmace...,10,--,-0.5,--,--,--,--
+2018-03-19,APOP,Cellect Biotech...,3,--,-0.31,--,--,--,--

@@ -1,6 +1,6 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,PEP,"Pepsico, Inc.","186,470",bmo,1.56,1.59,+0.03 ,+1.92% ,-1.80%
-1,LW,Lamb Weston Hol...,"9,411",bmo,0.68,0.73,+0.05 ,+7.35% ,9.19%
-2,PAYX,"Paychex, Inc.","30,634",bmo,0.65,0.67,+0.02 ,+3.08% ,1.44%
-3,NG,Novagold Resour...,"1,809",amc,-0.03,-0.02,+0.01 ,+33.33% ,3.43%
-4,LNDC,Landec Corporat...,299,amc,0.00,0.01,--,--,-0.71%
+2018-10-02,PEP,"Pepsico, Inc.","186,470",bmo,1.56,1.59,+0.03 ,+1.92% ,-1.80%
+2018-10-02,LW,Lamb Weston Hol...,"9,411",bmo,0.68,0.73,+0.05 ,+7.35% ,9.19%
+2018-10-02,PAYX,"Paychex, Inc.","30,634",bmo,0.65,0.67,+0.02 ,+3.08% ,1.44%
+2018-10-02,NG,Novagold Resour...,"1,809",amc,-0.03,-0.02,+0.01 ,+33.33% ,3.43%
+2018-10-02,LNDC,Landec Corporat...,299,amc,0.0,0.01,--,--,-0.71%

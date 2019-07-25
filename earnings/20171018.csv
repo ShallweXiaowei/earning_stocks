@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ABT,Abbott Laborato...,"150,696",bmo,0.65,--,--,--,1.29%
-1,URI,"United Rentals,...","10,451",amc,3.00,--,--,--,0.06%
-2,AXP,American Expres...,"104,719",amc,1.47,--,--,--,-0.20%
-3,AA,Alcoa Corp.,"4,291",amc,0.75,--,--,--,-2.53%
-4,UAL,United Airlines...,"23,837",amc,2.18,--,--,--,-12.08%
-5,EBAY,Ebay Inc.,"34,687",amc,0.48,--,--,--,-1.79%
-6,USB,U.s. Bancorp,"85,462",bmo,0.88,--,--,--,-1.13%
-7,CCI,Crown Castle In...,"55,805",amc,1.17,--,--,--,2.03%
-8,STLD,"Steel Dynamics,...","6,801",amc,0.66,--,--,--,3.68%
-9,MTG,Mgic Investment...,"4,952",bmo,0.25,--,--,--,3.28%
-10,ASML,Asml Holding N....,"88,367",bmo,1.28,--,--,--,-2.61%
-11,MTB,M&t Bank Corpor...,"23,774",bmo,2.40,--,--,--,-2.14%
-12,GHL,Greenhill & Co....,298,amc,-0.34,--,--,--,1.46%
-13,LLNW,Limelight Netwo...,301,amc,0.00,--,--,--,5.13%
-14,HXL,Hexcel Corporat...,"6,909",amc,0.69,--,--,--,4.16%
-15,ATLKY,Atlas Copco Ab,"26,029",--,0.43,--,--,--,--
-16,AKZOY,Akzo Nobel Nv,"21,449",bmo,0.54,--,--,--,-1.90%
-17,NTRS,Northern Trust...,"20,444",bmo,1.12,--,--,--,3.82%
-18,CCK,"Crown Holdings,...","8,571",amc,1.41,--,--,--,1.44%
-19,SLG,Sl Green Realty...,"6,831",amc,1.57,--,--,--,-2.84%
-20,SLM,Slm Corporation...,"4,210",amc,0.17,--,--,--,-6.80%
-21,WTFC,Wintrust Financ...,"4,146",amc,1.08,--,--,--,1.40%
-22,RLI,Rli Corp.,"3,922",amc,0.02,--,--,--,3.63%
-23,UMPQ,Umpqua Holdings...,"3,764",amc,0.29,--,--,--,3.41%
-24,UNF,Unifirst Corpor...,"3,637",bmo,1.23,--,--,--,1.32%
+2017-10-18,ABT,Abbott Laborato...,"150,696",bmo,0.65,--,--,--,1.29%
+2017-10-18,URI,"United Rentals,...","10,451",amc,3.0,--,--,--,0.06%
+2017-10-18,AXP,American Expres...,"104,719",amc,1.47,--,--,--,-0.20%
+2017-10-18,AA,Alcoa Corp.,"4,291",amc,0.75,--,--,--,-2.53%
+2017-10-18,UAL,United Airlines...,"23,837",amc,2.18,--,--,--,-12.08%
+2017-10-18,EBAY,Ebay Inc.,"34,687",amc,0.48,--,--,--,-1.79%
+2017-10-18,USB,U.s. Bancorp,"85,462",bmo,0.88,--,--,--,-1.13%
+2017-10-18,CCI,Crown Castle In...,"55,805",amc,1.17,--,--,--,2.03%
+2017-10-18,STLD,"Steel Dynamics,...","6,801",amc,0.66,--,--,--,3.68%
+2017-10-18,MTG,Mgic Investment...,"4,952",bmo,0.25,--,--,--,3.28%
+2017-10-18,ASML,Asml Holding N....,"88,367",bmo,1.28,--,--,--,-2.61%
+2017-10-18,MTB,M&t Bank Corpor...,"23,774",bmo,2.4,--,--,--,-2.14%
+2017-10-18,GHL,Greenhill & Co....,298,amc,-0.34,--,--,--,1.46%
+2017-10-18,LLNW,Limelight Netwo...,301,amc,0.0,--,--,--,5.13%
+2017-10-18,HXL,Hexcel Corporat...,"6,909",amc,0.69,--,--,--,4.16%
+2017-10-18,ATLKY,Atlas Copco Ab,"26,029",--,0.43,--,--,--,--
+2017-10-18,AKZOY,Akzo Nobel Nv,"21,449",bmo,0.54,--,--,--,-1.90%
+2017-10-18,NTRS,Northern Trust...,"20,444",bmo,1.12,--,--,--,3.82%
+2017-10-18,CCK,"Crown Holdings,...","8,571",amc,1.41,--,--,--,1.44%
+2017-10-18,SLG,Sl Green Realty...,"6,831",amc,1.57,--,--,--,-2.84%
+2017-10-18,SLM,Slm Corporation...,"4,210",amc,0.17,--,--,--,-6.80%
+2017-10-18,WTFC,Wintrust Financ...,"4,146",amc,1.08,--,--,--,1.40%
+2017-10-18,RLI,Rli Corp.,"3,922",amc,0.02,--,--,--,3.63%
+2017-10-18,UMPQ,Umpqua Holdings...,"3,764",amc,0.29,--,--,--,3.41%
+2017-10-18,UNF,Unifirst Corpor...,"3,637",bmo,1.23,--,--,--,1.32%

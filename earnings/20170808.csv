@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,CVS,Cvs Health Corp...,"72,191",bmo,1.31,--,--,--,-0.70%
-1,DIS,The Walt Disney...,"256,367",amc,1.53,--,--,--,-3.88%
-2,BEAT,"Biotelemetry, I...","1,655",amc,0.21,--,--,--,-6.24%
-3,CYBR,Cyberark Softwa...,"4,849",amc,0.20,--,--,--,0.25%
-4,DNR,Denbury Resourc...,563,bmo,-0.02,--,--,--,9.92%
-5,FOSL,"Fossil Group, I...",544,amc,-0.28,--,--,--,-25.08%
-6,NOG,Northern Oil An...,757,amc,-0.02,--,--,--,-5.00%
-7,TRIP,"Tripadvisor, In...","6,614",amc,0.30,--,--,--,2.50%
-8,AAXN,Axon Enterprise...,"3,788",amc,0.04,--,--,--,-9.05%
-9,NVAX,"Novavax, Inc.",120,amc,-3.20,--,--,--,1.94%
-10,HTZ,Hertz Global Ho...,"1,372",amc,-0.12,--,--,--,23.04%
-11,ATKR,Atkore Internat...,"1,195",bmo,0.45,--,--,--,-21.24%
-12,OPK,"Opko Health, In...","1,453",amc,-0.05,--,--,--,4.72%
-13,ALRM,Alarm.com Holdi...,"2,528",amc,0.15,--,--,--,4.96%
-14,ZBRA,Zebra Technolog...,"11,715",bmo,1.45,--,--,--,9.67%
-15,NKTR,Nektar Therapeu...,"6,125",amc,-0.35,--,--,--,-4.89%
-16,MYGN,Myriad Genetics...,"2,029",amc,0.26,--,--,--,9.51%
-17,PLUG,"Plug Power, Inc...",577,bmo,-0.07,--,--,--,-8.82%
-18,ZTS,Zoetis Inc.,"54,653",bmo,0.53,--,--,--,-2.96%
-19,DIOD,Diodes Incorpor...,"1,865",amc,0.36,--,--,--,-0.56%
-20,SUN,Sunoco Lp,"3,213",amc,0.15,--,--,--,4.92%
-21,PEGI,Pattern Energy...,"2,290",bmo,0.13,--,--,--,-3.09%
-22,LNG,Cheniere Energy...,"17,702",bmo,-0.01,--,--,--,-1.27%
-23,MTLS,Materialise Nv,917,bmo,-0.01,--,--,--,7.17%
-24,DXC,Dxc Technology...,"15,043",amc,1.26,--,--,--,7.08%
+2017-08-08,CVS,Cvs Health Corp...,"72,191",bmo,1.31,--,--,--,-0.70%
+2017-08-08,DIS,The Walt Disney...,"256,367",amc,1.53,--,--,--,-3.88%
+2017-08-08,BEAT,"Biotelemetry, I...","1,655",amc,0.21,--,--,--,-6.24%
+2017-08-08,CYBR,Cyberark Softwa...,"4,849",amc,0.2,--,--,--,0.25%
+2017-08-08,DNR,Denbury Resourc...,563,bmo,-0.02,--,--,--,9.92%
+2017-08-08,FOSL,"Fossil Group, I...",544,amc,-0.28,--,--,--,-25.08%
+2017-08-08,NOG,Northern Oil An...,757,amc,-0.02,--,--,--,-5.00%
+2017-08-08,TRIP,"Tripadvisor, In...","6,614",amc,0.3,--,--,--,2.50%
+2017-08-08,AAXN,Axon Enterprise...,"3,788",amc,0.04,--,--,--,-9.05%
+2017-08-08,NVAX,"Novavax, Inc.",120,amc,-3.2,--,--,--,1.94%
+2017-08-08,HTZ,Hertz Global Ho...,"1,372",amc,-0.12,--,--,--,23.04%
+2017-08-08,ATKR,Atkore Internat...,"1,195",bmo,0.45,--,--,--,-21.24%
+2017-08-08,OPK,"Opko Health, In...","1,453",amc,-0.05,--,--,--,4.72%
+2017-08-08,ALRM,Alarm.com Holdi...,"2,528",amc,0.15,--,--,--,4.96%
+2017-08-08,ZBRA,Zebra Technolog...,"11,715",bmo,1.45,--,--,--,9.67%
+2017-08-08,NKTR,Nektar Therapeu...,"6,125",amc,-0.35,--,--,--,-4.89%
+2017-08-08,MYGN,Myriad Genetics...,"2,029",amc,0.26,--,--,--,9.51%
+2017-08-08,PLUG,"Plug Power, Inc...",577,bmo,-0.07,--,--,--,-8.82%
+2017-08-08,ZTS,Zoetis Inc.,"54,653",bmo,0.53,--,--,--,-2.96%
+2017-08-08,DIOD,Diodes Incorpor...,"1,865",amc,0.36,--,--,--,-0.56%
+2017-08-08,SUN,Sunoco Lp,"3,213",amc,0.15,--,--,--,4.92%
+2017-08-08,PEGI,Pattern Energy...,"2,290",bmo,0.13,--,--,--,-3.09%
+2017-08-08,LNG,Cheniere Energy...,"17,702",bmo,-0.01,--,--,--,-1.27%
+2017-08-08,MTLS,Materialise Nv,917,bmo,-0.01,--,--,--,7.17%
+2017-08-08,DXC,Dxc Technology...,"15,043",amc,1.26,--,--,--,7.08%

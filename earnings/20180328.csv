@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,WBA,Walgreens Boots...,"49,844",bmo,1.55,--,--,--,2.47%
-1,BB,Blackberry Limi...,"4,060",bmo,0.00,--,--,--,-1.61%
-2,AEZS,Aeterna Zentari...,48,amc,-0.37,--,--,--,-2.67%
-3,GME,Gamestop Corp.,565,amc,1.96,--,--,--,-10.81%
-4,PVH,Pvh Corp.,"6,953",amc,1.48,--,--,--,5.15%
-5,SCWX,Secureworks Cor...,"1,021",bmo,-0.08,--,--,--,-3.63%
-6,VRNT,Verint Systems...,"3,640",amc,1.00,--,--,--,13.90%
-7,NVCN,Neovasc Inc.,37,amc,-10.00,--,--,--,-49.17%
-8,COLD,Americold Realt...,"6,604",amc,0.44,--,--,--,2.42%
-9,GEVO,"Gevo, Inc.",27,amc,-5.20,--,--,--,-9.57%
-10,ALT,"Pharmathene, In...",33,bmo,-15.02,--,--,--,-13.04%
-11,ASND,Ascendis Pharma...,"4,735",amc,-0.92,--,--,--,3.12%
-12,UNF,Unifirst Corpor...,"3,637",bmo,1.07,--,--,--,10.18%
-13,FUL,H. B. Fuller Co...,"2,402",--,0.35,--,--,--,--
-14,DGRLY,Delek Group Ltd...,"2,110",bmo,--,--,--,--,0.00%
-15,PRGS,Progress Softwa...,"1,813",amc,0.48,--,--,--,-0.08%
-16,OXM,Oxford Industri...,"1,241",amc,0.93,--,--,--,-1.25%
-17,DCPH,Deciphera Pharm...,875,--,-0.35,--,--,--,--
-18,NINE,Nine Energy Ser...,490,amc,-0.16,--,--,--,5.87%
-19,OMN,Omnova Solution...,446,bmo,0.07,--,--,--,4.78%
-20,ICLK,Iclick Interact...,204,bmo,-0.03,--,--,--,-0.65%
-21,MRSN,Mersana Therape...,192,--,-0.48,--,--,--,--
-22,SPWH,Sportsman's War...,181,amc,0.26,--,--,--,-1.45%
-23,RLH,Red Lion Hotels...,177,amc,-0.17,--,--,--,-1.52%
-24,BSET,Bassett Furnitu...,135,--,0.35,--,--,--,--
+2018-03-28,WBA,Walgreens Boots...,"49,844",bmo,1.55,--,--,--,2.47%
+2018-03-28,BB,Blackberry Limi...,"4,060",bmo,0.00,--,--,--,-1.61%
+2018-03-28,AEZS,Aeterna Zentari...,48,amc,-0.37,--,--,--,-2.67%
+2018-03-28,GME,Gamestop Corp.,565,amc,1.96,--,--,--,-10.81%
+2018-03-28,PVH,Pvh Corp.,"6,953",amc,1.48,--,--,--,5.15%
+2018-03-28,SCWX,Secureworks Cor...,"1,021",bmo,-0.08,--,--,--,-3.63%
+2018-03-28,VRNT,Verint Systems...,"3,640",amc,1.00,--,--,--,13.90%
+2018-03-28,NVCN,Neovasc Inc.,37,amc,-10.00,--,--,--,-49.17%
+2018-03-28,COLD,Americold Realt...,"6,604",amc,0.44,--,--,--,2.42%
+2018-03-28,GEVO,"Gevo, Inc.",27,amc,-5.20,--,--,--,-9.57%
+2018-03-28,ALT,"Pharmathene, In...",33,bmo,-15.02,--,--,--,-13.04%
+2018-03-28,ASND,Ascendis Pharma...,"4,735",amc,-0.92,--,--,--,3.12%
+2018-03-28,UNF,Unifirst Corpor...,"3,637",bmo,1.07,--,--,--,10.18%
+2018-03-28,FUL,H. B. Fuller Co...,"2,402",--,0.35,--,--,--,--
+2018-03-28,DGRLY,Delek Group Ltd...,"2,110",bmo,--,--,--,--,0.00%
+2018-03-28,PRGS,Progress Softwa...,"1,813",amc,0.48,--,--,--,-0.08%
+2018-03-28,OXM,Oxford Industri...,"1,241",amc,0.93,--,--,--,-1.25%
+2018-03-28,DCPH,Deciphera Pharm...,875,--,-0.35,--,--,--,--
+2018-03-28,NINE,Nine Energy Ser...,490,amc,-0.16,--,--,--,5.87%
+2018-03-28,OMN,Omnova Solution...,446,bmo,0.07,--,--,--,4.78%
+2018-03-28,ICLK,Iclick Interact...,204,bmo,-0.03,--,--,--,-0.65%
+2018-03-28,MRSN,Mersana Therape...,192,--,-0.48,--,--,--,--
+2018-03-28,SPWH,Sportsman's War...,181,amc,0.26,--,--,--,-1.45%
+2018-03-28,RLH,Red Lion Hotels...,177,amc,-0.17,--,--,--,-1.52%
+2018-03-28,BSET,Bassett Furnitu...,135,--,0.35,--,--,--,--

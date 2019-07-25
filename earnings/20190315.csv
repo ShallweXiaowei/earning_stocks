@@ -1,19 +1,19 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,BKE,"Buckle, Inc. (t...",980,bmo,0.80,0.84,+0.04 ,+5.00% ,-2.54%
-1,LTS,Ladenburg Thalm...,437,--,0.01,0.01,0.00 ,0.00% ,--
-2,STML,Stemline Therap...,588,--,-0.72,-0.92,-0.20 ,-27.78% ,--
-3,DPLO,Diplomat Pharma...,396,bmo,0.24,0.14,-0.10 ,-41.67% ,-13.55%
-4,BIOS,"Bioscrip, Inc.",367,bmo,-0.03,-0.14,-0.11 ,-366.67% ,-20.34%
-5,MRKR,Marker Therapeu...,288,--,-0.21,-0.64,-0.43 ,-204.76% ,--
-6,SIC,Select Int Conc...,286,bmo,0.29,--,--,--,0.15%
-7,HYGS,Hydrogenics Cor...,283,bmo,-0.20,-0.20,0.00 ,0.00% ,0.62%
-8,CTRN,"Citi Trends, In...",188,bmo,0.56,0.59,+0.03 ,+5.36% ,-7.18%
-9,UTSI,Utstarcom Holdi...,108,bmo,-0.02,-0.03,-0.01 ,-50.00% ,2.96%
-10,CKPT,Checkpoint Ther...,104,--,-0.25,-0.38,-0.13 ,-52.00% ,--
-11,FBIO,Fortress Biotec...,89,--,-0.58,--,--,--,--
-12,SELB,Selecta Bioscie...,76,bmo,-0.76,-0.65,+0.11 ,+14.47% ,-2.25%
-13,HCAP,Harvest Capital...,63,bmo,0.24,0.25,+0.01 ,+4.17% ,0.98%
-14,ADMP,Adamis Pharmace...,55,--,-0.19,-0.28,-0.09 ,-47.37% ,--
-15,HAIR,Restoration Rob...,26,bmo,-0.17,--,--,--,7.91%
-16,KIRK,"Kirkland's, Inc...",25,bmo,0.96,0.95,-0.01 ,-1.04% ,-23.38%
-17,GEMP,Gemphire Therap...,11,--,-0.39,-0.26,+0.13 ,+33.33% ,--
+2019-03-15,BKE,"Buckle, Inc. (t...",980,bmo,0.8,0.84,+0.04 ,+5.00% ,-2.54%
+2019-03-15,LTS,Ladenburg Thalm...,437,--,0.01,0.01,0.00 ,0.00% ,--
+2019-03-15,STML,Stemline Therap...,588,--,-0.72,-0.92,-0.20 ,-27.78% ,--
+2019-03-15,DPLO,Diplomat Pharma...,396,bmo,0.24,0.14,-0.10 ,-41.67% ,-13.55%
+2019-03-15,BIOS,"Bioscrip, Inc.",367,bmo,-0.03,-0.14,-0.11 ,-366.67% ,-20.34%
+2019-03-15,MRKR,Marker Therapeu...,288,--,-0.21,-0.64,-0.43 ,-204.76% ,--
+2019-03-15,SIC,Select Int Conc...,286,bmo,0.29,--,--,--,0.15%
+2019-03-15,HYGS,Hydrogenics Cor...,283,bmo,-0.2,-0.20,0.00 ,0.00% ,0.62%
+2019-03-15,CTRN,"Citi Trends, In...",188,bmo,0.56,0.59,+0.03 ,+5.36% ,-7.18%
+2019-03-15,UTSI,Utstarcom Holdi...,108,bmo,-0.02,-0.03,-0.01 ,-50.00% ,2.96%
+2019-03-15,CKPT,Checkpoint Ther...,104,--,-0.25,-0.38,-0.13 ,-52.00% ,--
+2019-03-15,FBIO,Fortress Biotec...,89,--,-0.58,--,--,--,--
+2019-03-15,SELB,Selecta Bioscie...,76,bmo,-0.76,-0.65,+0.11 ,+14.47% ,-2.25%
+2019-03-15,HCAP,Harvest Capital...,63,bmo,0.24,0.25,+0.01 ,+4.17% ,0.98%
+2019-03-15,ADMP,Adamis Pharmace...,55,--,-0.19,-0.28,-0.09 ,-47.37% ,--
+2019-03-15,HAIR,Restoration Rob...,26,bmo,-0.17,--,--,--,7.91%
+2019-03-15,KIRK,"Kirkland's, Inc...",25,bmo,0.96,0.95,-0.01 ,-1.04% ,-23.38%
+2019-03-15,GEMP,Gemphire Therap...,11,--,-0.39,-0.26,+0.13 ,+33.33% ,--

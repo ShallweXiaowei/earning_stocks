@@ -1,4 +1,4 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ANF,Abercrombie & F...,"1,127",bmo,-0.79,-0.56,+0.23 ,+29.11% ,-8.72%
-1,BIG,"Big Lots, Inc.","1,056",bmo,1.19,0.95,-0.24 ,-20.17% ,-5.43%
-2,CANF,Can-fite Biopha...,4,--,-1.20,-1.50,-0.30 ,-25.00% ,--
+2018-06-01,ANF,Abercrombie & F...,"1,127",bmo,-0.79,-0.56,0.23,+29.11% ,-8.72%
+2018-06-01,BIG,"Big Lots, Inc.","1,056",bmo,1.19,0.95,-0.24,-20.17% ,-5.43%
+2018-06-01,CANF,Can-fite Biopha...,4,--,-1.2,-1.5,-0.3,-25.00% ,--

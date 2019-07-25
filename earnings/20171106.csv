@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,CVS,Cvs Health Corp...,"72,191",bmo,1.49,--,--,--,-3.54%
-1,ETSY,"Etsy, Inc.","7,617",amc,0.05,--,--,--,-1.69%
-2,ONDK,On Deck Capital...,307,bmo,0.02,--,--,--,0.58%
-3,SWKS,Skyworks Soluti...,"13,872",amc,1.75,--,--,--,-4.42%
-4,TRIP,"Tripadvisor, In...","6,614",amc,0.34,--,--,--,-23.22%
-5,GNL,Global Net Leas...,"1,687",amc,0.52,--,--,--,-2.82%
-6,ATH,Athene Holding...,"8,676",amc,1.12,--,--,--,2.06%
-7,CAH,Cardinal Health...,"14,375",bmo,1.01,--,--,--,-1.84%
-8,TCP,"Tc Pipelines, L...","2,764",bmo,0.64,--,--,--,1.91%
-9,CRC,California Reso...,901,amc,-1.61,--,--,--,13.52%
-10,MCHP,Microchip Techn...,"21,230",amc,1.35,--,--,--,-4.11%
-11,BSM,Black Stone Min...,"3,150",amc,0.15,--,--,--,-2.94%
-12,MYL,Mylan N.v.,"10,046",bmo,1.22,--,--,--,4.68%
-13,APLE,Apple Hospitali...,"3,539",amc,0.47,--,--,--,0.79%
-14,PAA,Plains All Amer...,"17,945",amc,0.22,--,--,--,3.37%
-15,LXFR,Luxfer Holdings...,667,amc,0.26,--,--,--,5.21%
-16,FANG,Diamondback Ene...,"17,687",amc,1.25,--,--,--,-1.66%
-17,SBOW,Silverbow Resou...,151,amc,0.91,--,--,--,7.74%
-18,MTDR,Matador Resourc...,"2,222",amc,0.10,--,--,--,0.46%
-19,SYY,Sysco Corporati...,"36,878",bmo,0.73,--,--,--,-4.39%
-20,CSWC,Capital Southwe...,373,amc,0.25,--,--,--,-1.28%
-21,FMC,Fmc Corporation...,"11,150",amc,0.63,--,--,--,2.80%
-22,CRNT,Ceragon Network...,206,bmo,0.05,--,--,--,-11.06%
-23,GTN,Gray Television...,"1,711",bmo,0.21,--,--,--,-4.23%
-24,HZNP,Horizon Pharma...,"4,502",bmo,0.22,--,--,--,1.27%
+2017-11-06,CVS,Cvs Health Corp...,"72,191",bmo,1.49,--,--,--,-3.54%
+2017-11-06,ETSY,"Etsy, Inc.","7,617",amc,0.05,--,--,--,-1.69%
+2017-11-06,ONDK,On Deck Capital...,307,bmo,0.02,--,--,--,0.58%
+2017-11-06,SWKS,Skyworks Soluti...,"13,872",amc,1.75,--,--,--,-4.42%
+2017-11-06,TRIP,"Tripadvisor, In...","6,614",amc,0.34,--,--,--,-23.22%
+2017-11-06,GNL,Global Net Leas...,"1,687",amc,0.52,--,--,--,-2.82%
+2017-11-06,ATH,Athene Holding...,"8,676",amc,1.12,--,--,--,2.06%
+2017-11-06,CAH,Cardinal Health...,"14,375",bmo,1.01,--,--,--,-1.84%
+2017-11-06,TCP,"Tc Pipelines, L...","2,764",bmo,0.64,--,--,--,1.91%
+2017-11-06,CRC,California Reso...,901,amc,-1.61,--,--,--,13.52%
+2017-11-06,MCHP,Microchip Techn...,"21,230",amc,1.35,--,--,--,-4.11%
+2017-11-06,BSM,Black Stone Min...,"3,150",amc,0.15,--,--,--,-2.94%
+2017-11-06,MYL,Mylan N.v.,"10,046",bmo,1.22,--,--,--,4.68%
+2017-11-06,APLE,Apple Hospitali...,"3,539",amc,0.47,--,--,--,0.79%
+2017-11-06,PAA,Plains All Amer...,"17,945",amc,0.22,--,--,--,3.37%
+2017-11-06,LXFR,Luxfer Holdings...,667,amc,0.26,--,--,--,5.21%
+2017-11-06,FANG,Diamondback Ene...,"17,687",amc,1.25,--,--,--,-1.66%
+2017-11-06,SBOW,Silverbow Resou...,151,amc,0.91,--,--,--,7.74%
+2017-11-06,MTDR,Matador Resourc...,"2,222",amc,0.1,--,--,--,0.46%
+2017-11-06,SYY,Sysco Corporati...,"36,878",bmo,0.73,--,--,--,-4.39%
+2017-11-06,CSWC,Capital Southwe...,373,amc,0.25,--,--,--,-1.28%
+2017-11-06,FMC,Fmc Corporation...,"11,150",amc,0.63,--,--,--,2.80%
+2017-11-06,CRNT,Ceragon Network...,206,bmo,0.05,--,--,--,-11.06%
+2017-11-06,GTN,Gray Television...,"1,711",bmo,0.21,--,--,--,-4.23%
+2017-11-06,HZNP,Horizon Pharma...,"4,502",bmo,0.22,--,--,--,1.27%

@@ -1,8 +1,8 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,WBA,Walgreens Boots...,"49,167",bmo,1.70,1.64,-0.06 ,-3.53% ,-12.81%
-1,LW,Lamb Weston Hol...,"10,030",bmo,0.82,--,--,--,0.53%
-2,PLAY,Dave & Buster's...,"1,494",amc,0.63,0.75,+0.12 ,+19.05% ,4.89%
-3,GME,Gamestop Corp.,442,amc,1.59,1.45,-0.14 ,-8.81% ,-4.65%
-4,NG,Novagold Resour...,"2,046",amc,-0.03,-0.02,+0.01 ,+33.33% ,2.16%
-5,ANGO,"Angiodynamics,...",789,bmo,0.22,0.19,-0.03 ,-13.64% ,-1.28%
-6,EXFO,Exfo Inc,209,amc,0.06,0.07,+0.01 ,+16.67% ,4.73%
+2019-04-02,WBA,Walgreens Boots...,"49,167",bmo,1.7,1.64,-0.06 ,-3.53% ,-12.81%
+2019-04-02,LW,Lamb Weston Hol...,"10,030",bmo,0.82,--,--,--,0.53%
+2019-04-02,PLAY,Dave & Buster's...,"1,494",amc,0.63,0.75,+0.12 ,+19.05% ,4.89%
+2019-04-02,GME,Gamestop Corp.,442,amc,1.59,1.45,-0.14 ,-8.81% ,-4.65%
+2019-04-02,NG,Novagold Resour...,"2,046",amc,-0.03,-0.02,+0.01 ,+33.33% ,2.16%
+2019-04-02,ANGO,"Angiodynamics,...",789,bmo,0.22,0.19,-0.03 ,-13.64% ,-1.28%
+2019-04-02,EXFO,Exfo Inc,209,amc,0.06,0.07,+0.01 ,+16.67% ,4.73%

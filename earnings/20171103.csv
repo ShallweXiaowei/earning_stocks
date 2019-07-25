@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,BRK.B,Berkshire Hatha...,"527,990",--,1.88,--,--,--,--
-1,ABR,Arbor Realty Tr...,"1,173",bmo,0.18,--,--,--,3.64%
-2,ARCB,Arcbest Corpora...,695,bmo,0.58,--,--,--,2.17%
-3,DUK,Duke Energy Cor...,"65,291",bmo,1.56,--,--,--,-0.05%
-4,AEE,Ameren Corporat...,"18,776",bmo,1.31,--,--,--,-0.21%
-5,BIP,Brookfield Infr...,"15,147",bmo,0.82,--,--,--,0.19%
-6,SHLX,Shell Midstream...,"4,823",bmo,0.29,--,--,--,2.25%
-7,WPC,W.p. Carey Inc....,"14,140",bmo,1.16,--,--,--,2.61%
-8,HMSY,Hms Holdings Co...,"2,958",bmo,0.22,--,--,--,-17.53%
-9,CNP,Centerpoint Ene...,"14,784",bmo,0.41,--,--,--,-0.50%
-10,BPL,Buckeye Partner...,"6,338",bmo,0.86,--,--,--,-1.27%
-11,AFLYY,Air France-klm...,"4,243",--,1.65,--,--,--,--
-12,DOC,Physicians Real...,"3,244",bmo,0.27,--,--,--,-1.03%
-13,SPKE,"Spark Energy, I...",400,amc,0.28,--,--,--,-9.63%
-14,KNOP,Knot Offshore P...,640,bmo,0.62,--,--,--,0.87%
-15,AXL,American Axle &...,"1,320",bmo,0.64,--,--,--,5.11%
-16,NAT,Nordic American...,321,--,-0.24,--,--,--,--
-17,IMGN,"Immunogen, Inc....",357,bmo,-0.28,--,--,--,6.03%
-18,USCR,"U S Concrete, I...",851,bmo,1.30,--,--,--,1.03%
-19,TRGP,Targa Resources...,"9,357",bmo,-0.10,--,--,--,2.50%
-20,AINV,Apollo Investme...,"1,096",bmo,0.48,--,--,--,3.75%
-21,FTS,Fortis Inc.,"17,264",bmo,0.46,--,--,--,1.78%
-22,OBLN,Obalon Therptcs...,19,bmo,-0.43,--,--,--,5.91%
-23,MCO,Moody's Corpora...,"38,191",bmo,1.40,--,--,--,1.92%
-24,DVAX,Dynavax Technol...,260,--,-0.52,--,--,--,--
+2017-11-03,BRK.B,Berkshire Hatha...,"527,990",--,1.88,--,--,--,--
+2017-11-03,ABR,Arbor Realty Tr...,"1,173",bmo,0.18,--,--,--,3.64%
+2017-11-03,ARCB,Arcbest Corpora...,695,bmo,0.58,--,--,--,2.17%
+2017-11-03,DUK,Duke Energy Cor...,"65,291",bmo,1.56,--,--,--,-0.05%
+2017-11-03,AEE,Ameren Corporat...,"18,776",bmo,1.31,--,--,--,-0.21%
+2017-11-03,BIP,Brookfield Infr...,"15,147",bmo,0.82,--,--,--,0.19%
+2017-11-03,SHLX,Shell Midstream...,"4,823",bmo,0.29,--,--,--,2.25%
+2017-11-03,WPC,W.p. Carey Inc....,"14,140",bmo,1.16,--,--,--,2.61%
+2017-11-03,HMSY,Hms Holdings Co...,"2,958",bmo,0.22,--,--,--,-17.53%
+2017-11-03,CNP,Centerpoint Ene...,"14,784",bmo,0.41,--,--,--,-0.50%
+2017-11-03,BPL,Buckeye Partner...,"6,338",bmo,0.86,--,--,--,-1.27%
+2017-11-03,AFLYY,Air France-klm...,"4,243",--,1.65,--,--,--,--
+2017-11-03,DOC,Physicians Real...,"3,244",bmo,0.27,--,--,--,-1.03%
+2017-11-03,SPKE,"Spark Energy, I...",400,amc,0.28,--,--,--,-9.63%
+2017-11-03,KNOP,Knot Offshore P...,640,bmo,0.62,--,--,--,0.87%
+2017-11-03,AXL,American Axle &...,"1,320",bmo,0.64,--,--,--,5.11%
+2017-11-03,NAT,Nordic American...,321,--,-0.24,--,--,--,--
+2017-11-03,IMGN,"Immunogen, Inc....",357,bmo,-0.28,--,--,--,6.03%
+2017-11-03,USCR,"U S Concrete, I...",851,bmo,1.3,--,--,--,1.03%
+2017-11-03,TRGP,Targa Resources...,"9,357",bmo,-0.1,--,--,--,2.50%
+2017-11-03,AINV,Apollo Investme...,"1,096",bmo,0.48,--,--,--,3.75%
+2017-11-03,FTS,Fortis Inc.,"17,264",bmo,0.46,--,--,--,1.78%
+2017-11-03,OBLN,Obalon Therptcs...,19,bmo,-0.43,--,--,--,5.91%
+2017-11-03,MCO,Moody's Corpora...,"38,191",bmo,1.4,--,--,--,1.92%
+2017-11-03,DVAX,Dynavax Technol...,260,--,-0.52,--,--,--,--

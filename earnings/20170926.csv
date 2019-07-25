@@ -1,9 +1,9 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,MU,Micron Technolo...,"43,512",amc,1.84,--,--,--,8.51%
-1,NKE,"Nike, Inc.","136,459",amc,0.48,--,--,--,-1.92%
-2,DRI,Darden Restaura...,"15,205",bmo,0.98,--,--,--,-6.53%
-3,CCL,Carnival Corpor...,"24,720",--,2.20,--,--,--,--
-4,CTAS,Cintas Corporat...,"25,048",amc,1.29,--,--,--,5.81%
-5,INFO,Ihs Markit Ltd....,"25,916",bmo,0.53,--,--,--,-8.64%
-6,FDS,Factset Researc...,"11,298",bmo,1.89,--,--,--,5.35%
-7,LNDC,Landec Corporat...,299,--,0.06,--,--,--,--
+2017-09-26,MU,Micron Technolo...,"43,512",amc,1.84,--,--,--,8.51%
+2017-09-26,NKE,"Nike, Inc.","136,459",amc,0.48,--,--,--,-1.92%
+2017-09-26,DRI,Darden Restaura...,"15,205",bmo,0.98,--,--,--,-6.53%
+2017-09-26,CCL,Carnival Corpor...,"24,720",--,2.2,--,--,--,--
+2017-09-26,CTAS,Cintas Corporat...,"25,048",amc,1.29,--,--,--,5.81%
+2017-09-26,INFO,Ihs Markit Ltd....,"25,916",bmo,0.53,--,--,--,-8.64%
+2017-09-26,FDS,Factset Researc...,"11,298",bmo,1.89,--,--,--,5.35%
+2017-09-26,LNDC,Landec Corporat...,299,--,0.06,--,--,--,--

@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,SFIX,"Stitch Fix, Inc...","3,128",amc,0.06,--,--,--,-3.61%
-1,COUP,Coupa Software,"8,491",amc,-0.15,--,--,--,-3.36%
-2,CRBP,Corbus Pharmace...,441,--,-0.16,--,--,--,--
-3,TLYS,"Tilly's, Inc.",234,amc,0.25,--,--,--,-17.50%
-4,ZYNE,Zynerba Pharmac...,325,--,-0.61,--,--,--,--
-5,KRO,Kronos Worldwid...,"1,769",amc,0.49,--,--,--,-0.13%
-6,TPVG,Triplepoint Ven...,356,amc,0.32,--,--,--,3.31%
-7,ADXS,"Advaxis, Inc.",10,amc,-8.70,--,--,--,-11.76%
-8,CLAR,Clarus Corporat...,434,amc,0.18,--,--,--,2.17%
-9,VNET,"21vianet Group,...",901,amc,-0.12,--,--,--,-0.85%
-10,CVGI,Commercial Vehi...,245,amc,0.13,--,--,--,-19.96%
-11,TRHC,Tabula Rasa Hea...,"1,129",amc,0.17,--,--,--,-7.09%
-12,ACRS,Aclaris Therape...,97,bmo,-0.90,--,--,--,-7.19%
-13,QD,Qudian Inc. Spo...,"2,657",bmo,0.32,--,--,--,4.16%
-14,ADES,Advanced Emissi...,243,amc,0.33,--,--,--,-2.20%
-15,EIGR,Eiger Biopharma...,195,--,-1.02,--,--,--,--
-16,AIMT,Aimmune Therape...,"1,299",--,-0.72,--,--,--,--
-17,IOVA,Lion Biotechnol...,"3,030",amc,-0.32,--,--,--,-8.88%
-18,PAM,Pampa Energia S...,"2,470",--,0.74,--,--,--,--
-19,TTEC,Teletech Holdin...,"2,097",amc,0.60,--,--,--,-7.41%
-20,LBRT,Liberty Oilfiel...,"1,780",amc,0.66,--,--,--,-2.90%
-21,AMPH,Amphastar Pharm...,983,amc,-0.04,--,--,--,3.93%
-22,WVE,Wave Life Scien...,915,--,-1.00,--,--,--,--
-23,VRAY,"Viewray, Inc.",843,bmo,-0.25,--,--,--,-3.58%
-24,KURA,"Kura Oncology,...",756,amc,-0.34,--,--,--,-2.80%
+2018-03-12,SFIX,"Stitch Fix, Inc...","3,128",amc,0.06,--,--,--,-3.61%
+2018-03-12,COUP,Coupa Software,"8,491",amc,-0.15,--,--,--,-3.36%
+2018-03-12,CRBP,Corbus Pharmace...,441,--,-0.16,--,--,--,--
+2018-03-12,TLYS,"Tilly's, Inc.",234,amc,0.25,--,--,--,-17.50%
+2018-03-12,ZYNE,Zynerba Pharmac...,325,--,-0.61,--,--,--,--
+2018-03-12,KRO,Kronos Worldwid...,"1,769",amc,0.49,--,--,--,-0.13%
+2018-03-12,TPVG,Triplepoint Ven...,356,amc,0.32,--,--,--,3.31%
+2018-03-12,ADXS,"Advaxis, Inc.",10,amc,-8.7,--,--,--,-11.76%
+2018-03-12,CLAR,Clarus Corporat...,434,amc,0.18,--,--,--,2.17%
+2018-03-12,VNET,"21vianet Group,...",901,amc,-0.12,--,--,--,-0.85%
+2018-03-12,CVGI,Commercial Vehi...,245,amc,0.13,--,--,--,-19.96%
+2018-03-12,TRHC,Tabula Rasa Hea...,"1,129",amc,0.17,--,--,--,-7.09%
+2018-03-12,ACRS,Aclaris Therape...,97,bmo,-0.9,--,--,--,-7.19%
+2018-03-12,QD,Qudian Inc. Spo...,"2,657",bmo,0.32,--,--,--,4.16%
+2018-03-12,ADES,Advanced Emissi...,243,amc,0.33,--,--,--,-2.20%
+2018-03-12,EIGR,Eiger Biopharma...,195,--,-1.02,--,--,--,--
+2018-03-12,AIMT,Aimmune Therape...,"1,299",--,-0.72,--,--,--,--
+2018-03-12,IOVA,Lion Biotechnol...,"3,030",amc,-0.32,--,--,--,-8.88%
+2018-03-12,PAM,Pampa Energia S...,"2,470",--,0.74,--,--,--,--
+2018-03-12,TTEC,Teletech Holdin...,"2,097",amc,0.6,--,--,--,-7.41%
+2018-03-12,LBRT,Liberty Oilfiel...,"1,780",amc,0.66,--,--,--,-2.90%
+2018-03-12,AMPH,Amphastar Pharm...,983,amc,-0.04,--,--,--,3.93%
+2018-03-12,WVE,Wave Life Scien...,915,--,-1.0,--,--,--,--
+2018-03-12,VRAY,"Viewray, Inc.",843,bmo,-0.25,--,--,--,-3.58%
+2018-03-12,KURA,"Kura Oncology,...",756,amc,-0.34,--,--,--,-2.80%

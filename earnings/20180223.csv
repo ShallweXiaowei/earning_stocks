@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ABR,Arbor Realty Tr...,"1,173",bmo,0.20,--,--,--,2.41%
-1,HUN,Huntsman Corpor...,"4,776",bmo,0.66,--,--,--,0.96%
-2,COG,Cabot Oil & Gas...,"10,006",bmo,0.12,--,--,--,2.43%
-3,TCP,"Tc Pipelines, L...","2,764",bmo,0.78,--,--,--,-0.27%
-4,WPC,W.p. Carey Inc....,"14,140",bmo,1.12,--,--,--,1.10%
-5,HMSY,Hms Holdings Co...,"2,958",bmo,0.22,--,--,--,5.87%
-6,USM,United States C...,"4,062",bmo,-0.08,--,--,--,11.14%
-7,RY,Royal Bank Of C...,"116,123",bmo,1.57,--,--,--,0.96%
-8,TDS,Telephone And D...,"3,605",bmo,-0.02,--,--,--,10.83%
-9,ETR,Entergy Corpora...,"19,781",bmo,0.42,--,--,--,3.61%
-10,KBR,"Kbr, Inc.","3,531",bmo,0.30,--,--,--,-15.58%
-11,PEG,Public Service...,"30,108",bmo,0.56,--,--,--,2.75%
-12,ICAGY,International C...,"4,653",--,0.57,--,--,--,--
-13,PNW,Pinnacle West C...,"10,699",bmo,0.10,--,--,--,4.44%
-14,TWI,Titan Internati...,277,bmo,-0.13,--,--,--,18.41%
-15,ERF,Enerplus Corpor...,"1,756",bmo,0.08,--,--,--,9.55%
-16,CNK,Cinemark Holdin...,"4,351",bmo,0.47,--,--,--,6.42%
-17,RHP,Ryman Hospitali...,"4,183",bmo,1.62,--,--,--,4.41%
-18,NWN,Northwest Natur...,"2,026",bmo,0.97,--,--,--,2.93%
-19,INSM,"Insmed, Inc.","1,935",bmo,-0.67,--,--,--,5.98%
-20,ASIX,Advansix Inc.,716,bmo,0.50,--,--,--,10.36%
-21,SNR,New Senior Inve...,566,bmo,0.28,--,--,--,12.32%
-22,VNTR,Venator Materia...,562,bmo,0.66,--,--,--,-7.43%
-23,DGICA,"Donegal Group,...",423,bmo,0.39,--,--,--,-3.09%
-24,GPL,Great Panther S...,218,bmo,0.01,--,--,--,3.42%
+2018-02-23,ABR,Arbor Realty Tr...,"1,173",bmo,0.2,--,--,--,2.41%
+2018-02-23,HUN,Huntsman Corpor...,"4,776",bmo,0.66,--,--,--,0.96%
+2018-02-23,COG,Cabot Oil & Gas...,"10,006",bmo,0.12,--,--,--,2.43%
+2018-02-23,TCP,"Tc Pipelines, L...","2,764",bmo,0.78,--,--,--,-0.27%
+2018-02-23,WPC,W.p. Carey Inc....,"14,140",bmo,1.12,--,--,--,1.10%
+2018-02-23,HMSY,Hms Holdings Co...,"2,958",bmo,0.22,--,--,--,5.87%
+2018-02-23,USM,United States C...,"4,062",bmo,-0.08,--,--,--,11.14%
+2018-02-23,RY,Royal Bank Of C...,"116,123",bmo,1.57,--,--,--,0.96%
+2018-02-23,TDS,Telephone And D...,"3,605",bmo,-0.02,--,--,--,10.83%
+2018-02-23,ETR,Entergy Corpora...,"19,781",bmo,0.42,--,--,--,3.61%
+2018-02-23,KBR,"Kbr, Inc.","3,531",bmo,0.3,--,--,--,-15.58%
+2018-02-23,PEG,Public Service...,"30,108",bmo,0.56,--,--,--,2.75%
+2018-02-23,ICAGY,International C...,"4,653",--,0.57,--,--,--,--
+2018-02-23,PNW,Pinnacle West C...,"10,699",bmo,0.1,--,--,--,4.44%
+2018-02-23,TWI,Titan Internati...,277,bmo,-0.13,--,--,--,18.41%
+2018-02-23,ERF,Enerplus Corpor...,"1,756",bmo,0.08,--,--,--,9.55%
+2018-02-23,CNK,Cinemark Holdin...,"4,351",bmo,0.47,--,--,--,6.42%
+2018-02-23,RHP,Ryman Hospitali...,"4,183",bmo,1.62,--,--,--,4.41%
+2018-02-23,NWN,Northwest Natur...,"2,026",bmo,0.97,--,--,--,2.93%
+2018-02-23,INSM,"Insmed, Inc.","1,935",bmo,-0.67,--,--,--,5.98%
+2018-02-23,ASIX,Advansix Inc.,716,bmo,0.5,--,--,--,10.36%
+2018-02-23,SNR,New Senior Inve...,566,bmo,0.28,--,--,--,12.32%
+2018-02-23,VNTR,Venator Materia...,562,bmo,0.66,--,--,--,-7.43%
+2018-02-23,DGICA,"Donegal Group,...",423,bmo,0.39,--,--,--,-3.09%
+2018-02-23,GPL,Great Panther S...,218,bmo,0.01,--,--,--,3.42%

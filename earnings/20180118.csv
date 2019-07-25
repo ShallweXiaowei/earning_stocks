@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,IBM,International B...,"125,354",amc,5.17,--,--,--,-3.99%
-1,AXP,American Expres...,"104,719",amc,1.54,--,--,--,-1.83%
-2,MS,Morgan Stanley,"74,372",bmo,0.77,--,--,--,0.89%
-3,TEAM,Atlassian Corpo...,"14,349",amc,0.12,--,--,--,-4.55%
-4,KEY,Keycorp,"18,149",bmo,0.36,--,--,--,-2.07%
-5,MLNX,Mellanox Techno...,"6,146",amc,0.68,--,--,--,1.00%
-6,TSM,Taiwan Semicond...,"207,080",bmo,0.63,--,--,--,3.34%
-7,BBT,Bb&t Corporatio...,"38,250",bmo,0.80,--,--,--,1.61%
-8,BK,The Bank Of New...,"42,638",bmo,0.91,--,--,--,-4.39%
-9,MTG,Mgic Investment...,"4,952",bmo,0.27,--,--,--,3.09%
-10,CP,Canadian Pacifi...,"33,355",amc,2.57,--,--,--,2.47%
-11,PPG,"Ppg Industries,...","27,851",bmo,1.18,--,--,--,3.41%
-12,PACW,Pacwest Bancorp...,"4,605",--,0.75,--,--,--,--
-13,JBHT,J.b. Hunt Trans...,"9,880",bmo,1.03,--,--,--,0.66%
-14,PBCT,People's United...,"6,772",amc,0.27,--,--,--,3.35%
-15,MTB,M&t Bank Corpor...,"23,774",bmo,2.40,--,--,--,3.87%
-16,SBNY,Signature Bank,"6,883",bmo,2.23,--,--,--,3.64%
-17,CBSH,Commerce Bancsh...,"6,702",bmo,0.68,--,--,--,0.47%
-18,HOMB,Home Bancshares...,"3,308",bmo,0.34,--,--,--,-3.36%
-19,WNS,Wns (holdings)...,"3,030",bmo,0.50,--,--,--,5.38%
-20,GATX,Gatx Corporatio...,"2,821",bmo,0.72,--,--,--,0.78%
-21,INDB,Independent Ban...,"2,596",amc,0.88,--,--,--,1.52%
-22,FFBC,First Financial...,"2,425",amc,0.41,--,--,--,5.23%
-23,BANF,Bancfirst Corpo...,"1,849",--,0.68,--,--,--,--
-24,SASR,Sandy Spring Ba...,"1,267",bmo,0.63,--,--,--,-0.54%
+2018-01-18,IBM,International B...,"125,354",amc,5.17,--,--,--,-3.99%
+2018-01-18,AXP,American Expres...,"104,719",amc,1.54,--,--,--,-1.83%
+2018-01-18,MS,Morgan Stanley,"74,372",bmo,0.77,--,--,--,0.89%
+2018-01-18,TEAM,Atlassian Corpo...,"14,349",amc,0.12,--,--,--,-4.55%
+2018-01-18,KEY,Keycorp,"18,149",bmo,0.36,--,--,--,-2.07%
+2018-01-18,MLNX,Mellanox Techno...,"6,146",amc,0.68,--,--,--,1.00%
+2018-01-18,TSM,Taiwan Semicond...,"207,080",bmo,0.63,--,--,--,3.34%
+2018-01-18,BBT,Bb&t Corporatio...,"38,250",bmo,0.8,--,--,--,1.61%
+2018-01-18,BK,The Bank Of New...,"42,638",bmo,0.91,--,--,--,-4.39%
+2018-01-18,MTG,Mgic Investment...,"4,952",bmo,0.27,--,--,--,3.09%
+2018-01-18,CP,Canadian Pacifi...,"33,355",amc,2.57,--,--,--,2.47%
+2018-01-18,PPG,"Ppg Industries,...","27,851",bmo,1.18,--,--,--,3.41%
+2018-01-18,PACW,Pacwest Bancorp...,"4,605",--,0.75,--,--,--,--
+2018-01-18,JBHT,J.b. Hunt Trans...,"9,880",bmo,1.03,--,--,--,0.66%
+2018-01-18,PBCT,People's United...,"6,772",amc,0.27,--,--,--,3.35%
+2018-01-18,MTB,M&t Bank Corpor...,"23,774",bmo,2.4,--,--,--,3.87%
+2018-01-18,SBNY,Signature Bank,"6,883",bmo,2.23,--,--,--,3.64%
+2018-01-18,CBSH,Commerce Bancsh...,"6,702",bmo,0.68,--,--,--,0.47%
+2018-01-18,HOMB,Home Bancshares...,"3,308",bmo,0.34,--,--,--,-3.36%
+2018-01-18,WNS,Wns (holdings)...,"3,030",bmo,0.5,--,--,--,5.38%
+2018-01-18,GATX,Gatx Corporatio...,"2,821",bmo,0.72,--,--,--,0.78%
+2018-01-18,INDB,Independent Ban...,"2,596",amc,0.88,--,--,--,1.52%
+2018-01-18,FFBC,First Financial...,"2,425",amc,0.41,--,--,--,5.23%
+2018-01-18,BANF,Bancfirst Corpo...,"1,849",--,0.68,--,--,--,--
+2018-01-18,SASR,Sandy Spring Ba...,"1,267",bmo,0.63,--,--,--,-0.54%

@@ -1,6 +1,6 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,FDX,Fedex Corporati...,"42,205",amc,5.72,5.91,+0.19 ,+3.32% ,-2.69%
-1,ORCL,Oracle Corporat...,"197,747",amc,0.94,0.99,+0.05 ,+5.32% ,-7.46%
-2,ASHTY,Ashtead Group P...,"14,073",--,1.50,1.38,-0.12 ,-8.00% ,--
-3,LZB,La-z-boy Incorp...,"1,479",amc,0.64,0.66,+0.02 ,+3.13% ,-4.51%
-4,SECO,Secoo Holding L...,162,bmo,0.10,--,--,--,-6.04%
+2018-06-19,FDX,Fedex Corporati...,"42,205",amc,5.72,5.91,+0.19 ,+3.32% ,-2.69%
+2018-06-19,ORCL,Oracle Corporat...,"197,747",amc,0.94,0.99,+0.05 ,+5.32% ,-7.46%
+2018-06-19,ASHTY,Ashtead Group P...,"14,073",--,1.5,1.38,-0.12 ,-8.00% ,--
+2018-06-19,LZB,La-z-boy Incorp...,"1,479",amc,0.64,0.66,+0.02 ,+3.13% ,-4.51%
+2018-06-19,SECO,Secoo Holding L...,162,bmo,0.1,--,--,--,-6.04%

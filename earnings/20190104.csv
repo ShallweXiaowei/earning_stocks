@@ -1,4 +1,4 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,LW,Lamb Weston Hol...,"9,411",bmo,0.70,0.80,+0.10 ,+14.29% ,3.56%
-1,RPM,Rpm Internation...,"8,158",bmo,0.66,0.52,-0.14 ,-21.21% ,-4.77%
-2,ANGO,"Angiodynamics,...",760,bmo,0.21,0.22,+0.01 ,+4.76% ,10.76%
+2019-01-04,LW,Lamb Weston Hol...,"9,411",bmo,0.7,0.8,0.1,+14.29% ,3.56%
+2019-01-04,RPM,Rpm Internation...,"8,158",bmo,0.66,0.52,-0.14,-21.21% ,-4.77%
+2019-01-04,ANGO,"Angiodynamics,...",760,bmo,0.21,0.22,0.01,+4.76% ,10.76%

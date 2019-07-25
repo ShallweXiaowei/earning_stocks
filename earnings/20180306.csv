@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,HEAR,Turtle Beach Co...,159,amc,1.16,--,--,--,-8.89%
-1,TGT,Target Corporat...,"45,413",bmo,1.39,--,--,--,-4.46%
-2,AVAV,"Aerovironment,...","1,348",amc,0.09,--,--,--,-14.88%
-3,EDIT,Editas Medicine...,"1,184",amc,-0.79,--,--,--,9.99%
-4,CIEN,Ciena Corporati...,"6,667",bmo,0.12,--,--,--,10.06%
-5,ROST,"Ross Stores, In...","36,790",amc,0.93,--,--,--,-6.35%
-6,MED,Medifast Inc,"1,456",amc,0.48,--,--,--,30.88%
-7,URBN,Urban Outfitter...,"2,312",amc,0.63,--,--,--,0.24%
-8,TRXC,"Transenterix, I...",285,amc,-0.06,--,--,--,-2.13%
-9,ADSK,"Autodesk, Inc.","37,825",amc,-0.12,--,--,--,14.87%
-10,MTLS,Materialise Nv,917,bmo,0.02,--,--,--,4.31%
-11,RUN,Sunrun Inc.,"2,327",amc,0.37,--,--,--,-9.02%
-12,HRZN,Horizon Technol...,163,amc,0.24,--,--,--,-1.62%
-13,CVNA,Carvana Co.,"9,889",amc,-0.34,--,--,--,-6.53%
-14,AFI,Armstrong Floor...,265,bmo,-0.20,--,--,--,-2.35%
-15,AMRC,"Ameresco, Inc.",711,bmo,0.14,--,--,--,18.56%
-16,BTE,Baytex Energy C...,818,bmo,-0.11,--,--,--,4.74%
-17,GMS,Gms Inc.,924,bmo,0.40,--,--,--,-1.22%
-18,KFY,Korn/ferry Inte...,"2,207",amc,0.59,--,--,--,12.76%
-19,HRB,"H&r Block, Inc....","5,823",amc,-1.33,--,--,--,11.49%
-20,SCM,Stellus Capital...,265,--,0.30,--,--,--,--
-21,SPPI,Spectrum Pharma...,960,amc,-0.25,--,--,--,-14.56%
-22,SOI,Solaris Oilfiel...,656,amc,0.19,--,--,--,-6.74%
-23,GWRE,Guidewire Softw...,"8,362",amc,0.19,--,--,--,6.97%
-24,ABM,Abm Industries...,"2,703",amc,0.28,--,--,--,1.74%
+2018-03-06,HEAR,Turtle Beach Co...,159,amc,1.16,--,--,--,-8.89%
+2018-03-06,TGT,Target Corporat...,"45,413",bmo,1.39,--,--,--,-4.46%
+2018-03-06,AVAV,"Aerovironment,...","1,348",amc,0.09,--,--,--,-14.88%
+2018-03-06,EDIT,Editas Medicine...,"1,184",amc,-0.79,--,--,--,9.99%
+2018-03-06,CIEN,Ciena Corporati...,"6,667",bmo,0.12,--,--,--,10.06%
+2018-03-06,ROST,"Ross Stores, In...","36,790",amc,0.93,--,--,--,-6.35%
+2018-03-06,MED,Medifast Inc,"1,456",amc,0.48,--,--,--,30.88%
+2018-03-06,URBN,Urban Outfitter...,"2,312",amc,0.63,--,--,--,0.24%
+2018-03-06,TRXC,"Transenterix, I...",285,amc,-0.06,--,--,--,-2.13%
+2018-03-06,ADSK,"Autodesk, Inc.","37,825",amc,-0.12,--,--,--,14.87%
+2018-03-06,MTLS,Materialise Nv,917,bmo,0.02,--,--,--,4.31%
+2018-03-06,RUN,Sunrun Inc.,"2,327",amc,0.37,--,--,--,-9.02%
+2018-03-06,HRZN,Horizon Technol...,163,amc,0.24,--,--,--,-1.62%
+2018-03-06,CVNA,Carvana Co.,"9,889",amc,-0.34,--,--,--,-6.53%
+2018-03-06,AFI,Armstrong Floor...,265,bmo,-0.2,--,--,--,-2.35%
+2018-03-06,AMRC,"Ameresco, Inc.",711,bmo,0.14,--,--,--,18.56%
+2018-03-06,BTE,Baytex Energy C...,818,bmo,-0.11,--,--,--,4.74%
+2018-03-06,GMS,Gms Inc.,924,bmo,0.4,--,--,--,-1.22%
+2018-03-06,KFY,Korn/ferry Inte...,"2,207",amc,0.59,--,--,--,12.76%
+2018-03-06,HRB,"H&r Block, Inc....","5,823",amc,-1.33,--,--,--,11.49%
+2018-03-06,SCM,Stellus Capital...,265,--,0.3,--,--,--,--
+2018-03-06,SPPI,Spectrum Pharma...,960,amc,-0.25,--,--,--,-14.56%
+2018-03-06,SOI,Solaris Oilfiel...,656,amc,0.19,--,--,--,-6.74%
+2018-03-06,GWRE,Guidewire Softw...,"8,362",amc,0.19,--,--,--,6.97%
+2018-03-06,ABM,Abm Industries...,"2,703",amc,0.28,--,--,--,1.74%

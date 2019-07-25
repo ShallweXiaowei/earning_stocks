@@ -1,20 +1,20 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,SGH,Smart Global Ho...,562,amc,0.64,--,--,--,19.02%
-1,RAD,Rite Aid Corpor...,490,bmo,-0.20,--,--,--,-10.96%
-2,MKC,Mccormick & Com...,"21,395",bmo,1.05,--,--,--,5.39%
-3,ACN,Accenture Plc,"128,607",bmo,1.47,--,--,--,-0.23%
-4,CAG,Conagra Brands...,"13,635",bmo,0.41,--,--,--,1.83%
-5,KBH,Kb Home,"2,262",amc,0.47,--,--,--,8.55%
-6,FGP,Ferrellgas Part...,99,bmo,-0.45,--,--,--,-0.38%
-7,MTN,"Vail Resorts, I...","8,967",bmo,-1.82,--,--,--,-2.74%
-8,CMD,Cantel Medical...,"3,303",bmo,0.52,--,--,--,3.34%
-9,ANGO,"Angiodynamics,...",760,bmo,0.16,--,--,--,-13.17%
-10,OMN,Omnova Solution...,446,bmo,0.19,--,--,--,9.19%
-11,CAMP,Calamp Corp.,380,amc,0.27,--,--,--,10.09%
-12,FARM,Farmer Brothers...,297,amc,0.15,--,--,--,7.35%
-13,SKYS,Sky Solar Holdi...,207,bmo,0.01,--,--,--,18.40%
-14,MAMS,Mam Software Gr...,140,amc,0.06,--,--,--,5.64%
-15,BSET,Bassett Furnitu...,135,--,0.38,--,--,--,--
-16,HEOFF,H2o Innovation...,51,bmo,-0.02,--,--,--,0.00%
-17,AEHR,Aehr Test Syste...,36,amc,-0.01,--,--,--,16.19%
-18,HHS,"Harte-hanks, In...",17,bmo,-0.30,--,--,--,8.70%
+2017-09-28,SGH,Smart Global Ho...,562,amc,0.64,--,--,--,19.02%
+2017-09-28,RAD,Rite Aid Corpor...,490,bmo,-0.2,--,--,--,-10.96%
+2017-09-28,MKC,Mccormick & Com...,"21,395",bmo,1.05,--,--,--,5.39%
+2017-09-28,ACN,Accenture Plc,"128,607",bmo,1.47,--,--,--,-0.23%
+2017-09-28,CAG,Conagra Brands...,"13,635",bmo,0.41,--,--,--,1.83%
+2017-09-28,KBH,Kb Home,"2,262",amc,0.47,--,--,--,8.55%
+2017-09-28,FGP,Ferrellgas Part...,99,bmo,-0.45,--,--,--,-0.38%
+2017-09-28,MTN,"Vail Resorts, I...","8,967",bmo,-1.82,--,--,--,-2.74%
+2017-09-28,CMD,Cantel Medical...,"3,303",bmo,0.52,--,--,--,3.34%
+2017-09-28,ANGO,"Angiodynamics,...",760,bmo,0.16,--,--,--,-13.17%
+2017-09-28,OMN,Omnova Solution...,446,bmo,0.19,--,--,--,9.19%
+2017-09-28,CAMP,Calamp Corp.,380,amc,0.27,--,--,--,10.09%
+2017-09-28,FARM,Farmer Brothers...,297,amc,0.15,--,--,--,7.35%
+2017-09-28,SKYS,Sky Solar Holdi...,207,bmo,0.01,--,--,--,18.40%
+2017-09-28,MAMS,Mam Software Gr...,140,amc,0.06,--,--,--,5.64%
+2017-09-28,BSET,Bassett Furnitu...,135,--,0.38,--,--,--,--
+2017-09-28,HEOFF,H2o Innovation...,51,bmo,-0.02,--,--,--,0.00%
+2017-09-28,AEHR,Aehr Test Syste...,36,amc,-0.01,--,--,--,16.19%
+2017-09-28,HHS,"Harte-hanks, In...",17,bmo,-0.3,--,--,--,8.70%

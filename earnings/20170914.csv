@@ -1,8 +1,8 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ORCL,Oracle Corporat...,"197,747",amc,0.61,--,--,--,-7.67%
-1,SANW,S&w Seed Compan...,94,amc,-0.05,--,--,--,1.56%
-2,ASPU,Aspen Group Inc...,80,amc,-0.03,--,--,--,-2.31%
-3,VIRC,Virco Manufactu...,74,--,0.34,--,--,--,--
-4,LPTH,Lightpath Techn...,26,amc,0.04,--,--,--,8.30%
-5,PBSV,Pharma-bio Serv...,22,--,-0.01,--,--,--,--
-6,CPAH,Counterpath Cor...,9,--,-0.14,--,--,--,--
+2017-09-14,ORCL,Oracle Corporat...,"197,747",amc,0.61,--,--,--,-7.67%
+2017-09-14,SANW,S&w Seed Compan...,94,amc,-0.05,--,--,--,1.56%
+2017-09-14,ASPU,Aspen Group Inc...,80,amc,-0.03,--,--,--,-2.31%
+2017-09-14,VIRC,Virco Manufactu...,74,--,0.34,--,--,--,--
+2017-09-14,LPTH,Lightpath Techn...,26,amc,0.04,--,--,--,8.30%
+2017-09-14,PBSV,Pharma-bio Serv...,22,--,-0.01,--,--,--,--
+2017-09-14,CPAH,Counterpath Cor...,9,--,-0.14,--,--,--,--

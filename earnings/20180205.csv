@@ -1,26 +1,26 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,BMY,Bristol-myers S...,"75,063",bmo,0.67,--,--,--,-3.97%
-1,FTNT,"Fortinet, Inc.","13,471",amc,0.29,--,--,--,6.18%
-2,SWKS,Skyworks Soluti...,"13,872",amc,1.91,--,--,--,10.44%
-3,GWPH,Gw Pharmaceutic...,"5,188",amc,-2.03,--,--,--,-2.27%
-4,NMM,Navios Maritime...,175,bmo,0.45,--,--,--,0.48%
-5,CHD,Church & Dwight...,"18,301",bmo,0.50,--,--,--,2.35%
-6,ARNC,Arconic Inc.,"11,709",bmo,0.24,--,--,--,-8.90%
-7,HES,Hess Corporatio...,"19,120",bmo,-0.90,--,--,--,-6.91%
-8,SYY,Sysco Corporati...,"36,878",bmo,0.65,--,--,--,-6.05%
-9,CSWC,Capital Southwe...,373,amc,0.26,--,--,--,3.61%
-10,CRUS,"Cirrus Logic, I...","2,577",amc,1.77,--,--,--,-3.32%
-11,BAH,Booz Allen Hami...,"9,519",bmo,0.43,--,--,--,-4.97%
-12,MCY,Mercury General...,"3,587",bmo,0.33,--,--,--,-12.39%
-13,LEG,Leggett & Platt...,"5,106",amc,0.61,--,--,--,4.90%
-14,AMSC,American Superc...,208,--,-0.35,--,--,--,--
-15,NOV,National Oilwel...,"8,467",amc,-0.04,--,--,--,4.55%
-16,FN,Fabrinet,"1,882",amc,0.70,--,--,--,24.74%
-17,GLAD,Gladstone Capit...,277,amc,0.21,--,--,--,-1.41%
-18,BMI,"Badger Meter, I...","1,728",amc,0.23,--,--,--,3.68%
-19,ITUB,Itau Unibanco H...,"94,420",amc,0.19,--,--,--,3.82%
-20,CPST,Capstone Turbin...,59,amc,-0.06,--,--,--,2.99%
-21,SDVKY,Sandvik Ab,"21,971",bmo,0.19,--,--,--,-5.33%
-22,SZKMY,Suzuki Motor Cp...,"21,014",--,3.77,--,--,--,--
-23,BAP,Credicorp Ltd.,"19,013",amc,3.58,--,--,--,1.86%
-24,RYAAY,Ryanair Holding...,"15,848",--,0.50,--,--,--,--
+2018-02-05,BMY,Bristol-myers S...,"75,063",bmo,0.67,--,--,--,-3.97%
+2018-02-05,FTNT,"Fortinet, Inc.","13,471",amc,0.29,--,--,--,6.18%
+2018-02-05,SWKS,Skyworks Soluti...,"13,872",amc,1.91,--,--,--,10.44%
+2018-02-05,GWPH,Gw Pharmaceutic...,"5,188",amc,-2.03,--,--,--,-2.27%
+2018-02-05,NMM,Navios Maritime...,175,bmo,0.45,--,--,--,0.48%
+2018-02-05,CHD,Church & Dwight...,"18,301",bmo,0.5,--,--,--,2.35%
+2018-02-05,ARNC,Arconic Inc.,"11,709",bmo,0.24,--,--,--,-8.90%
+2018-02-05,HES,Hess Corporatio...,"19,120",bmo,-0.9,--,--,--,-6.91%
+2018-02-05,SYY,Sysco Corporati...,"36,878",bmo,0.65,--,--,--,-6.05%
+2018-02-05,CSWC,Capital Southwe...,373,amc,0.26,--,--,--,3.61%
+2018-02-05,CRUS,"Cirrus Logic, I...","2,577",amc,1.77,--,--,--,-3.32%
+2018-02-05,BAH,Booz Allen Hami...,"9,519",bmo,0.43,--,--,--,-4.97%
+2018-02-05,MCY,Mercury General...,"3,587",bmo,0.33,--,--,--,-12.39%
+2018-02-05,LEG,Leggett & Platt...,"5,106",amc,0.61,--,--,--,4.90%
+2018-02-05,AMSC,American Superc...,208,--,-0.35,--,--,--,--
+2018-02-05,NOV,National Oilwel...,"8,467",amc,-0.04,--,--,--,4.55%
+2018-02-05,FN,Fabrinet,"1,882",amc,0.7,--,--,--,24.74%
+2018-02-05,GLAD,Gladstone Capit...,277,amc,0.21,--,--,--,-1.41%
+2018-02-05,BMI,"Badger Meter, I...","1,728",amc,0.23,--,--,--,3.68%
+2018-02-05,ITUB,Itau Unibanco H...,"94,420",amc,0.19,--,--,--,3.82%
+2018-02-05,CPST,Capstone Turbin...,59,amc,-0.06,--,--,--,2.99%
+2018-02-05,SDVKY,Sandvik Ab,"21,971",bmo,0.19,--,--,--,-5.33%
+2018-02-05,SZKMY,Suzuki Motor Cp...,"21,014",--,3.77,--,--,--,--
+2018-02-05,BAP,Credicorp Ltd.,"19,013",amc,3.58,--,--,--,1.86%
+2018-02-05,RYAAY,Ryanair Holding...,"15,848",--,0.5,--,--,--,--

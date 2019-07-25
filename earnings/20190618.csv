@@ -1,5 +1,5 @@
 ,symbol,company,cap,timing,est,report,surp,pct_surp,pct_ret
-0,ADBE,Adobe Systems I...,"148,967",amc,1.78,1.83,+0.05 ,+2.81% ,5.21%
-1,JBL,"Jabil, Inc.","4,626",amc,0.56,0.57,+0.01 ,+1.79% ,10.25%
-2,LZB,La-z-boy Incorp...,"1,517",amc,0.65,0.64,-0.01 ,-1.54% ,8.93%
-3,HX,Hexindai Inc. S...,113,bmo,-0.10,0.07,+0.17 ,+170.00% ,-4.45%
+2019-06-18,ADBE,Adobe Systems I...,"148,967",amc,1.78,1.83,0.05,+2.81% ,5.21%
+2019-06-18,JBL,"Jabil, Inc.","4,626",amc,0.56,0.57,0.01,+1.79% ,10.25%
+2019-06-18,LZB,La-z-boy Incorp...,"1,517",amc,0.65,0.64,-0.01,-1.54% ,8.93%
+2019-06-18,HX,Hexindai Inc. S...,113,bmo,-0.1,0.07,0.17,+170.00% ,-4.45%
