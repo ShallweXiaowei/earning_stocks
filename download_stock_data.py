@@ -28,7 +28,7 @@ for i in symbol_list:
     while 'close' not in data.columns:
         time.sleep(5)
         data = pd.read_csv(url)
-        print ('try %s'%i)
+        #print ('try %s'%i)
     
     data.index = data['timestamp'].map(lambda x: datetime.strptime(x, '%Y-%m-%d'))
     data = data.drop(['timestamp'], axis = 1)
