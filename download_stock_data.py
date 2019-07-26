@@ -29,12 +29,14 @@ for i in symbol_list:
     api = '8061RWJT6KZZKZMP'
     url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=%s&outputsize=%s&apikey=%s&datatype=csv'%(i,'full',api)
     data = pd.read_csv(url)
+    if "Invalid API call" in data['{'].iloc[0]:
+        continue 
+    
     while 'close' not in data.columns:
         time.sleep(5)
         data = pd.read_csv(url)
-        #print ('try %s'%i)
     
     data.index = data['timestamp'].map(lambda x: datetime.strptime(x, '%Y-%m-%d'))
     data = data.drop(['timestamp'], axis = 1)
     print ('downloaded %s'%i)
-    data.to_csv(os.getcwd() + '/stock_data/' + i + '.csv')        
+    data.to_csv(os.getcwd() + '/stock_data/' + i + '.csv')
