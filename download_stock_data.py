@@ -13,13 +13,17 @@ from datetime import datetime
 earning_folder = os.getcwd() + '/earnings/'
 files = os.listdir(earning_folder)
 
+
 symbol_list = []
 for i in files:
     df = pd.read_csv(earning_folder+i)
     for j in df['symbol']:
         if j not in symbol_list:
             symbol_list.append(j)
-            
+
+exist = os.listdir(os.getcwd() + '/stock_data/')
+exist = [x.split('.')[0] for x in exist]
+symbol_list = [x for x in symbol_list if x not in exist]
 
 for i in symbol_list:
     api = '8061RWJT6KZZKZMP'
@@ -32,4 +36,5 @@ for i in symbol_list:
     
     data.index = data['timestamp'].map(lambda x: datetime.strptime(x, '%Y-%m-%d'))
     data = data.drop(['timestamp'], axis = 1)
+    print ('downloaded %s'%i)
     data.to_csv(os.getcwd() + '/stock_data/' + i + '.csv')        
