@@ -33,7 +33,7 @@ for i in symbol_list:
         continue 
     
     while 'close' not in data.columns:
-        time.sleep(5)
+        time.sleep(30)
         data = pd.read_csv(url)
     
     data.index = data['timestamp'].map(lambda x: datetime.strptime(x, '%Y-%m-%d'))
