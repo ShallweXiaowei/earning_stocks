@@ -28,13 +28,14 @@ for i in files:
         if j not in symbol_list:
             symbol_list.append(j)
 
-exist = os.listdir(os.getcwd() + '/stock_data/')
+exist = os.listdir(os.getcwd() + '/intra_day_data/')
 exist = [x.split('.')[0] for x in exist]
 symbol_list = [x for x in symbol_list if x not in exist]
 
 for i in symbol_list:
     api = '8061RWJT6KZZKZMP'
     url = 'https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=%s&interval=%s&outputsize=full&apikey=%s&datatype=csv'%(i, '5min',api)
+    time.sleep(3)
     data = pd.read_csv(url)
     if "Invalid API call" in data.iloc[0].iloc[0]:
         continue 
