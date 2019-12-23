@@ -61,8 +61,9 @@ def clean_est(x):
         return float(x)
 
 if __name__ == '__main__':
-    df = concat_earning(100)
+    df = concat_earning(200)
     df['cap'] = df['cap'].map(lambda x: clean_cap(x))
+    df = df[df['timing'].isin(['amc','bmo'])]
     df['est'] = df['est'].map(lambda x: clean_est(x))
     df['report'] = df['report'].map(lambda x: clean_est(x))
     df['surp'] = df['report'] - df['est']
